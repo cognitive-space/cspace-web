@@ -1,0 +1,9 @@
+baseURL: https://www.cognitivespace.com/
+languageCode: en-us
+title: Cognitive Space
+theme: nostyle
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
