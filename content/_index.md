@@ -2,6 +2,7 @@
 title: ""
 date: 2020-07-06T00:00:00+08:00
 draft: false
+bodyclass: home page-template page-template-layout page-template-layout-php page page-id-13
 ---
 
 <article id="post-13" class="post-13 page type-page status-publish hentry">

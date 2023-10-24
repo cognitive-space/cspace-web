@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ $.Site.LanguageCode }}">
 	{{- partial "head.html" . -}}
-	<body class="home page-template page-template-layout page-template-layout-php page page-id-13">
+	<body class="{{- block "bc" . }}{{ .Params.bodyclass }}{{- end }}">
 		<div class="loader">
       <div id="universe">
         <div id="galaxy">
