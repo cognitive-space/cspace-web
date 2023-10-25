@@ -130,5 +130,3 @@ dist
 .pnp.*
 
 .hugo_build.lock
-
-static/lunr-index.json
