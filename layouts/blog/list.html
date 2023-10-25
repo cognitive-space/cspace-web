@@ -2,17 +2,18 @@
 
 {{ .Content }}
 
-{{ $paginator := .Paginate (where site.RegularPages "Section" "news") }}
+{{ $paginator := .Paginate (where site.RegularPages "Section" "blog") }}
 <section class="blog-list">
   <div class="container">
     <div class="row blog-list-detail">
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="blog wow animated fadeInUp">
-          <img src="{{ .Params.image }}" class="blog-img wp-post-image" decoding="async"/>
+          <img src="{{ .Params.image }}" class="blog-img wp-post-image"/>
           <div class="details">
             <div class="profile">
               <div>
+                <h3>{{ .Params.author }}</h3>
                 <p>{{ .Date.Format "2 January, 2006" }}</p>
               </div>
             </div>
@@ -20,11 +21,7 @@
             <p>
               <p>{{ .Description }}</p>
             </p>
-            {{ if .Params.external_url }}
-            <a href="{{ .Params.external_url }}" target="_blank">Read More <i class="bi bi-arrow-right"></i></a>
-            {{ else }}
             <a href="{{ .Permalink }}" target="_self">Read More <i class="bi bi-arrow-right"></i></a>
-            {{ end }}
           </div>
         </div>
       </div>
