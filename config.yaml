@@ -2,6 +2,7 @@ baseURL: https://www.cognitivespace.com/
 languageCode: en-us
 title: Cognitive Space
 theme: nostyle
+paginate: 12
 
 markup:
   goldmark:

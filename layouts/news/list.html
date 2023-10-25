@@ -2,6 +2,39 @@
 
 {{ .Content }}
 
-{{ partial "news_list.html" (dict "context" . "section" .Section)}}
-
+{{ $paginator := .Paginate (where site.RegularPages "Section" "news") }}
+<section class="blog-list">
+  <div class="container">
+    <div class="row blog-list-detail">
+      {{ range $paginator.Pages }}
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="blog wow animated fadeInUp">
+          <img width="1920" height="1080" src="{{ .Params.image }}" class="blog-img wp-post-image" decoding="async"/>
+          <div class="details">
+            <div class="profile">
+              <div>
+                <p>{{ .Date.Format "2 January, 2006" }}</p>
+              </div>
+            </div>
+            <h2>{{ .Title }}</h2>
+            <p>
+              <p>{{ .Description }}</p>
+            </p>
+            {{ if .Params.external_url }}
+            <a href="{{ .Params.external_url }}" target="_blank">Read More <i class="bi bi-arrow-right"></i></a>
+            {{ else }}
+            <a href="{{ .Permalink }}" target="_self">Read More <i class="bi bi-arrow-right"></i></a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <div class="col-md-12">
+      <nav aria-label="Page navigation example">
+        {{ template "_internal/pagination.html" . }}
+      </nav>
+    </div>
+  </div>
+</section>
 {{ end }}
