@@ -178,7 +178,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
           <h2 class="title"> OUR CORE VALUES</h2>
     <div class="row justify-content-center num-counter">
                         <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay1">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/value-1.svg" alt="" title="value-1" />
                                                   <h3>Seek Excellence</h3>
@@ -188,7 +188,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay2">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/value-2.svg" alt="" title="value-2" />
                                                   <h3>Be Audacious</h3>
@@ -198,7 +198,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay3">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/value-3.svg" alt="" title="value-3" />
                                                   <h3>Take Ownership</h3>
@@ -208,7 +208,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay4">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/value-4.svg" alt="" title="value-4" />
                                                   <h3>Build Trust</h3>
@@ -218,7 +218,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay5">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/value-5.svg" alt="" title="value-5" />
                                                   <h3>Execute Fiercely</h3>
@@ -329,63 +329,11 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
 </section>
 <!-- team section end -->
 
-
-
-
-
-<!-- hero section start -->
-<section id="iframe_block_92b7ffada66c9337f0753efe9c91fe1c" class="york-hero-banner space-hero career-hero"  >
-        <img decoding="async" src="/wp-content/uploads/2023/09/carrer_hero_bg.jpg" class="hero-bg" alt="" />
-    <span class="hero-top-shape"> <img decoding="async" src="/wp-content/uploads/2023/09/hero_top_shape.png" alt=""></span>
-      <span class="hero-bottom-shape"><img decoding="async" src="/wp-content/uploads/2023/09/hero_bottom_shape.png" alt=""> </span>
-    <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="align-center">
-          <div class="hero-content">
-                          <h1 class="wow animated fadeInUp delay4">JOIN THE COGNITIVE SPACE TEAM</h1>
-                        <p data-cursor="-opaque" class="wow animated fadeInUp delay5">
-              Want to start the next phase in your career by joining a market-shaping company? Join a passionate team of engineers, developers, data scientists, and market movers in orchestrating the evolution of space.
-            </p>
-                      </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- hero section end -->
-
-
-
-
-<!-- carrer list start -->
-<section id="iframe_block_71bf3a8312bbc8aa42eb5ff7ae324d57" class="york-hero-banner carrer-list" >
-    <div class="parent-box">
-        <div class="row">
-            <div class="list-parent col-lg-8 col-md-8 wow fadeInUp delay2">
-                <div class="list-inner">
-                    <div class="wrapRight">
-                    <script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
-                    <script type='text/javascript' charset='utf-8'>
-                    whr(document).ready(function(){
-                    whr_embed(513997, {detail: 'titles', base: 'jobs', zoom: 'country', grouping: 'none'});
-                    });
-                    </script>
-                    <div id="whr_embed_hook"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- carrer list end -->
-
-
 <section id="iframe_block_a4191889e86a9026bc50b12e0fa15fb0" class=" cta"  >
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 col-md-12 text-center">
-                <h2 class="title wow animated fadeInUp delay3">
+                <h2 class="title wow">
           SIGN UP FOR OUR NEWSLETTER        </h2>
                 <div class="newsletter-box">
 
