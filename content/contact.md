@@ -25,9 +25,8 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
         <div class="contact-form-box" style="padding: 0;">
           <div class="row">
 
-<div class="wpcf7 no-js" id="wpcf7-f469-p470-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<script type="text/javascript" src="https://form.jotform.com/jsform/232975829232061"></script>
+<div class="wpcf7 no-js" id="wpcf7-f469-p470-o1" style="min-height: 790px;">
+  <script type="text/javascript" src="https://form.jotform.com/jsform/232975829232061"></script>
 </div>
           </div>
         </div>
