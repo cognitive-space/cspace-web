@@ -4,6 +4,12 @@ title: Cognitive Space
 theme: nostyle
 paginate: 12
 
+frontmatter:
+  lastmod:
+  - lastmod
+  - :fileModTime
+  - :default
+
 markup:
   goldmark:
     renderer:
