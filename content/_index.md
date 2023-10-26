@@ -381,7 +381,7 @@ of satellite constellations throughout their operational lifetimes.          </p
                 <img decoding="async" src="wp-content/uploads/2023/09/121101-F-JZ008-240.jpeg" alt="" />
               </div>
               <div class="content-box">
-                <p><span style="font-weight: 400;">&#8220;As we continue to launch more and more satellites into space there is a need to develop alternative space to ground links to help offload the overly subscribed AF Satellite Control Network. Tools like CNTIENT-Orchestrate are looking to make this possible by interfacing with a number commercial ground networks giving the end user a selection of space to ground links to utilize.&#8221;</span></p>
+                <p><span style="font-weight: 400;">&#8220;As we continue to launch more and more satellites into space there is a need to develop alternative space to ground links to help offload the overly subscribed AF Satellite Control Network. Tools like CNTIENT-Optimize are looking to make this possible by interfacing with a number commercial ground networks giving the end user a selection of space to ground links to utilize.&#8221;</span></p>
                 <h6>Michael Lopez</h6>
                 <span class="position">Technical Program Manager at Air Force Research Lab</span>
               </div>
