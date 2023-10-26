@@ -319,7 +319,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                                                                 <li>
                   Mature DevOps process with reliable multi-staged deployment and continuous testing                </li>
                                                                 <li>
-                  CMMC Level 2 Cyber-secure containerized single tenant cloud deployment to protect your data                </li>
+                  NIST 800-171 Cyber-secure containerized single tenant cloud deployment to protect your data                </li>
                                                                 <li>
                   Software-as-a-Service &#8211; no need to install servers, no maintenance costs, and predictable operational budgets                </li>
                                               </ul>
