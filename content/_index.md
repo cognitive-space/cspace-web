@@ -277,7 +277,7 @@ meeting the ever-growing and stringent market needs.        </p>
                 Onboard with confidence with proof of performance              </h4>
                           </div>
           </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                    <div class="col-lg-4 col-md-6 wow">
             <div class="single-polygen">
               <div class="shape-box">
                                   <img decoding="async" src="wp-content/uploads/2023/09/Polygon-shape.svg" class="bg-poly-shape" alt="" title="Polygon-shape" />
@@ -287,7 +287,7 @@ meeting the ever-growing and stringent market needs.        </p>
                 Manage collection plan and multi-GSN pass scheduling concurrently              </h4>
                           </div>
           </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                    <div class="col-lg-4 col-md-6 wow">
             <div class="single-polygen">
               <div class="shape-box">
                                   <img decoding="async" src="wp-content/uploads/2023/09/Polygon-shape.svg" class="bg-poly-shape" alt="" title="Polygon-shape" />
@@ -297,7 +297,7 @@ meeting the ever-growing and stringent market needs.        </p>
                 Integrate with ease through well defined APIs and engineering support              </h4>
                           </div>
           </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                    <div class="col-lg-4 col-md-6 wow">
             <div class="single-polygen">
               <div class="shape-box">
                                   <img decoding="async" src="wp-content/uploads/2023/09/Polygon-shape.svg" class="bg-poly-shape" alt="" title="Polygon-shape" />
