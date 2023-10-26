@@ -96,9 +96,9 @@ planning, mission operations, and ground pass optimization at scale.        </p>
           <div>
                         <h3 class="small-title wow">
               A MODERN SOLUTION FOR MODERN NEEDS            </h3>
-                                    <p class="paragraph mb_38 wow animated fadeInUp delay4">
+                                    <p class="paragraph mb_38 wow">
               Traditional satellite management operations are no longer viable: they are too slow, too operator-focused, and can’t scale with your constellation. CNTIENT-Optimize offers dynamic, automated satellite management​ to handle large constellations, onboard new satellites quickly, and optimize complex prioritizations.            </p>
-                        <ul class="listing wow animated fadeInUp delay6">
+                        <ul class="listing wow">
                             <li><span>AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations</span></li>
                             <li><span>Rich and intuitive web user interface for order management and automated scheduler</span></li>
                             <li><span>Well defined GraphQL API with webhooks for streamlined closed-loop integration</span></li>
@@ -173,7 +173,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
                           <div class="col-md-12">
-        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request a demo</a>
+        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
       </div>
           </div>
   </div>
@@ -191,7 +191,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                       <div class="row left">
         <div class="col-md-6">
           <div
-            class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3"
+            class="video_box position-relative wow z-3"
           >
                           <img decoding="async" src="/wp-content/uploads/2023/09/blue-dot-1.svg" class="bg-img" alt="" title="" />
                                     <img
@@ -346,7 +346,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
       <div class="col-lg-8 col-md-12 text-center">
                 <h2 class="title wow">
           INTELLIGENT SPACE AUTOMATION WITH AI-BASED MISSION PLANNING        </h2>
-                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request a demo</a>
+                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
               </div>
     </div>
   </div>
