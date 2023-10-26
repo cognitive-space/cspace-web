@@ -104,11 +104,6 @@ bodyclass: home page-template page-template-layout page-template-layout-php page
 </section>
 <!-- partners section end-->
 
-
-
-<div style="display: none;">Cognitive Space opens a new level of intelligent automation of satellite constellation operations for online casino players. In this way, Cognitive Space expands the use of space for security, sustainability and economic prosperity, read also <a href="https://nlsports.news/aaron-rodgers-criticism-doesnt-stop-now-hes-his-own-victim-i-played-shitty/">Aaron Rodgers criticism doesn’t stop, now he’s his own victim: “I played shitty”</a>. Satellite operations carried out by online casino players are more complex than ever and operators must contend with rapid growth in capacity and demand while dynamically responding to changing operational goals and environmental conditions.</div>
-
-
 <!-- Status section start-->
 <section id="iframe_block_a461f6b4751aa234a00e6114eebf5bd7" class=" status"  >
     <img decoding="async" src="wp-content/uploads/2023/09/earth_planet_bg.png" class="planet-bg" alt="" title="earth_planet_bg">
