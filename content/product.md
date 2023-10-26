@@ -49,7 +49,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
           With CNTIENT-Optimize, unlock AI-powered decision making to handle highly complex and dynamic order stacks, evolving satellite fleets, and demanding mission requirements. We move human operators into supervisory roles – significantly lowering cognitive burden and drastically improving response time and system yield.        </p>
               </div>
                   <div class="col-md-4">
-        <img decoding="async" src="/wp-content/uploads/2023/09/AI-mission.svg" class="wow animated fadeIn delay3 animate__slower w-100" alt="" title="AI-mission" />
+        <img decoding="async" src="/wp-content/uploads/2023/09/AI-mission.svg" class="wow w-100" alt="" title="AI-mission" />
       </div>
           </div>
   </div>
