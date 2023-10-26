@@ -23,7 +23,7 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
     _enabled_editors:
-      - source
+      - data
   blog:
     path: content/blog
     output: true
