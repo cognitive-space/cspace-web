@@ -167,9 +167,8 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             <div class="single-counter wow fadeInUp delay5">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/difference5.svg" alt="" title="difference5" />
-                                                  <h3>Reduce Operational  Capital Overhead</h3>
-                                                <p>
-                  Automation frees up operators for other tasks and lowers overall operational costs.                </p>
+                                                <h3>Reduce Capital Expense</h3>
+                                                <p>Significantly reduce NRE and system maintenance cost, and free up operators for other tasks.</p>
                               </div>
             </div>
           </div>
