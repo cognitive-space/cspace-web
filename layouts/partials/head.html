@@ -22,7 +22,7 @@
   <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Automating satellite operations and satellite Data-as-a-Service through AI to empower the use of space.{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:site_name" content="Cognitive Space" />
-  <meta property="article:modified_time" content='{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}' />
+  <meta property="article:modified_time" content='{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}' />
   <meta name="twitter:card" content="summary_large_image" />
 
   <script>
