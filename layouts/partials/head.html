@@ -15,19 +15,15 @@
     {{ end }}
     {{- end }}
   </title>
-  <meta name="description" content="Automating satellite operations and satellite Data-as-a-Service through AI to empower the use of space." />
-  <link rel="canonical" href="index.html" />
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Automating satellite operations and satellite Data-as-a-Service through AI to empower the use of space.{{ end }}" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Cognitive Space AI-Powered Automated Satellite Operations" />
-  <meta property="og:description" content="Automating satellite operations and satellite Data-as-a-Service through AI to empower the use of space." />
-  <meta property="og:url" content="https://cognitivespace.com/" />
+  <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} - {{ $.Site.Title }}{{ else }}Cognitive Space AI-Powered Automated Satellite Operations{{ end }}" />
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Automating satellite operations and satellite Data-as-a-Service through AI to empower the use of space.{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:site_name" content="Cognitive Space" />
-  <meta property="article:modified_time" content="2023-10-19T21:03:40+00:00" />
+  <meta property="article:modified_time" content='{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}' />
   <meta name="twitter:card" content="summary_large_image" />
-  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://cognitivespace.com/","url":"https://cognitivespace.com/","name":"Cognitive Space AI-Powered Automated Satellite Operations","isPartOf":{"@id":"https://cognitivespace.com/#website"},"datePublished":"2023-09-18T08:37:39+00:00","dateModified":"2023-10-19T21:03:40+00:00","description":"Automating satellite operations and satellite Data-as-a-Service through AI to empower the use of space.","breadcrumb":{"@id":"https://cognitivespace.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://cognitivespace.com/"]}]},{"@type":"BreadcrumbList","@id":"https://cognitivespace.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://cognitivespace.com/#website","url":"https://cognitivespace.com/","name":"Cognitive Space","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cognitivespace.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
-
-  <link rel="alternate" type="application/rss+xml" title="Cognitive Space &raquo; Feed" href="feed/index.html" />
 
   <script>
   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cognitivespace.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.1"}};
