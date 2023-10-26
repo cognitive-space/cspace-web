@@ -43,13 +43,13 @@ planning, mission operations, and ground pass optimization at scale.        </p>
   <div class="container">
     <div class="row align-items-center justify-content-center">
             <div class="col-md-7">
-                <h3 class="wow animated fadeIn delay3 animate__slower">
+                <h3 class="wow">
           AI-Powered Mission Planning        </h3>
-                        <p class="wow animated fadeIn delay4 animate__slower">
+                        <p class="wow">
           With CNTIENT-Optimize, unlock AI-powered decision making to handle highly complex and dynamic order stacks, evolving satellite fleets, and demanding mission requirements. We move human operators into supervisory roles – significantly lowering cognitive burden and drastically improving response time and system yield.        </p>
               </div>
                   <div class="col-md-4">
-        <img decoding="async" src="/wp-content/uploads/2023/09/AI-mission.svg" class="wow animated fadeIn delay3 animate__slower w-100" alt="" title="AI-mission" />
+        <img decoding="async" src="/wp-content/uploads/2023/09/AI-mission.svg" class="wow w-100" alt="" title="AI-mission" />
       </div>
           </div>
   </div>
@@ -64,7 +64,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
     <div class="row">
       <div class="col-lg-6 col-md-12">
         <div
-          class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3"
+          class="video_box position-relative wow z-3"
         >
                       <img decoding="async" src="/wp-content/uploads/2023/09/morden-solution-bg.png" class="hero-side-bg" alt="" title="morden-solution-bg">
                     <a
@@ -94,11 +94,11 @@ planning, mission operations, and ground pass optimization at scale.        </p>
       <div class="col-lg-6 col-md-12">
         <div class="align-center">
           <div>
-                        <h3 class="small-title wow animated fadeInUp delay2">
+                        <h3 class="small-title wow">
               A MODERN SOLUTION FOR MODERN NEEDS            </h3>
-                                    <p class="paragraph mb_38 wow animated fadeInUp delay4">
+                                    <p class="paragraph mb_38 wow">
               Traditional satellite management operations are no longer viable: they are too slow, too operator-focused, and can’t scale with your constellation. CNTIENT-Optimize offers dynamic, automated satellite management​ to handle large constellations, onboard new satellites quickly, and optimize complex prioritizations.            </p>
-                        <ul class="listing wow animated fadeInUp delay6">
+                        <ul class="listing wow">
                             <li><span>AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations</span></li>
                             <li><span>Rich and intuitive web user interface for order management and automated scheduler</span></li>
                             <li><span>Well defined GraphQL API with webhooks for streamlined closed-loop integration</span></li>
@@ -124,7 +124,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
           <h2 class="title">THE CNTIENT-OPTIMIZE DIFFERENCE</h2>
     <div class="row justify-content-center num-counter">
                         <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay1">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/difference1.svg" alt="" title="difference1" />
                                                   <h3>Maximize Capacity. Maximize Revenue.</h3>
@@ -134,7 +134,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay2">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/difference2.svg" alt="" title="difference2" />
                                                   <h3>Maintain Peak Performance, Even At Scale</h3>
@@ -144,7 +144,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay3">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/difference3.svg" alt="" title="difference3" />
                                                   <h3>Experience Real-Time Machine Intelligence</h3>
@@ -154,7 +154,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay4">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/difference4.svg" alt="" title="difference4" />
                                                   <h3>Embrace Seamless Integration</h3>
@@ -164,7 +164,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
                   <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow fadeInUp delay5">
+            <div class="single-counter wow">
               <div>
                                   <img decoding="async" src="/wp-content/uploads/2023/09/difference5.svg" alt="" title="difference5" />
                                                 <h3>Reduce Capital Expense</h3>
@@ -173,7 +173,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
                           <div class="col-md-12">
-        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request a demo</a>
+        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
       </div>
           </div>
   </div>
@@ -185,13 +185,13 @@ planning, mission operations, and ground pass optimization at scale.        </p>
 <section id="iframe_block_e5bac200ce9b3c726e4a86f1f51884cf" class=" optimize"  >
     <img decoding="async" src="/wp-content/uploads/2023/09/vector2-1.svg" class="vector1" alt="" title="vector2 (1)" />
     <div class="container">
-        <h2 class="title wow animated fadeUp delay2">
+        <h2 class="title wow">
       HOW DOES CNTIENT-OPTIMIZE AUTOMATE OPERATIONS?    </h2>
             <img decoding="async" src="/wp-content/uploads/2023/09/vector1.svg" class="vector2" alt="" title="vector1" />
                       <div class="row left">
         <div class="col-md-6">
           <div
-            class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3"
+            class="video_box position-relative wow z-3"
           >
                           <img decoding="async" src="/wp-content/uploads/2023/09/blue-dot-1.svg" class="bg-img" alt="" title="" />
                                     <img
@@ -206,7 +206,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                       </div>
         </div>
         <div class="col-lg-5 offset-lg-1 col-md-6">
-          <div class="data wow animated fadeInRight delay2">
+          <div class="data wow">
                         <div class="number">
               <img decoding="async" src="/wp-content/uploads/2023/09/1.svg" alt="" title="1" />
             </div>
@@ -217,7 +217,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
       </div>
                                   <div class="row right">
           <div class="col-md-6">
-            <div class="data wow animated fadeInLeft delay2">
+            <div class="data wow">
                                 <div class="number">
                   <img decoding="async" src="/wp-content/uploads/2023/09/2-2.png" alt="" title="2 (2)" />
                 </div>
@@ -227,7 +227,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
           </div>
           <div class="col-md-6">
             <div
-              class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3"
+              class="video_box position-relative wow z-3"
             >
                               <img decoding="async" src="/wp-content/uploads/2023/09/blue-dot-1.svg" class="bg-img" alt="" title="" />
                                           <img
@@ -245,7 +245,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                         <div class="row left">
         <div class="col-md-6">
           <div
-            class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3"
+            class="video_box position-relative wow z-3"
           >
                           <img decoding="async" src="/wp-content/uploads/2023/09/blue-dot-1.svg" class="bg-img" alt="" title="" />
                                     <img
@@ -260,7 +260,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                       </div>
         </div>
         <div class="col-lg-5 offset-lg-1 col-md-6">
-          <div class="data wow animated fadeInRight delay2">
+          <div class="data wow">
                         <div class="number">
               <img decoding="async" src="/wp-content/uploads/2023/09/3.svg" alt="" title="3" />
             </div>
@@ -271,7 +271,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
       </div>
                                   <div class="row right">
           <div class="col-md-6">
-            <div class="data wow animated fadeInLeft delay2">
+            <div class="data wow">
                                 <div class="number">
                   <img decoding="async" src="/wp-content/uploads/2023/09/4.png" alt="" title="4" />
                 </div>
@@ -281,7 +281,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
           </div>
           <div class="col-md-6">
             <div
-              class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3"
+              class="video_box position-relative wow z-3"
             >
                               <img decoding="async" src="/wp-content/uploads/2023/09/blue-dot-1.svg" class="bg-img" alt="" title="" />
                                           <img
@@ -305,14 +305,14 @@ planning, mission operations, and ground pass optimization at scale.        </p>
   <div class="container">
     <div class="row">
       <div class="col-md-10 offset-md-1 col-sm-12">
-                <h2 class="title wow animated fadeInUp">
+                <h2 class="title wow">
           SATELLITE AUTOMATION DOESN’T HAVE TO BE HARD        </h2>
-                        <p class="paragraph text-center mb_48 wow animated fadeInUp delay1">
+                        <p class="paragraph text-center mb_48 wow">
           Integrating software can be cumbersome and complex, but it doesn’t have to be. At Cognitive Space, we innovate mission operations software and the onboarding process to address the ever-changing needs of commercial and government entities.        </p>
               </div>
                 <div class="col-md-12 col-sm-12">
             <div class="align-center">
-              <ul class="listing wow animated fadeInUp delay6 mb-5 pb-5">
+              <ul class="listing wow mb-5 pb-5">
                                                 <li>
                   Smooth onboarding, with step-by-step “shadow operations” to build trust in the system                </li>
                                                                 <li>
@@ -325,11 +325,11 @@ planning, mission operations, and ground pass optimization at scale.        </p>
             </div>
           </div>
       <div class="col-md-12">
-                <h2 class="title wow animated fadeInUp delay7">
+                <h2 class="title wow">
           ENHANCE YOUR GROUND SEGMENT STACK        </h2>
                         <img
           src="/wp-content/uploads/2023/09/Segment-stack.png"
-          class="mt-4 wow animated fadeIn delay7 w-100"
+          class="mt-4 wow w-100"
           alt=""
           title="Segment-stack"
         />
@@ -344,9 +344,9 @@ planning, mission operations, and ground pass optimization at scale.        </p>
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 col-md-12 text-center">
-                <h2 class="title wow animated fadeInUp delay3">
+                <h2 class="title wow">
           INTELLIGENT SPACE AUTOMATION WITH AI-BASED MISSION PLANNING        </h2>
-                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request a demo</a>
+                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
               </div>
     </div>
   </div>
