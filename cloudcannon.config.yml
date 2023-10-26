@@ -19,11 +19,11 @@ collections_config:
     filter: strict
     parse_branch_index: true
     icon: notes
+    _enabled_editors:
+      - data
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-    _enabled_editors:
-      - data
   blog:
     path: content/blog
     output: true
@@ -43,4 +43,8 @@ _select_data: {}
 _structures: {}
 _editables: {}
 data_config: {}
+source_editor:
+  tab_size: 2
+  theme: monokai
+  show_gutter: true
 timezone: US/Central
