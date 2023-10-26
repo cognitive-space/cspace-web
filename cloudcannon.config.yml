@@ -31,6 +31,8 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    _enabled_editors:
+      - data
   news:
     path: content/news
     output: true
@@ -38,6 +40,8 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    _enabled_editors:
+      - data
 _inputs: {}
 _select_data: {}
 _structures: {}
