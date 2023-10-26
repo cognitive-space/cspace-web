@@ -3,6 +3,7 @@ languageCode: en-us
 title: Cognitive Space
 theme: nostyle
 paginate: 12
+enableGitInfo: true
 
 markup:
   goldmark:
