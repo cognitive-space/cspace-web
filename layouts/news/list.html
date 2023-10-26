@@ -2,13 +2,15 @@
 
 {{ .Content }}
 
+{{- partial "search-form.html" . -}}
+
 {{ $paginator := .Paginate (where site.RegularPages "Section" "news") }}
 <section class="blog-list">
   <div class="container">
     <div class="row blog-list-detail">
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <div class="blog wow animated fadeInUp">
+        <div class="blog wow">
           <img src="{{ .Params.image }}" class="blog-img wp-post-image" decoding="async"/>
           <div class="details">
             <div class="profile">

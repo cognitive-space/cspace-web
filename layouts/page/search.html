@@ -1,0 +1,86 @@
+{{ define "bc" }}page-template page-template-template-news page-template-template-news-php page page-id-19{{ end }}
+{{ define "main" }}
+<!-- banner start  -->
+<section id="19" class=" product-banner blog-banner" style="background-image: url('../wp-content/themes/cognitive-space/assets/images/news-bg.png');">
+
+  <div class="container h-100">
+        <div
+          class="row h-100 align-items-center text-center justify-content-center"
+        >
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <h2 class="wow">
+              Search Cognitive Space
+            </h2>
+          </div>
+    </div>
+  </div>
+</section>
+{{- partial "search-form.html" . -}}
+<section class="post-detail-section search-results">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12">
+        <div class="post-content">
+          <h2 id="rtitle">Results:</h2>
+          <ul id="results"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+  function truncateString(str, num) {
+    if (str.length <= num) {
+      return str
+    }
+    return str.slice(0, num) + '...'
+  }
+
+  function build_and_search (data, keywords) {
+    var idx = lunr(function () {
+      this.ref('index');
+      this.field('content');
+      this.field('title', {boost: 10});
+
+      data.forEach(function (doc, i) {
+        doc.index = i;
+        this.add(doc);
+      }, this);
+    });
+
+    var results = idx.search(keywords);
+
+    if (results.length) {
+      var html = '';
+      results.forEach((r) => {
+        var doc = data[parseInt(r.ref)];
+        var desc = truncateString(doc.content, 255);
+        html += `<li><h3><a href="${doc.permalink}">${doc.title}</a></h3><p>${desc}</p></li>`;
+      });
+      document.querySelector("#results").innerHTML = html;
+    } else {
+      document.querySelector("#results").innerHTML = "<li><h2 class=\"tc\">No Results Found</h2></li>";
+    }
+  }
+
+  var urlParams = new URLSearchParams(window.location.search);
+  var keywords = urlParams.get('keywords');
+  if (keywords){
+    document.querySelector("#keywords").value = keywords;
+    document.querySelector("#rtitle").innerHTML = `Search Results: ${keywords}`;
+
+    fetch("/search/index.json")
+      .then((resp) => {
+        return resp.json();
+      })
+      .then((data) => {
+        build_and_search(data, keywords);
+      })
+      .catch((e) => {
+        alert('Error getting search index.');
+        console.error(e);
+      });
+  }
+</script>
+{{ end }}

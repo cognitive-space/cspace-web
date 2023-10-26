@@ -2,6 +2,8 @@
 
 {{ .Content }}
 
+{{- partial "search-form.html" . -}}
+
 {{ $paginator := .Paginate (where site.RegularPages "Section" "blog") }}
 <section class="blog-list">
   <div class="container">
