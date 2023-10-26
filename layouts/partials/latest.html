@@ -1,0 +1,42 @@
+<!-- blog/news slider start -->
+<section id="iframe_block_7ea74ea727980784bcfff438ea09ef58" class=" blog-slider"  >
+  <div class="container">
+    <div class="row">
+            <div class="col-md-12">
+        <h2 class="title wow">
+          THE LATEST FROM COGNITIVE SPACE        </h2>
+      </div>
+                        <div class="col-md-12">
+        <div class="owl-carousel owl-blog-news">
+          {{ $blog := first 3 (where site.RegularPages "Section" "blog") }}
+          {{ $news := first 3 (where site.RegularPages "Section" "news") }}
+          {{ $results := $blog | append $news }}
+          {{ range sort $results "Date" "desc" }}
+          <div class="item">
+            <div class="blog-box wow">
+              <div class="blog-img-box">
+                <img decoding="async" src="{{ .Params.image }}" alt="" />
+                <span class="blog-date">{{ .Date.Format "2 January, 2006" }}</span>
+                <span class="post-type">{{ .Type }}</span>
+              </div>
+              <div class="content-box">
+                <p>{{ .Title }}</p>
+                {{ if .Params.external_url }}
+                <a href="{{ .Params.external_url }}" target="_blank" class="primary_btn wow" data-cursor="-color-accent-maxred">
+                  Read More
+                </a>
+                {{ else }}
+                <a href="{{ .Permalink }}" class="primary_btn wow" data-cursor="-color-accent-maxred">
+                  Read More
+                </a>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+          {{ end }}
+                  </div>
+      </div>
+          </div>
+  </div>
+</section>
+<!-- blog/news slider end -->
