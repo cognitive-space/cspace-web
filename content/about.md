@@ -19,8 +19,8 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
   <div class="container h-100">
     <div class="row h-100 align-items-center text-center justify-content-center">
       <div class="col-lg-10 col-md-12 col-sm-12">
-                  <h1 class="wow animated fadeInUp delay4">ORCHESTRATING THE EVOLUTION OF SPACE®</h1>
-                <p class="paragraph wow  fadeInUp delay6 animated">
+                  <h1 class="wow">ORCHESTRATING THE EVOLUTION OF SPACE®</h1>
+                <p class="paragraph wow">
           Cognitive Space is the market leader in intelligent space automation. By leveraging artificial intelligence, cloud computing, and deep operational expertise, Cognitive Space provides automated satellite operations that enable constellations to scale while meeting the ever-growing and stringent market needs.        </p>
               </div>
     </div>

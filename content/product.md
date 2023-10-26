@@ -21,13 +21,13 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
       class="row h-100 align-items-center text-center justify-content-center"
     >
       <div class="col-lg-10 col-md-12 col-sm-12">
-                  <h3 class="wow animated fadeInUp delay3">MEET CNTIENT-OPTIMIZE™</h3>
-                        <h2 class="wow animated fadeInUp delay4">
+                  <h3 class="wow">MEET CNTIENT-OPTIMIZE™</h3>
+                        <h2 class="wow">
           Automate Decision Making at Scale to Meet Mission Objectives        </h2>
-                        <p class="wow animated fadeInUp delay5 mb-3">
+                        <p class="wow mb-3">
           Supercharge your satellite operations against your fundamental objectives with automated collection
 planning, mission operations, and ground pass optimization at scale.        </p>
-                          <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request a demo </a>
+                          <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo </a>
               </div>
     </div>
   </div>

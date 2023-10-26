@@ -16,9 +16,9 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
       class="row h-100 align-items-center text-center justify-content-center"
     >
             <div class="col-lg-10 col-md-12 col-sm-12">
-                <h1 class="wow animated fadeInUp delay4">
+                <h1 class="wow">
           Let’s Talk Satellite Constellation Operations        </h1>
-                        <p class="paragraph wow animated fadeInUp delay6">
+                        <p class="paragraph wow">
           Your curiosity fuels our passion, and we’re committed to fostering a dialogue that drives progress and propels us toward the next era of satellite constellation operations. Let’s start a conversation today.        </p>
               </div>
             <div class="col-md-12">

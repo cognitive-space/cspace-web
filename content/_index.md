@@ -19,11 +19,11 @@ bodyclass: home page-template page-template-layout page-template-layout-php page
       <div class="col-lg-8 offset-lg-0 col-md-10 offset-md-1">
         <div class="align-center">
           <div class="hero-content">
-                          <h1 class="wow animated fadeInUp delay4">
+                          <h1 class="wow">
                 Empowering the Use of Space™              </h1>
-                                    <p data-cursor="-opaque" class="wow animated fadeInUp delay5">
+                                    <p data-cursor="-opaque" class="wow">
                 Cognitive Space is bringing the next frontier of intelligent automation to satellite constellation operations, to empower the use of space for security, sustainability, and economic prosperity.             </p>
-                                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request A Demo </a>
+                                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request A Demo </a>
                       </div>
         </div>
       </div>

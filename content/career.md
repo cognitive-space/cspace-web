@@ -23,8 +23,8 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
       <div class="col-lg-12">
         <div class="align-center">
           <div class="hero-content">
-                          <h1 class="wow animated fadeInUp delay4">JOIN THE COGNITIVE SPACE TEAM</h1>
-                        <p data-cursor="-opaque" class="wow animated fadeInUp delay5">
+                          <h1 class="wow">JOIN THE COGNITIVE SPACE TEAM</h1>
+                        <p data-cursor="-opaque" class="wow">
               Want to start the next phase in your career by joining a market-shaping company? Join a passionate team of engineers, developers, data scientists, and market movers in orchestrating the evolution of space.            </p>
                       </div>
         </div>
@@ -41,7 +41,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
 <section id="iframe_block_4c05452ac7675d7d18e9835dda897226" class="york-hero-banner carrer-list" >
     <div class="parent-box">
         <div class="row">
-            <div class="list-parent col-lg-8 col-md-8 wow fadeInUp delay2">
+            <div class="list-parent col-lg-8 col-md-8 wow">
                 <div class="list-inner">
                     <div class="wrapRight">
                     <script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
