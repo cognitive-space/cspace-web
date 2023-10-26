@@ -117,23 +117,23 @@ bodyclass: home page-template page-template-layout page-template-layout-php page
             <div class="col-md-6 offset-md-1 content-box">
         <div class="align-center">
           <div>
-                        <h2 class="title text-start wow animated fadeInUp">
+                        <h2 class="title text-start wow">
               THE STATUS QUO IN SATELLITE OPERATIONS HAS REACHED A BREAKING POINT            </h2>
-                                    <p class="paragraph my_30 wow animated fadeInUp delay2">
+                                    <p class="paragraph my_30 wow">
               Satellite operations today are more complex than ever.
 Operators must contend with fast growth in capacity and
 demand, all while responding dynamically to changes in
 operational objectives and environmental conditions.            </p>
                         <ul class="listing">
-                            <li class="wow animated fadeInUp delay3">
+                            <li class="wow">
                 Increasing complexity in payloads and taskability              </li>
-                            <li class="wow animated fadeInUp delay4">
+                            <li class="wow">
                 Fast-growing constellations              </li>
-                            <li class="wow animated fadeInUp delay5">
+                            <li class="wow">
                 Oversubscribed capacity              </li>
-                            <li class="wow animated fadeInUp delay6">
+                            <li class="wow">
                 Near real-time response requirements              </li>
-                            <li class="wow animated fadeInUp delay7">
+                            <li class="wow">
                 Bottlenecks in data downlink              </li>
                           </ul>
                       </div>
@@ -152,9 +152,9 @@ operational objectives and environmental conditions.            </p>
     <div class="row">
       <div class="col-md-12">
         <div class="approach-box">
-                    <h2 class="title wow animated fadeInUp">
+                    <h2 class="title wow">
             It&#8217;s time for a new approach          </h2>
-                                <img decoding="async" src="wp-content/uploads/2023/09/new-approach.webp" class="img-fluid wow animated fadeIn delay3 animate__slower"
+                                <img decoding="async" src="wp-content/uploads/2023/09/new-approach.webp" class="img-fluid wow"
             draggable="false" alt="" title="new-approach" />
                                 <img decoding="async" src="wp-content/uploads/2023/09/new-approach-mobile.webp" class="approach-mb" alt="" title="new-approach-mobile" />
                   </div>
@@ -171,9 +171,9 @@ operational objectives and environmental conditions.            </p>
   <div class="container">
     <div class="row">
       <div class="col-md-10 offset-md-1">
-                <h2 class="title wow animated fadeInUp">
+                <h2 class="title wow">
           THE NEW FRONTIER IN AUTOMATED CONSTELLATION MANAGEMENT        </h2>
-                        <p class="paragraph text-center mb_48 wow animated fadeInUp delay1">
+                        <p class="paragraph text-center mb_48 wow">
           By leveraging artificial intelligence, cloud computing, and deep
 operational expertise, Cognitive Space provides automated
 satellite operations that enable constellations to scale while
@@ -183,18 +183,6 @@ meeting the ever-growing and stringent market needs.        </p>
         <div class="row">
                     <div class="col-md-5">
             <div class="align-center">
-              <!-- <div class="video_box position-relative wow animated fadeIn delay5 animate__slower z-3">
-                <img decoding="async" src="" class="hero-side-bg" alt="" title="" />
-                <a data-fancybox class="position-relative"
-                  href="">
-                  <img decoding="async" class="img-fluid" src="/assets/images/yt-video-2.png" />
-                  <div class="yt-button">
-                    <div class="request-loader">
-                      <span><img decoding="async" src="/assets/images/play-circle.svg" class="" alt="" /></span>
-                    </div>
-                  </div>
-                </a>
-              </div> -->
                             <div class="img-box">
                 <img decoding="async" src="wp-content/uploads/2023/09/frontier-2.png" alt="" title="frontier" class="w-100" />
               </div>
@@ -203,15 +191,15 @@ meeting the ever-growing and stringent market needs.        </p>
                     <div class="col-md-7">
             <div class="align-center">
               <div class="frontier-content">
-                                <h3 class="small-title wow animated fadeInUp delay2">
+                                <h3 class="small-title wow">
                   Meet Mission Objectives with CNTIENT-Optimize™                </h3>
-                                                <p class="paragraph mb_38 wow animated fadeInUp delay4">
+                                                <p class="paragraph mb_38 wow">
                   CNTIENT-Optimize is a robust, AI-powered satellite fleet management software service for real-world data collection. Fully integrated and scalable to your goals, Optimize offers a path forward to achieving your mission.</p>
-                                <ul class="listing wow animated fadeInUp delay6">
+                                <ul class="listing wow">
                                     <li><span>In real-world operations, CNTIENT-Optimize has shown <b>time savings of 87% per operator per week.</b></span></li>
                                     <li><span>In a collection scenario with a high-density target region, AI-driven collection plans <b>outperformed a traditional heuristics greedy algorithm by 4x.</b></span></li>
                                   </ul>
-                                                <a href="https://www.cognitivespace.com/product/" class="primary_btn wow animated fadeInUp delay8">Learn More about CNTIENT®</a>
+                                                <a href="https://www.cognitivespace.com/product/" class="primary_btn wow">Learn More about CNTIENT®</a>
                               </div>
             </div>
           </div>
@@ -221,7 +209,7 @@ meeting the ever-growing and stringent market needs.        </p>
         <div class="num-counter">
           <div class="row justify-content-center">
                         <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="single-counter wow fadeInLeftBig delay2">
+              <div class="single-counter wow">
                 <div>
                   <img decoding="async" src="wp-content/uploads/2023/09/time-schedule.svg" alt="" title="time-schedule" />
                   <p class="counter-amount">
@@ -231,7 +219,7 @@ meeting the ever-growing and stringent market needs.        </p>
               </div>
             </div>
                         <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="single-counter wow fadeInLeftBig delay2">
+              <div class="single-counter wow">
                 <div>
                   <img decoding="async" src="wp-content/uploads/2023/09/satellite.svg" alt="" title="satellite" />
                   <p class="counter-amount">
@@ -264,12 +252,12 @@ meeting the ever-growing and stringent market needs.        </p>
         <div class="title-button">
           <h2 class="title">
             The Market Leader in Intelligent Space Automation          </h2>
-          <a href="https://www.cognitivespace.com/about/" class="primary_btn wow animated fadeInUp delay8">Learn more about us</a>
+          <a href="https://www.cognitivespace.com/about/" class="primary_btn wow">Learn more about us</a>
         </div>
       </div>
             <div class="col-md-12 polygen-box">
         <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                    <div class="col-lg-4 col-md-6 wow">
             <div class="single-polygen">
               <div class="shape-box">
                                   <img decoding="async" src="wp-content/uploads/2023/09/Polygon-shape.svg" class="bg-poly-shape" alt="" title="Polygon-shape" />
@@ -279,7 +267,7 @@ meeting the ever-growing and stringent market needs.        </p>
                 Dynamically reschedule mission plans in near real-time              </h4>
                           </div>
           </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                    <div class="col-lg-4 col-md-6 wow">
             <div class="single-polygen">
               <div class="shape-box">
                                   <img decoding="async" src="wp-content/uploads/2023/09/Polygon-shape.svg" class="bg-poly-shape" alt="" title="Polygon-shape" />
@@ -411,13 +399,13 @@ of satellite constellations throughout their operational lifetimes.          </p
   <div class="container">
     <div class="row">
             <div class="col-md-12">
-        <h2 class="title wow animated fadeInUp">
+        <h2 class="title wow">
           THE LATEST FROM COGNITIVE SPACE        </h2>
       </div>
                         <div class="col-md-12">
         <div class="owl-carousel owl-blog-news">
           <div class="item">
-            <div class="blog-box wow animated fadeInUp animate__slower">
+            <div class="blog-box wow">
               <div class="blog-img-box">
                 <img decoding="async" src="wp-content/uploads/2023/10/Cognitive-Space-SVSW-Slide-1.png" alt="" />
                 <span class="blog-date">16 October 2023</span>
@@ -425,13 +413,13 @@ of satellite constellations throughout their operational lifetimes.          </p
               <div class="content-box">
                 <p>
                   Cognitive Space Raises $4M to Further Fuel its Mission of Intelligent Space Automation                </p>
-                <a href="index.html%3Fp=834.html" class="primary_btn wow animated fadeInUp" data-cursor="-color-accent-maxred">Read
+                <a href="index.html%3Fp=834.html" class="primary_btn wow" data-cursor="-color-accent-maxred">Read
                   More</a>
               </div>
             </div>
           </div>
           <div class="item">
-            <div class="blog-box wow animated fadeInUp animate__slower">
+            <div class="blog-box wow">
               <div class="blog-img-box">
                 <img decoding="async" src="wp-content/uploads/2023/10/iStock-494562740-scaled.jpg" alt="" />
                 <span class="blog-date">06 October 2023</span>
@@ -439,13 +427,13 @@ of satellite constellations throughout their operational lifetimes.          </p
               <div class="content-box">
                 <p>
                   Automated Satellite Operations: Pioneering the Future of Constellation Management                </p>
-                <a href="index.html%3Fp=814.html" class="primary_btn wow animated fadeInUp" data-cursor="-color-accent-maxred">Read
+                <a href="index.html%3Fp=814.html" class="primary_btn wow" data-cursor="-color-accent-maxred">Read
                   More</a>
               </div>
             </div>
           </div>
           <div class="item">
-            <div class="blog-box wow animated fadeInUp animate__slower">
+            <div class="blog-box wow">
               <div class="blog-img-box">
                 <img decoding="async" src="wp-content/uploads/2023/10/Untitled-10-x-7-in.png" alt="" />
                 <span class="blog-date">28 September 2023</span>
@@ -453,7 +441,7 @@ of satellite constellations throughout their operational lifetimes.          </p
               <div class="content-box">
                 <p>
                   Cognitive Space Named on 2023 Top 10 Satellite Solutions Companies List                </p>
-                <a href="index.html%3Fp=820.html" class="primary_btn wow animated fadeInUp" data-cursor="-color-accent-maxred">Read
+                <a href="index.html%3Fp=820.html" class="primary_btn wow" data-cursor="-color-accent-maxred">Read
                   More</a>
               </div>
             </div>
@@ -470,9 +458,9 @@ of satellite constellations throughout their operational lifetimes.          </p
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 col-md-12 text-center">
-                <h2 class="title wow animated fadeInUp delay3">
+                <h2 class="title wow">
           Discover Next-Generation Satellite Mission Management        </h2>
-                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow animated fadeInUp delay6">Request a demo</a>
+                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
               </div>
     </div>
   </div>
