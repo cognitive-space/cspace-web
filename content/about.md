@@ -37,9 +37,9 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
       <div class="col-md-6 content-box order-md-2 order-1">
         <div class="align-center">
           <div>
-                        <h2 class="title text-start wow animated fadeInUp">
+                        <h2 class="title text-start wow">
               OUR VISION            </h2>
-                                    <p class="paragraph my_30 wow animated fadeInUp delay2">
+                                    <p class="paragraph my_30 wow">
               We envision a prosperous future where AI-driven automation enables the orchestration of massive distributed systems in space, fueling the expansion and sustainability of humanity throughout the solar system.            </p>
                       </div>
         </div>
@@ -61,9 +61,9 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
       <div class="col-md-6 content-box">
         <div class="align-center">
           <div>
-                        <h2 class="title text-start wow animated fadeInUp">
+                        <h2 class="title text-start wow">
               OUR MISSION            </h2>
-                                    <p class="paragraph my_30 wow animated fadeInUp delay2">
+                                    <p class="paragraph my_30 wow">
               Empower the use of space for security, sustainability, and economic prosperity through the orchestration of intelligent machines across a multi-planetary system.            </p>
                       </div>
         </div>
@@ -154,13 +154,13 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
             <div class="col-lg-6 content-box order-lg-2 order-1">
         <div class="align-center">
           <div>
-                        <h2 class="title text-start wow animated fadeInUp">
+                        <h2 class="title text-start wow">
               OUR EARLY BELIEVERS            </h2>
-                        <p class="paragraph my_30 wow animated fadeInUp delay2">
+                        <p class="paragraph my_30 wow">
               From the very inception of Cognitive Space, we have set out on a path to rethink how space operations should evolve and build the technology to see that future become reality.            </p>
-                        <p class="paragraph my_30 wow animated fadeInUp delay3">
+                        <p class="paragraph my_30 wow">
               We are grateful for the continuous support and trust of our valued investors.            </p>
-                        <p class="paragraph my_30 wow animated fadeInUp delay4">
+                        <p class="paragraph my_30 wow">
               Their investments enable us to empower satellite operators and government agencies unlock the true revenue and operational potential of their satellite constellations.            </p>
           </div>
         </div>
