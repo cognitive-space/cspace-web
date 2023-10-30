@@ -70,7 +70,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                     <a
             data-fancybox
             class="position-relative"
-            href="wp-content/uploads/2023/09/MODERN-SOLUTION.mp4"
+            href="/vid/MODERN-SOLUTION.mp4"
           >
                                 <img
               class="img-fluid"
