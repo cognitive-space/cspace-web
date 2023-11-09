@@ -7,7 +7,7 @@ image: /wp-content/uploads/2023/02/Untitleddesign1.png
 type: news
 layout: single
 external_url: >-
-  https://www.prnewswire.com/news-releases/missionlinknext-unveils-2023-cohort-and-new-advisory-board-members-301741111.html
+  https://www.linkedin.com/pulse/missionlink-announces-graduates-from-2023-cohort-join-esteemed-7yerf%3FtrackingId=C%252FWtADLiRUehrrNa0ug7ow%253D%253D/?trackingId=C%2FWtADLiRUehrrNa0ug7ow%3D%3D
 ---
 &nbsp;MissionLink Announces Graduates from 2023 Cohort; Join Esteemed ‘Trusted Innovation Ecosystem’ in NatSec Tech&nbsp;
 
