@@ -44,13 +44,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
             <div class="list-parent col-lg-8 col-md-8 wow">
                 <div class="list-inner">
                     <div class="wrapRight">
-                    <script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
-                    <script type='text/javascript' charset='utf-8'>
-                    whr(document).ready(function(){
-                    whr_embed(513997, {detail: 'titles', base: 'jobs', zoom: 'country', grouping: 'none'});
-                    });
-                    </script>
-                    <div id="whr_embed_hook"></div>
+                      <script type="text/javascript" src="https://app.jazz.co/widgets/basic/create/cognitivespace" charset="utf-8"></script>
                     </div>
                 </div>
             </div>
