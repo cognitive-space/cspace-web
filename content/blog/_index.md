@@ -8,7 +8,7 @@ bodyclass: blog hfeed
 ---
 
 <!-- banner start  -->
-<section id="814" class=" product-banner blog-banner" style="background-image: url('https://cognitivespace.wpengine.com/wp-content/themes/cognitive-space/assets/images/blog-banner.png');">
+<section id="814" class=" product-banner blog-banner" style="background-image: url('/wp-content/themes/cognitive-space/assets/images/blog-banner.png');">
 
   <div class="container h-100">
         <div
