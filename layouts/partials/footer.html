@@ -1,4 +1,5 @@
 <!-- footer start -->
+<script src="/cspace.js"></script>
 <footer>
   <div class="container">
     <div class="row">
@@ -85,29 +86,13 @@
                 <ul></ul>
               </div>
               <form
-                action="index.html#wpcf7-f711-o1"
+                action=""
                 method="post"
                 class="wpcf7-form init"
                 aria-label="Contact form"
-                novalidate="novalidate"
                 data-status="init"
+                onsubmit="return newsletter_signup()"
               >
-                <div style="display: none">
-                  <input type="hidden" name="_wpcf7" value="711" />
-                  <input type="hidden" name="_wpcf7_version" value="5.8.1" />
-                  <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                  <input
-                    type="hidden"
-                    name="_wpcf7_unit_tag"
-                    value="wpcf7-f711-o1"
-                  />
-                  <input type="hidden" name="_wpcf7_container_post" value="0" />
-                  <input
-                    type="hidden"
-                    name="_wpcf7_posted_data_hash"
-                    value=""
-                  />
-                </div>
                 <p>
                   <span class="wpcf7-form-control-wrap" data-name="email"
                     ><input
@@ -117,6 +102,7 @@
                       aria-invalid="false"
                       placeholder="Email Address"
                       value=""
+                      id="newsletter-email"
                       type="email"
                       name="email"
                   /></span>
