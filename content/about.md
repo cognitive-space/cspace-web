@@ -339,7 +339,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
 
 <div class="wpcf7 no-js" id="wpcf7-f474-p356-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" onsubmit="return newsletter_signup('#newsletter-email2')">
+<form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" onsubmit="return newsletter_signup(this)">
 <p><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" aria-required="true" id="newsletter-email2" aria-invalid="false" placeholder="Email Address" value="" type="email" name="email" /></span>
 </p>
 <p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Subscribe" />
