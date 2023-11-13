@@ -233,8 +233,8 @@ meeting the ever-growing and stringent market needs.        </p>
       </div>
           </div>
   </div>
-      <img decoding="async" src="wp-content/uploads/2023/09/polygen-1.svg" class="polygen-1" alt="" title="polygen (1)" />
-        <img decoding="async" src="wp-content/uploads/2023/09/polygen-2.svg" class="polygen-2" alt="https://cognitivespace.com/wp-content/uploads/2023/09/polygen-2.svg" title="polygen-2" />
+      <img decoding="async" src="/wp-content/uploads/2023/09/polygen-1.svg" class="polygen-1" alt="" title="polygen (1)" />
+        <img decoding="async" src="/wp-content/uploads/2023/09/polygen-2.svg" class="polygen-2" alt="/wp-content/uploads/2023/09/polygen-2.svg" title="polygen-2" />
   </section>
 <!-- new frontier section end -->
 
