@@ -339,16 +339,8 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
 
 <div class="wpcf7 no-js" id="wpcf7-f474-p356-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="index.html%3Fp=356.html#wpcf7-f474-p356-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="474" />
-<input type="hidden" name="_wpcf7_version" value="5.8.1" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f474-p356-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="356" />
-<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-</div>
-<p><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email Address" value="" type="email" name="email" /></span>
+<form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" onsubmit="return newsletter_signup('#newsletter-email2')">
+<p><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" aria-required="true" id="newsletter-email2" aria-invalid="false" placeholder="Email Address" value="" type="email" name="email" /></span>
 </p>
 <p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Subscribe" />
 </p><div class="wpcf7-response-output" aria-hidden="true"></div>

@@ -1,5 +1,5 @@
-function newsletter_signup () {
-  var email = document.querySelector("#newsletter-email").value;
+function newsletter_signup (sel) {
+  var email = document.querySelector(sel).value;
   if (email) {
     fetch(
       "https://ecgvz68tdc.execute-api.us-west-2.amazonaws.com/api/pipedrive-newsletter",
@@ -14,7 +14,7 @@ function newsletter_signup () {
       })
       .then((data) => {
         if (data.status == 'Successfully Added') {
-          document.querySelector("#newsletter-email").value = '';
+          document.querySelector(sel).value = '';
           alert("Successfully added to newsletter.");
         } else {
           alert(data.status);
