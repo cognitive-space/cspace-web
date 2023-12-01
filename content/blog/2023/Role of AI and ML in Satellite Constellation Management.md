@@ -1,7 +1,7 @@
 ---
 title: >-
-  Automated Satellite Operations: Pioneering the Future of Constellation
-  Management
+  The Role of Artificial Intelligence and Machine Learning in Satellite
+  Constellation Management
 date: 2023-11-30T00:00:00-06:00
 draft: false
 description: 'The role of AI and ML in satellite constellation management '
@@ -10,8 +10,6 @@ type: blog
 layout: single
 author: Dax Garner, CTO
 ---
-# The Role of Artificial Intelligence and Machine Learning in Satellite Constellation Management
-
 ## Breaking Down the Status Quo of Constellation Management
 
 As the number of satellite constellations in space continues to grow, we can anticipate an even greater number of launches in the years to come. Satellite constellations are a crucial part of our modern world, serving diverse functions ranging from global communication networks to Earth observation and navigation systems. However, as these constellations continue to multiply and expand, their management has grown in complexity and scale, demanding a solution.
