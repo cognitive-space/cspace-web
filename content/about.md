@@ -282,17 +282,7 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
               </div>
             </div>
           </div>
-                              <div class="col-lg-4 col-md-6">
-            <div class="single-member">
-              <img decoding="async" src="/wp-content/uploads/2023/09/Zack-Fishbein.jpeg" class="w-100" alt="" />
-              <div class="member-detail">
-                <h3>ZACK FISHBEIN</h3>
-                <span class="position"> VP of Operations </span>
-                <p>Zack, ex-Northrop Grumman space systems engineer and spacecraft product line director, marries spacecraft expertise with tech entrepreneurship.</p>
-              </div>
-            </div>
-          </div>
-                              <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Tarin-Lewis.jpg" class="w-100" alt="" />
               <div class="member-detail">
