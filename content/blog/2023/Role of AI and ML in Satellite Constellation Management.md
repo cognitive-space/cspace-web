@@ -60,7 +60,7 @@ The bottom line? **Automation makes your satellite constellation management more
 
 ## The Future of Constellation Management: CNTIENT-Optimize
 
-[CNTIENT-Optimize](https://www.cognitivespace.com/products) provides a flexible and automated solution for satellite management, capable of handling large constellations, rapid satellite onboarding, and optimizing complex prioritizations.
+[CNTIENT-Optimize](https://www.cognitivespace.com/product/) provides a flexible and automated solution for satellite management, capable of handling large constellations, rapid satellite onboarding, and optimizing complex prioritizations.
 
 With dynamic satellite operations, time is of the essence. CNTIENT-Optimize is designed to slash latency in decision-making processes and tasking, ensuring that critical actions are executed swiftly. This means quicker response times to changing conditions and priorities. Downtime is the enemy of efficiency. CNTIENT-Optimize minimizes downtime, ensuring that your spacecraft and system remains operational. This directly translates into increased productivity and resource utilization.
 
@@ -70,7 +70,7 @@ With dynamic satellite operations, time is of the essence. CNTIENT-Optimize is d
 
 With CNTIENT-Optimize, you can maximize the yield of your spacecraft and system, aligning them more effectively with your business objectives to get the most out of your satellite assets and optimize their performance to meet your operational goals.
 
-In an industry where profitability often hinges on the amount of data collected, Optimize gives a competitive edge. Smaller satellite constellations often find themselves in a race to achieve profitability. [CNTIENT-Optimize](https://www.cognitivespace.com/products) equips them with the tools needed to optimize operations, making it possible to compete effectively in the market.
+In an industry where profitability often hinges on the amount of data collected, Optimize gives a competitive edge. Smaller satellite constellations often find themselves in a race to achieve profitability. [CNTIENT-Optimize](https://www.cognitivespace.com/product/) equips them with the tools needed to optimize operations, making it possible to compete effectively in the market.
 
 **Contact us to automate your satellite operations.**
 
