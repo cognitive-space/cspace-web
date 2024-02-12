@@ -1,14 +1,12 @@
 ---
-title: >-
-  The Role of Artificial Intelligence and Machine Learning in Satellite
-  Constellation Management
+title: This is The Title
 date: 2023-11-30T00:00:00-06:00
-draft: false
+draft: true
 description: 'The role of AI and ML in satellite constellation management '
 image: /uploads/untitled-1.png
 type: blog
 layout: single
-author: Dax Garner, CTO
+author: Test Author
 ---
 ## Breaking Down the Status Quo of Constellation Management
 
