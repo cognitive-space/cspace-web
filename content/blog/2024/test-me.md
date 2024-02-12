@@ -1,6 +1,6 @@
 ---
 title: This is The Title
-date: 2023-11-30T00:00:00-06:00
+date: 2024-02-12T00:00:00-06:00
 draft: false
 description: 'The role of AI and ML in satellite constellation management '
 image: /uploads/untitled-1.png
