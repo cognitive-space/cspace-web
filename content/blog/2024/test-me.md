@@ -2,10 +2,12 @@
 title: >-
   Analyzing Earth Observation Data: Artificial Intelligence, Machine Learning,
   and Cloud Solutions
-date: 2024-02-12T00:00:00-06:00
+date: 2024-02-27T10:00:00-06:00
 draft: true
-description: 'The role of AI and ML in satellite constellation management '
-image: /uploads/untitled-1.png
+description: >-
+  A Recap of "Crunching EO Data: ML, AI, and Cloud Tools" and SmallSat Symposium
+  2024. 
+image: /uploads/crunching-eo-data-10.jpg
 type: blog
 layout: single
 author: Test Author
@@ -20,9 +22,7 @@ During the 2024 SmallSat Symposium, Cognitive Space President and COO, Hanna Ste
 
 Here, we have provided an overview of Hanna's contributions to the panel discussions and the questions posed during the event.
 
-
-
-[*Link to image*](https://drive.google.com/file/d/1JhfCIbksqCNnE-VztAodRAm6U-BdDeSp/view?usp=sharing)
+![](/uploads/crunching-eo-data-19.jpg)
 
 ### *What are the challenges you hear from customers and the market? How does that feedback inform the development of your cloud AI/ML solution?*
 
@@ -40,11 +40,9 @@ Based on discussions we’ve had with satellite constellation operators, it’s 
 
 When working with one commercial constellation operator, we ran our AI/ML dynamic tasking solution, [CNTIENT-Optimize](https://www.cognitivespace.com/product/), in parallel to their existing flight operations software through a systematic “shadow operations'' approach. This method helps to build trust in the system and create a more seamless onboarding process. With the implementation of CNTIENT-Optimize, we observed a time savings of 87% in collection planning per operator per week. Also, in a high-density target region, our AI-driven collection plans typically outperform traditional heuristics algorithms by as much as 4x.
 
+### ![](/uploads/crunching-eo-data-35.jpg)
 
-
-[Link to image](https://drive.google.com/file/d/1AhyyQ-S0O3_XJNU4nJ40UsKBn4ps7oks/view?usp=sharing)
-
-### *How do you deal with concerns like model provenance and security hallucinations?*
+### *How do you deal w**ith concerns like model provenance and security hallucinations?*
 
 We hear a lot of questions from our customers on how the model was trained, the dataset utilized, and why the model is behaving in a certain way. It’s our job to create transparency with the client and walk them through how and why the model does what it does.
 
@@ -54,9 +52,7 @@ Having been witness to multiple satellite failures in the past followed by days 
 
 We can’t continually receive data from LEO satellites like Boeing can with their aircraft in flight, but we can collect enough telemetry data for predictive AI and ML to flag anomalies or potential points of failure before it becomes an issue, rather than after. That would be a game-changer.
 
-
-
-[Link to image](https://drive.google.com/file/d/13G18m9OPIZS8k8jcP5ZhWTiJR3MoGhf1/view?usp=sharing)
+![](/uploads/crunching-eo-data-10.jpg)
 
 ### *In the present, are you seeing machine-to-machine AI interactions happening with your customers?*
 
