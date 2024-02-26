@@ -1,5 +1,7 @@
 ---
-title: This is The Title
+title: >-
+  Analyzing Earth Observation Data: Artificial Intelligence, Machine Learning,
+  and Cloud Solutions
 date: 2024-02-12T00:00:00-06:00
 draft: true
 description: 'The role of AI and ML in satellite constellation management '
@@ -8,68 +10,62 @@ type: blog
 layout: single
 author: Test Author
 ---
-## Breaking Down the Status Quo of Constellation Management
+#
 
-As the number of satellite constellations in space continues to grow, we can anticipate an even greater number of launches in the years to come. Satellite constellations are a crucial part of our modern world, serving diverse functions ranging from global communication networks to Earth observation and navigation systems. However, as these constellations continue to multiply and expand, their management has grown in complexity and scale, demanding a solution.
+## A Recap of SmallSat Symposium 2024
 
-Artificial Intelligence (AI) and Machine Learning (ML) are reshaping satellite constellation management, characterized by dynamic and adaptive solutions that hold the potential to address the complexities of modern space technology. As we look [to the future](https://cognitivespace.com/blog/automated-satellite-operations-pioneering-the-future-of-constellation-management/), these technologies will play a critical role in ensuring the continued success and reliability of satellite constellations.
+When business strategy and advanced technology collide, innovation flourishes. The [SmallSat Symposium](https://2024.smallsatshow.com/#) offers an opportunity for industry professionals to discuss and navigate the shifting landscape of the SmallSat market amidst predictions of significant change in 2024.
 
-## What Is The Current State of Satellite Constellation Management?
+During the 2024 SmallSat Symposium, Cognitive Space President and COO, Hanna Steplewska had the pleasure of sharing her industry insights on the panel discussion “Crunching EO Data: ML, AI and Cloud Tools”. Joined by fellow industry leaders and moderated by Dr. Eric Anderson, President of And One Technologies, the discussion explored the practical application of Ml, AI and cloud tools in the satellite industry currently, and in the future.
 
-The current landscape of satellite constellation management has largely relied on conventional methods that, while functional, may not be fully equipped to address the dynamic and evolving challenges of modern space technology.
+Here, we have provided an overview of Hanna's contributions to the panel discussions and the questions posed during the event.
 
-One simple approach that's been widely adopted in the industry is the First In, First Out (FIFO) model. With this methodology, customer orders are fulfilled strictly in the order they are received, without considering the broader activities and revenue drivers of the satellite constellation. While this approach can be efficient for
 
-straightforward operations, it often fails to adapt to rapidly changing customer priorities and the need for dynamic responses.
 
-Thus, many operators of satellite constellations opt to build their own tools in-house. These tools often involve scripting basic mission management functions, such as deciding on collection priorities, managing communications, and scheduling satellite operations, in a decentralized way. These scripts essentially hardcode adaptability and variability breakdowns, which can limit their effectiveness when facing complex and unpredictable scenarios. Such scripts are typically designed to handle routine tasks and may struggle when dealing with unexpected challenges. While this approach provides a degree of control, it can lead to a rigid system that struggles to adapt to rapidly changing circumstances.
+[*Link to image*](https://drive.google.com/file/d/1JhfCIbksqCNnE-VztAodRAm6U-BdDeSp/view?usp=sharing)
 
-Furthermore, some companies claim to offer products for satellite constellation management, aiming to provide turnkey Tracking, Telemetry, and Control (TTC) systems as a service. However, these solutions often turn out to be little more than interfaces for scripting commands, lacking the big-picture perspective required for effectively managing a satellite constellation. While these options may offer some level of automation, the reality is that many of these tools fall short when it comes to providing the true management capabilities required for dynamic decision-making.
+### *What are the challenges you hear from customers and the market? How does that feedback inform the development of your cloud AI/ML solution?*
 
-**With swiftly changing customer priorities, variable satellite health, and an increasingly competitive market, the need for a more dynamic and adaptable approach to satellite constellation management is evident.** The limitations of conventional methods are driving the industry to seek innovative solutions that can navigate the intricacies of modern space technology.
+What we commonly see with customers is that there is a lot of friction within the process of acquiring data. Constellation management today largely relies on manual decision-making for tasks that have a varying number of parameters and variables attached to them, which only lengthens the process. Customers frequently encounter difficulties in identifying suitable providers, evaluating feasibility, and efficiently managing timelines. These challenges result in prolonged communication through emails and phone calls, as well as operational bottlenecks and delays.
 
-## AI & ML Applications in Constellation Management
+### *Is there a promising application for AI/ML like ChatGPT in satellite earth observation?*
 
-For far too long, satellite constellation management has relied on manual, human-driven approaches for deployment, control, and monitoring. However, Artificial Intelligence and Machine Learning are playing an increasingly pivotal role in managing satellite constellations. These advanced technologies offer dynamic and adaptive solutions that can address the decision making for many routine tasks and procedures. Here's a closer look at how AI and ML are reshaping the landscape:
+The utilization of ChatGPT and other models for conducting natural language searches within archives and addressing task-related queries is very promising.
 
-### Automated Decision-Making
+For instance, [Danti](https://danti.ai/), a large language model built on ChatGPT, specializes in examining geospatial archive holdings. It effectively interprets natural language queries related to geospatial data, providing results tailored to the needs of geospatial professionals. By asking questions in everyday language, such as inquiring about the availability of imagery across various sensors over a specific area and time frame, users can obtain relevant and accurate results. This application streamlines the interaction with satellite earth observation data, making it more accessible and user-friendly for professionals in the field.
 
-Satellite constellation management involves a multitude of parameters and variables, including priority, latency requirements, environmental factors, cloud cover, and ground station availability, among others. AI and ML systems excel at automating decision-making processes, leveraging real-time data and predictive analytics to optimize scheduling, collection management, and link management.
+### *Can you share a use case where you have applied AI/ML running on cloud services with a customer?*
 
-### Dynamic Adaptability
+Based on discussions we’ve had with satellite constellation operators, it’s become evident that once they reach around 4 or 5 spacecraft, the human involvement in decision-making becomes overwhelmed by the sheer volume of orbits and order stacks. This is precisely where [AI and ML step in](https://www.cognitivespace.com/blog/2023/automated-satellite-operations/), enabling automated decision-making for the prioritization of data collection while optimizing resource allocation, thereby driving revenue and achieving KPI outcomes for the business.
 
-Traditional heuristic-based software often struggles to adapt swiftly to changing conditions. AI and ML provide a dynamic framework that can respond in real-time to alterations in operational priorities, unexpected shifts in demand, or environmental changes. Learning and relearning as the constellation is flown. This adaptability ensures the efficient use of satellite resources.
+When working with one commercial constellation operator, we ran our AI/ML dynamic tasking solution, [CNTIENT-Optimize](https://www.cognitivespace.com/product/), in parallel to their existing flight operations software through a systematic “shadow operations'' approach. This method helps to build trust in the system and create a more seamless onboarding process. With the implementation of CNTIENT-Optimize, we observed a time savings of 87% in collection planning per operator per week. Also, in a high-density target region, our AI-driven collection plans typically outperform traditional heuristics algorithms by as much as 4x.
 
-### Scheduling Optimization
 
-Machine learning techniques enable the dynamic automation of scheduling tasks. These systems can continuously analyze and optimize the allocation of satellite resources, ensuring that data is collected and transmitted in the most efficient and timely manner possible. This is particularly valuable in scenarios where customer demands fluctuate rapidly.
 
-### Collection Management
+[Link to image](https://drive.google.com/file/d/1AhyyQ-S0O3_XJNU4nJ40UsKBn4ps7oks/view?usp=sharing)
 
-AI and ML can assist in the management of data collection by intelligently prioritizing requests based on factors such as urgency, data availability, and mission objectives. This ensures that the most critical data is acquired first, enhancing the overall utility of the satellite constellation.
+### *How do you deal with concerns like model provenance and security hallucinations?*
 
-### Link Management
+We hear a lot of questions from our customers on how the model was trained, the dataset utilized, and why the model is behaving in a certain way. It’s our job to create transparency with the client and walk them through how and why the model does what it does.
 
-Efficiently managing data links is crucial to satellite constellation performance. AI and ML techniques can analyze link conditions in real-time and make adjustments to ensure optimal data transfer rates. This is especially vital in situations where bandwidth is limited or communication quality varies.
+### *How is processing onboard satellites useful?*
 
-AI and ML can [automate complex decision-making processes](https://cognitivespace.com/blog/automated-satellite-operations-pioneering-the-future-of-constellation-management/) and dynamically adapt to changing circumstances. These technologies enhance efficiency, optimize resource allocation, and ultimately improve the reliability and utility of satellite-based services in an ever-evolving landscape.
+Having been witness to multiple satellite failures in the past followed by days of stressed engineers trying to pinpoint where the failure occurred and how to mitigate the issue so that the mission can continue, it would have been really powerful to have insights into system health similar to what aircraft manufacturers have.
 
-The bottom line? **Automation makes your satellite constellation management more efficient than ever.**
+We can’t continually receive data from LEO satellites like Boeing can with their aircraft in flight, but we can collect enough telemetry data for predictive AI and ML to flag anomalies or potential points of failure before it becomes an issue, rather than after. That would be a game-changer.
 
-## The Future of Constellation Management: CNTIENT-Optimize
 
-[CNTIENT-Optimize](https://www.cognitivespace.com/product/) provides a flexible and automated solution for satellite management, capable of handling large constellations, rapid satellite onboarding, and optimizing complex prioritizations.
 
-With dynamic satellite operations, time is of the essence. CNTIENT-Optimize is designed to slash latency in decision-making processes and tasking, ensuring that critical actions are executed swiftly. This means quicker response times to changing conditions and priorities. Downtime is the enemy of efficiency. CNTIENT-Optimize minimizes downtime, ensuring that your spacecraft and system remains operational. This directly translates into increased productivity and resource utilization.
+[Link to image](https://drive.google.com/file/d/13G18m9OPIZS8k8jcP5ZhWTiJR3MoGhf1/view?usp=sharing)
 
-## <!-- notionvc: b1caf63c-b6f3-40a4-a646-0f6a0e82799d -->
+### *In the present, are you seeing machine-to-machine AI interactions happening with your customers?*
 
-![](/uploads/untitled-1.png)*CNTIENT-Optimize AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations*<!-- notionvc: 233e804a-90c2-4522-9192-1637c719157f -->
+Yes. Through our product CNTIENT-Optimize, we employ AI and ML to [automate complex decision-making processes](https://www.cognitivespace.com/blog/2023/role-of-ai-and-ml-in-satellite-constellation-management/) and dynamically adapt to evolving conditions, making the satellite constellation management process more efficient. When the data produced by CNTIENT-Optimize is subsequently transmitted to a provider utilizing an AI/ML engine to manage a significant portion of system tasking, a machine-to-machine AI interaction occurs, although human oversight remains a part of the process.
 
-With CNTIENT-Optimize, you can maximize the yield of your spacecraft and system, aligning them more effectively with your business objectives to get the most out of your satellite assets and optimize their performance to meet your operational goals.
+### *In 2024, what’s the new thing you’ll provide?*
 
-In an industry where profitability often hinges on the amount of data collected, Optimize gives a competitive edge. Smaller satellite constellations often find themselves in a race to achieve profitability. [CNTIENT-Optimize](https://www.cognitivespace.com/product/) equips them with the tools needed to optimize operations, making it possible to compete effectively in the market.
+High confidence in the feasibility of data collection that is available to customers.
 
-**Contact us to automate your satellite operations.**
+[Contact Cognitive Space](https://www.cognitivespace.com/contact/) to automate your satellite operations.
 
 <!-- notionvc: de0237cf-c9da-4765-840a-71800151ed61 -->
