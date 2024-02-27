@@ -3,7 +3,7 @@ title: >-
   Analyzing Earth Observation Data: Artificial Intelligence, Machine Learning,
   and Cloud Solutions
 date: 2024-02-27T10:00:00-06:00
-draft: true
+draft: false
 description: >-
   A Recap of "Crunching EO Data: ML, AI, and Cloud Tools" and SmallSat Symposium
   2024. 
@@ -42,7 +42,7 @@ When working with one commercial constellation operator, we ran our AI/ML dynami
 
 ### ![](/uploads/crunching-eo-data-35.jpg)
 
-### *How do you deal w**ith concerns like model provenance and security hallucinations?*
+### *How do you deal w\*\*ith concerns like model provenance and security hallucinations?*
 
 We hear a lot of questions from our customers on how the model was trained, the dataset utilized, and why the model is behaving in a certain way. It’s our job to create transparency with the client and walk them through how and why the model does what it does.
 
