@@ -5,12 +5,12 @@ title: >-
 date: 2024-02-27T10:00:00-06:00
 draft: false
 description: >-
-  A Recap of "Crunching EO Data: ML, AI, and Cloud Tools" and SmallSat Symposium
+  A Recap of "Crunching EO Data: ML, AI, and Cloud Tools" at SmallSat Symposium
   2024. 
 image: /uploads/crunching-eo-data-10.jpg
 type: blog
 layout: single
-author: Test Author
+author: Tarin Lewis
 ---
 #
 
