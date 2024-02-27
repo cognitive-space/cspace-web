@@ -10,7 +10,7 @@ description: >-
 image: /uploads/crunching-eo-data-10.jpg
 type: blog
 layout: single
-author: Test Author
+author: Tarin Lewis
 ---
 #
 
