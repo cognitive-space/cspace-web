@@ -6,6 +6,7 @@ description: Cognitive Space, the market leader in intelligent space automation,
 image: /wp-content/uploads/2023/10/Cognitive-Space-SVSW-Slide-1.png
 type: news
 layout: single
+url: /news/cognitive-space-raises-4million
 ---
 
 *Funding enables pioneering technology to deliver the new frontier of automated constellation management.*

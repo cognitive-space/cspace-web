@@ -7,6 +7,7 @@ image: /uploads/2023-satellite-innovation.jpeg
 type: blog
 layout: single
 author: Tarin Lewis, VP of Commercial BD
+url: /blog/ai-ml-cloud-computuing-innovations
 ---
 # AI, ML, and Cloud Computing Innovations in the Satellite Industry: A Reflection of Silicon Valley Space Week 2023
 

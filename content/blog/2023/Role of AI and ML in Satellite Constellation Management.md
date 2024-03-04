@@ -9,6 +9,7 @@ image: /uploads/untitled-1.png
 type: blog
 layout: single
 author: Dax Garner, CTO
+url: /blog/role-ai-ml-satellite-constellations
 ---
 ## Breaking Down the Status Quo of Constellation Management
 
