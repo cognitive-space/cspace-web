@@ -2,7 +2,7 @@
 title: Hello World - Founder's Introduction, Introspection, and Thoughts on the Future
 date: 2022-11-08T00:00:00-06:00
 draft: false
-description: Cognitive Space's CEO and Founder, Guy de Carufel, talks Introduction, Introspection,
+description: Cognitive Space's CEO and Founder, Guy de Carufel, talks Introduction, Introspection, and Innovation in space technology.
 image: /wp-content/uploads/2022/08/ScreenShot2022-11-08at9.54.46AM.png
 type: blog
 layout: single

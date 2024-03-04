@@ -2,7 +2,7 @@
 title: "Automated Satellite Operations: Pioneering the Future of Constellation Management"
 date: 2023-10-06T00:00:00-06:00
 draft: false
-description: The ever-expanding space ecosystem is ushering in a new era of
+description: Discover how automated satellite operations empowers operators to prioritize critical decision-making processes.
 image: /wp-content/uploads/2023/10/iStock-494562740-scaled.jpg
 type: blog
 layout: single

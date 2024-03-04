@@ -2,7 +2,7 @@
 title: Cognitive Space's Founder, Guy de Carufel, at Space Innovation Summit 2022
 date: 2022-08-30T00:00:00-06:00
 draft: false
-description: Our founder, Guy de Carufel, was honored to speak on this
+description: Our founder, Guy de Carufel, speaks at Space Innovation Summit on Cognitive Space's role in orchestrating multi-sensor constellations for Tactical ISR.
 image: /wp-content/uploads/2022/08/ScreenShot2022-10-26at2.47.33PM.png
 type: blog
 layout: single

@@ -2,7 +2,7 @@
 title: Cognitive Space Raises $4M to Further Fuel its Mission of Intelligent Space Automation
 date: 2023-10-16T00:00:00-06:00
 draft: false
-description: Funding enables pioneering technology to deliver the new frontier of automated
+description: Cognitive Space, the market leader in intelligent space automation, today announced it has raised $4M in seed+ funding during the second quarter of 2023.
 image: /wp-content/uploads/2023/10/Cognitive-Space-SVSW-Slide-1.png
 type: news
 layout: single

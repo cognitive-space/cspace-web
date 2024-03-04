@@ -3,6 +3,7 @@ title: CNTIENT-Optmize for AI-Powered Mission Planning
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-226
+Description: CNTIENT-Optimize unlocks AI-powered decision-making for highly complex & dynamic order stacks, evolving satellite fleets, & demanding mission requirements.
 ---
 
 <article id="post-226" class="post-226 page type-page status-publish hentry">

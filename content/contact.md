@@ -3,6 +3,7 @@ title: Contact
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-470
+Description: Connect with us at Cognitive Space. Let’s start a conversation today.
 ---
 
 <article id="post-470" class="post-470 page type-page status-publish hentry">

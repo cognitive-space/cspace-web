@@ -2,7 +2,7 @@
 title: AI, ML, and Cloud Computing Innovations in the Satellite Industry
 date: 2023-11-10T01:00:00-06:00
 draft: false
-description: '2023 Silicon Valley Space Week Recap '
+description: A reflection of Silicon Valley Space Week 2023, highlighting discussions on AI, ML, and cloud computing in the satellite industry.
 image: /uploads/2023-satellite-innovation.jpeg
 type: blog
 layout: single

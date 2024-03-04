@@ -5,6 +5,7 @@ layout: list
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: page-template page-template-template-news page-template-template-news-php page page-id-19
+Description: Stay up to date with the latest news and press from Cognitive Space.
 ---
 
 <section id="19" class=" product-banner blog-banner" style="background-image: url('../wp-content/themes/cognitive-space/assets/images/news-bg.png');">
