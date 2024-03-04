@@ -3,6 +3,7 @@ title: About
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-356
+Description: Cognitive Space provides automated satellite operations that enable constellations to scale while meeting the ever-growing and stringent market needs.
 ---
 
 <article id="post-356" class="post-356 page type-page status-publish hentry">

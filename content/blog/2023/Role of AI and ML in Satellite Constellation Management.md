@@ -4,7 +4,7 @@ title: >-
   Constellation Management
 date: 2023-11-30T00:00:00-06:00
 draft: false
-description: 'The role of AI and ML in satellite constellation management '
+description: AI and ML's role in satellite constellation management, optimizing decisions and resource allocation for efficient space operations.
 image: /uploads/untitled-1.png
 type: blog
 layout: single

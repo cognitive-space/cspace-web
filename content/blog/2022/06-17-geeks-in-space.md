@@ -2,7 +2,7 @@
 title: "Reality 2.0 Podcast - Episode 115: Geeks In Space"
 date: 2022-06-17T00:00:00-06:00
 draft: false
-description: Katherine Druckman and Doc Searls talk to Paul Bailey of Cognitive
+description: Katherine Druckman and Doc Searls talk open source, aerospace engineering, satellite management, and the space shuttle with Paul Bailey from Cognitive Space.
 image: /wp-content/uploads/2023/10/ScreenShot2022-10-26at2.54.10PM.png
 type: blog
 layout: single

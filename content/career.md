@@ -3,6 +3,7 @@ title: Career
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-333
+Description: Discover exciting career opportunities at Cognitive Space, where you can contribute to orchestrating the evolution of space.
 ---
 
 <article id="post-333" class="post-333 page type-page status-publish hentry">

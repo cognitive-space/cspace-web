@@ -5,6 +5,7 @@ layout: list
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: blog hfeed
+Description: Find the latest satellite operations insights and industry trends from the Cognitive Space team.
 ---
 
 <!-- banner start  -->
