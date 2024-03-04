@@ -11,6 +11,7 @@ image: /uploads/crunching-eo-data-10.jpg
 type: blog
 layout: single
 author: Tarin Lewis
+url: /blog/analyzing-earth-observation-data
 ---
 #
 
