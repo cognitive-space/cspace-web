@@ -8,6 +8,8 @@ type: blog
 layout: single
 author: Paul Bailey, Chief Architect
 url: /blog/geeks-in-space
+aliases:
+- /blog/2022/06-17-geeks-in-space/
 ---
 
 Katherine Druckman and Doc Searls talk to Paul Bailey, Chief Architect of Cognitive Space about open source code, aerospace engineering, managing satellites, and the space shuttle!
