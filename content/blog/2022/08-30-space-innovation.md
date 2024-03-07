@@ -8,6 +8,8 @@ type: blog
 layout: single
 author: Guy de Carufel, CEO & Founder
 url: /blog/space-innovation
+aliases:
+- /blog/2022/08-30-space-innovation/
 ---
 
 Our Founder, [Guy de Carufel](https://www.linkedin.com/in/ACoAAAHechABsB3QNkUE71SAxvqfr1ATuW7ONbU) was honored to speak on this distinguished panel alongside Colonel [Bill Woolf](https://www.linkedin.com/in/ACoAAAA_raEBfzXKU1RZXeYl-OgFRBCvumRkbyI) (Ret), [Doug Hulse](https://www.linkedin.com/in/ACoAAAKJWysBIVF-nqTxLdidwRrY6I8qjxQFkvE), and Col [Dennis Birchenough](https://www.linkedin.com/in/ACoAAAtHfJABLbTeVuJ5_J8Lxo-T1YEIVquc-uI) at the Space Innovation Summit, 2022.

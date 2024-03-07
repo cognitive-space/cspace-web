@@ -8,6 +8,8 @@ type: blog
 layout: single
 author: Guy de Carufel, CEO & Founder
 url: /blog/hello-world-founder
+aliases:
+- /blog/2022/11-08-hello-world-founder/
 ---
 
 What if we lived in a world where human progress and sustainability were in alignment? If you look at progress in Space and AI as two examples out of many in deep tech (genetics, fusion tech, quantum, nano materials, etc.), they are in complete alignment. Space promises ways to better understand our world, creates open fields for new economic frontiers, and gives a global perspective of the Earth, from a national security, sustainability, and connectivity point of view. Many who have gone to space have shared a sense of reverence for our planet, or even deep sadness in how we must be better stewards of our mother ship ([read](https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/) William Shatner's poignant account of his Overview Effect experience). Artificial intelligence gives the promise of immense efficiencies, through better understanding of cause and effects, leading to more effective decisions for a growing economy and a sustainable society.

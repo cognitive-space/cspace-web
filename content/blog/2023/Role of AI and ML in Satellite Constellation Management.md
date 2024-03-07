@@ -10,6 +10,8 @@ type: blog
 layout: single
 author: Dax Garner, CTO
 url: /blog/role-ai-ml-satellite-constellations
+aliases:
+- /blog/2023/role-of-ai-and-ml-in-satellite-constellation-management/
 ---
 ## Breaking Down the Status Quo of Constellation Management
 

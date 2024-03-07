@@ -7,6 +7,8 @@ image: /wp-content/uploads/2023/10/Cognitive-Space-SVSW-Slide-1.png
 type: news
 layout: single
 url: /news/cognitive-space-raises-4million
+aliases:
+- /news/2023/10-16-seed-raise/
 ---
 
 *Funding enables pioneering technology to deliver the new frontier of automated constellation management.*

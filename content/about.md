@@ -279,17 +279,19 @@ Description: Cognitive Space provides automated satellite operations that enable
               <div class="member-detail">
                 <h3>PAUL BAILEY</h3>
                 <span class="position"> Chief Architect </span>
-                <p>Paul is an award-winning and  passionate web developer who is building and leading the next generation of cutting-edge web technologies.</p>
+                <p>Paul is an award-winning and passionate web developer who is building and leading the next generation of cutting-edge web technologies.</p>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="single-member">
-              <img decoding="async" src="/wp-content/uploads/2023/09/Tarin-Lewis.jpg" class="w-100" alt="" />
+              <img decoding="async" src="/img/georgek.jpg" class="w-100" alt="" />
               <div class="member-detail">
-                <h3>TARIN LEWIS</h3>
-                <span class="position"> VP of Commercial BD </span>
-                <p>Tarin, an experienced BD leader with a scientific background and a passion for remote sensing, leads the commercial strategy by advocating for the industry and promoting AI for constellation operations.</p>
+                <h3>GEORGE KIRBY</h3>
+                <span class="position">VP of Business Development</span>
+                <p>
+                  Whether its renovating a historical home or building a sales pipeline with new digital products, George is an expert at his craft. With former service in the Marines, George also brings a passion and drive to push the Cognitive Space business to the next level.
+                </p>
               </div>
             </div>
           </div>
