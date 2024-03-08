@@ -19,7 +19,7 @@ In the world of commercial satellite imagery, owning and operating your own sate
 
 While I described the process as simple, it is in fact much more complex - as you consider tasking across multiple satellite orbits, collection angles, lighting conditions, weather patterns, command and control, uplink and downlink ground station schedules, data backhaul networks, storage capacities, product production, and dissemination. Restated, the simple part is prioritizing your request on your own satellite.&nbsp;
 
-As the majority of this blog's readers do not own satellites, acquiring satellite imagery entails reaching out to a commercial satellite company. With numerous other clients seeking these services for image collection, **many discover that their priority is now co-mingled with the prioritized requests of hundreds, or even thousands of other customers, all competing for attention in the collection queue.** So ** ** tasking gets more complicated, for the customer and for the data provider.&nbsp;&nbsp;
+As the majority of this blog's readers do not own satellites, acquiring satellite imagery entails reaching out to a commercial satellite company. With numerous other clients seeking these services for image collection, **many discover that their priority is now co-mingled with the prioritized requests of hundreds, or even thousands of other customers, all competing for attention in the collection queue.** So tasking gets more complicated, for the customer and for the data provider.&nbsp;&nbsp;
 
 ## Complexities in Choosing the Right Commercial Satellite Company for Your Collection Request(s)
 
