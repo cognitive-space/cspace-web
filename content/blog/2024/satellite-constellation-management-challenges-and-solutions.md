@@ -1,6 +1,6 @@
 ---
 title: 'Satellite Constellation Management: Challenges and Solutions'
-date: 2024-03-20T11:00:00-05:00
+date: 2024-03-20T10:30:00-05:00
 draft: false
 description: >-
   Satellite constellations, through multi-spacecraft deployment and diverse
