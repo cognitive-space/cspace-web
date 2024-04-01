@@ -23,9 +23,7 @@ During the 2024 SmallSat Symposium, Cognitive Space Founder and CEO, Guy de Caru
 
 Here, we provide an overview of Guy’s contributions to the panel discussion and the questions posed during the event.
 
-&nbsp;
-
-*<img src="https://lh7-us.googleusercontent.com/yuFRMecc7wuSc0zCNj5padldyAyzdGoQ0m9zjs4WKgFIHHJsxR2Ukovsjmm6ZAg11b1ruqFcEOQduXThIeD5TSo5QS_dG1A1UmMU5_7VhGjYf7ThHsGzzM_X0hOPYRDfNXtVT5Kq474RfhguvNh8lJ8" height="201" width="302" />*
+![](/uploads/building-eo-services-54-1.jpg)
 
 ### *What strategies does Cognitive Space employ to manage the balance between standardization and diversity in customer requirements? Can you tell us more about Cognitive Space?*
 
@@ -41,9 +39,7 @@ In terms of integrating with providers for ordering processes, we’re seeing a 
 
 While standardization is increasing, and we’re starting to see more providers come online, there are still broad variations among providers. Today, any provider coming online must offer an API that supports communication, whether it's through restful APIs, GraphQL, or other means. The ability to facilitate machine-to-machine communication is essential for relevance in the current landscape.
 
-&nbsp;
-
-<img src="https://lh7-us.googleusercontent.com/MOMJvCPMNLKmx9kyzE8DPz5KYi0orEr3BW_m2qQqj7MsQ7IiwKY0xPPMg-rRdbZ1IxXbAcQP4iNVEzKt7Fizp9aDy6eyc6opLVXFWqlnMnZqrRyUnp7n6DELYwJddw1GocAxJnGQnHWFw2V-8AM8620" height="251" width="376" />
+![](/uploads/building-eo-services-24-1.jpg)
 
 ### *How do commercial Earth observation (EO) companies respond when governments offer comparable data at no cost?*
 
@@ -61,7 +57,7 @@ Currently, the majority of our business relies on US government contracts. Given
 
 The shift towards mass markets accessing imagery and procuring data from multiple providers will change how earth observation is utilized across various sectors. Ultimately, we hope to reach a point where we can reduce our dependence on the US government and establish partnerships with commercial end users of space data to diversify our customer base and expand opportunities within the industry.
 
-<img src="https://lh7-us.googleusercontent.com/msuDtp9SLKDCJhXSJJfohlwreFAspvGcTR4oMFSbIQCZYUcb8tNJJz06Jvb70Z80xNdSG2yEEu1M9YiiL4X-praaM0UIXid47U5Uw9OydS3Afct_2HQuCYtQa2dI3vtXhEkQIlw-LXfy1feE0SvOaG8" height="216" width="325" />
+![](/uploads/building-eo-services-1-2.jpg)
 
 ### *Should efforts be made to aggregate data from multiple EO companies?*
 
