@@ -3,7 +3,7 @@ title: >-
   Developing Earth Observation Solutions for Commercial, Government, and
   Military Users
 date: 2024-04-01T12:00:00-05:00
-draft: true
+draft: false
 description: A Recap of SmallSat Symposium 2024
 image: /uploads/building-eo-services-1.jpg
 type: blog
