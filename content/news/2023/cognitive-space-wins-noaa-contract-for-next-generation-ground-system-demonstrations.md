@@ -7,7 +7,7 @@ draft: false
 description: >-
   The startup’s automated intelligence constellation management technology helps
   lower costs and improve mission outcomes for U.S. government use cases.
-image: /wp-content/uploads/2023/10/Cognitive-Space-SVSW-Slide-1.png
+image: /uploads/noaa-2.png
 type: news
 layout: single
 url: /news/cognitive-space-wins-NOAA-contract
