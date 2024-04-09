@@ -10,7 +10,7 @@ description: >-
 image: /uploads/noaa-2.png
 type: news
 layout: single
-external_url:
+external_url: /news/cognitive-space-wins-NOAA-contract
 ---
 **Cognitive Space Wins NOAA Contract for Next-Generation <br>Ground System Demonstrations**
 
