@@ -3,7 +3,7 @@ title: >-
   Cognitive Space Wins NOAA Contract for Next-Generation  Ground System
   Demonstrations
 date: 2024-04-10T09:00:00-05:00
-draft: true
+draft: false
 description: >-
   The startup’s automated intelligence constellation management technology helps
   lower costs and improve mission outcomes for U.S. government use cases.
