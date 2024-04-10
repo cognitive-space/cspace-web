@@ -14,9 +14,9 @@ url: /news/cognitive-space-wins-NOAA-contract
 aliases:
   - /news/cognitive-space-wins-NOAA-contract
 ---
-**Cognitive Space Wins NOAA Contract for Next-Generation <br>Ground System Demonstrations**
+# **Cognitive Space Wins NOAA Contract for Next-Generation <br>Ground System Demonstrations**
 
-*The startup’s automated intelligence constellation management technology helps lower costs and improve mission outcomes for U.S. government use cases.*
+## *The startup’s automated intelligence constellation management technology helps lower costs and improve mission outcomes for U.S. government use cases.*
 
 **Houston, TX, April 10, 2024** – [Cognitive Space](https://www.cognitivespace.com/) today announced it was awarded a $900K contract with the National Oceanic and Atmospheric Administration (NOAA) for Ground Processing Demonstrations under the Broad Agency Announcement (BAA-NOAA-GPD-2023).
 
