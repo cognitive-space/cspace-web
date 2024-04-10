@@ -44,7 +44,7 @@ Cognitive Space is the market leader in intelligent space automation. By leverag
 
 **Media Contact**
 
-media@cognitivespace.com
+[media@cognitivespace.com](mailto:media@cognitivespace.com)
 
 [Cognitive Space](https://www.cognitivespace.com/)
 
