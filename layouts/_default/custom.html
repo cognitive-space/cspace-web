@@ -1,0 +1,21 @@
+{{ define "main" }}
+<style>
+  .custom-page {
+    max-width: 800px;
+    margin: 20px auto;
+    color: white;
+    font-size: 18px;
+  }
+
+  h2 {
+    margin: 20px 0 10px 0;
+  }
+
+  p {
+    margin: 10px 0;
+  }
+</style>
+<div class="custom-page">
+  {{ .Content }}
+</div>
+{{ end }}

@@ -45,7 +45,10 @@ Description: Discover exciting career opportunities at Cognitive Space, where yo
             <div class="list-parent col-lg-8 col-md-8 wow">
                 <div class="list-inner">
                     <div class="wrapRight">
-                      <script type="text/javascript" src="https://app.jazz.co/widgets/basic/create/cognitivespace" charset="utf-8"></script>
+                      <strong>
+                        There are currently no open positions. Please check back often for updates and to view all open positions.
+                      </strong>
+                      <!-- <script type="text/javascript" src="https://app.jazz.co/widgets/basic/create/cognitivespace" charset="utf-8"></script> -->
                     </div>
                 </div>
             </div>
