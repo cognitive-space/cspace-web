@@ -6,6 +6,8 @@ Description: Cognitive Space privacy policy.
 layout: custom
 ---
 
+# Privacy Policy
+
 Our Privacy Policy was last updated and posted June 2022. It governs the privacy terms of the Company, namely Cognitive Space, Inc.
 
 ## Your Privacy
