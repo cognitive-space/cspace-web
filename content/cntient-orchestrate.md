@@ -64,23 +64,13 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
 <section id="iframe_block_d294a55ef6b6adab9476489f066db079" class=" modern-solution new-frontier modern-solution"  >
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 col-md-12">
-        <div
-          class="video_box position-relative wow z-3"
-        >
-                      <img decoding="async" src="/wp-content/uploads/2023/09/morden-solution-bg.png" class="hero-side-bg" alt="" title="morden-solution-bg">
-                    <a
-            data-fancybox
-            class="position-relative"
-            href="/vid/MODERN-SOLUTION.mp4"
-          >
-                                <img
-              class="img-fluid"
-              src="/wp-content/uploads/2023/09/morden-solution-1.png"
-              alt=""
-              title="morden-solution (1)"
-            />
-                      <div class="yt-button">
+      <!-- Put New VIDEO HERE -->
+      <div class="col-lg-6 col-md-12" style="display: none">
+        <div class="video_box position-relative wow z-3">
+          <img decoding="async" src="/wp-content/uploads/2023/09/morden-solution-bg.png" class="hero-side-bg" alt="" title="morden-solution-bg">
+          <a data-fancybox class="position-relative" href="/vid/MODERN-SOLUTION.mp4">
+            <img class="img-fluid" src="/wp-content/uploads/2023/09/morden-solution-1.png" alt="" title="morden-solution (1)"/>
+            <div class="yt-button">
               <div class="request-loader">
                 <span
                   ><img
@@ -93,19 +83,30 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
           </a>
         </div>
       </div>
-      <div class="col-lg-6 col-md-12">
-        <div class="align-center">
+      <div>
+      <!--<div class="col-lg-6 col-md-12">-->
+        <div class="align-center" style="max-width: 800px; margin: 0 auto;">
           <div>
-                        <h3 class="small-title wow">
-              A MODERN SOLUTION FOR MODERN NEEDS            </h3>
-                                    <p class="paragraph mb_38 wow">
-              Traditional satellite management operations are no longer viable: they are too slow, too operator-focused, and can’t scale with your constellation. CNTIENT-Optimize offers dynamic, automated satellite management​ to handle large constellations, onboard new satellites quickly, and optimize complex prioritizations.            </p>
+                        <h3 class="small-title wow">A MODERN SOLUTION FOR MODERN NEEDS</h3>
+                        <p class="paragraph mb_38 wow">
+                          Current processes for planning and ordering new satellite data tasking are outdated and not viable for the future: they are too slow, unreliable, manual, and do not scale to meet the needs of both the data users and the satellite data providers. CNTIENT-Orchestrate is an intelligent, automated order feasibility and order management tool that automates the interface between data users and satellite data providers - with benefits to both in terms of confidence, reliability and predictability of order fulfillment.
+                        </p>
                         <ul class="listing wow">
-                            <li><span>AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations</span></li>
-                            <li><span>Rich and intuitive web user interface for order management and automated scheduler</span></li>
-                            <li><span>Well defined GraphQL API with webhooks for streamlined closed-loop integration</span></li>
-                            <li><span>Multi-GSN pass reservation automation and optimization</span></li>
-                            <li><span>Support complex order types (recurring, stereo, line and area targets, etc.), for any sensor type (EO, SAR, HSI, IR, RF, etc.)</span></li>
+                          <li><span>
+                            AI-based automated, intelligent, and unbiased feasibility assessment of potential orders and active orders for increased visibility and confidence in order fulfillment
+                          </span></li>
+                          <li><span>
+                            Rich and intuitive web user interface for evaluating image request feasibilities and ongoing order management
+                          </span></li>
+                          <li><span>
+                            Well defined GraphQL API with webhooks for streamlined closed-loop integration
+                          </span></li>
+                          <li><span>
+                            Direct and simplified API integration with multiple satellite data providers for order entry and order status
+                          </span></li>
+                          <li><span>
+                            Supports existing and future constellations in optical, SAR, hyperspectral, RF, thermal and LIDAR.
+                          </span></li>
                           </ul>
                       </div>
         </div>
@@ -123,55 +124,69 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
 <!-- new frontier section start -->
 <section id="iframe_block_5771a6589d03c1d3e2c966e42863d8c9" class=" new-frontier Difference" >
   <div class="container">
-          <h2 class="title">THE CNTIENT-OPTIMIZE DIFFERENCE</h2>
+          <h2 class="title">THE CNTIENT-ORCHESTRATE DIFFERENCE</h2>
     <div class="row justify-content-center num-counter">
-                        <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                                  <img decoding="async" src="/wp-content/uploads/2023/09/difference1.svg" alt="" title="difference1" />
-                                                  <h3>Maximize Capacity. Maximize Revenue.</h3>
-                                                <p>
-                  Leverage your system’s true available capacity to increase                   output and revenue while focusing on your mission.                </p>
-                              </div>
+                <img decoding="async" src="/wp-content/uploads/2023/09/difference1.svg" alt="" title="difference1" />
+                <h3>
+                  Access a Constellation of Constellations
+                </h3>
+                <p>
+                  Understand the new tasking supply and capabilities of all commercial satellite data providers from one interface.
+                </p>
+              </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="single-counter wow">
+              <div>
+                <img decoding="async" src="/wp-content/uploads/2023/09/difference2.svg" alt="" title="difference2" />
+                <h3>
+                  Experience Real-Time Machine Intelligence
+                </h3>
+                <p>
+                  Trained on a decade of performance data and continuous learning on every new feasibility and order.
+                </p>
+              </div>
             </div>
           </div>
-                  <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                                  <img decoding="async" src="/wp-content/uploads/2023/09/difference2.svg" alt="" title="difference2" />
-                                                  <h3>Maintain Peak Performance, Even At Scale</h3>
-                                                <p>
-                  Scale your operations up to thousands of satellites while maintaining performance through distributed computing.                </p>
-                              </div>
+                <img decoding="async" src="/wp-content/uploads/2023/09/difference3.svg" alt="" title="difference3" />
+                <h3>
+                  Plan with Confidence and Responsiveness
+                </h3>
+                <p>
+                  Plan, submit and adjust orders based on real-time, continuous feasibility.
+                </p>
+              </div>
             </div>
           </div>
-                  <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                                  <img decoding="async" src="/wp-content/uploads/2023/09/difference3.svg" alt="" title="difference3" />
-                                                  <h3>Experience Real-Time Machine Intelligence</h3>
-                                                <p>
-                  Automatically adapt to dynamically changing priorities for unmatched responsiveness.                </p>
-                              </div>
+                <img decoding="async" src="/wp-content/uploads/2023/09/difference4.svg" alt="" title="difference4" />
+                <h3>Embrace Seamless Integration</h3>
+                <p>
+                  Integrate with existing systems and infrastructure via modern and secure API design.
+                </p>
+              </div>
             </div>
           </div>
-                  <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                                  <img decoding="async" src="/wp-content/uploads/2023/09/difference4.svg" alt="" title="difference4" />
-                                                  <h3>Embrace Seamless Integration</h3>
-                                                <p>
-                  Integrate with existing systems and infrastructure via modern and secure API design.                </p>
-                              </div>
-            </div>
-          </div>
-                  <div class="col-lg-4 col-md-6 col-sm-12">
-            <div class="single-counter wow">
-              <div>
-                                  <img decoding="async" src="/wp-content/uploads/2023/09/difference5.svg" alt="" title="difference5" />
-                                                <h3>Reduce Capital Expense</h3>
-                                                <p>Significantly reduce NRE and system maintenance cost, and free up operators for other tasks.</p>
-                              </div>
+                <img decoding="async" src="/wp-content/uploads/2023/09/difference5.svg" alt="" title="difference5" />
+                <h3>
+                  Deliver your mission with confidence
+                </h3>
+                <p>
+                  Balance operational needs, budgets and success at the speed of relevance.
+                </p>
+              </div>
             </div>
           </div>
                           <div class="col-md-12">
@@ -188,7 +203,8 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
     <img decoding="async" src="/wp-content/uploads/2023/09/vector2-1.svg" class="vector1" alt="" title="vector2 (1)" />
     <div class="container">
         <h2 class="title wow">
-      HOW DOES CNTIENT-OPTIMIZE AUTOMATE OPERATIONS?    </h2>
+          HOW DOES CNTIENT-ORCHESTRATE AUTOMATE OPERATIONS?
+        </h2>
             <img decoding="async" src="/wp-content/uploads/2023/09/vector1.svg" class="vector2" alt="" title="vector1" />
                       <div class="row left">
         <div class="col-md-6">
@@ -213,7 +229,8 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
               <img decoding="async" src="/wp-content/uploads/2023/09/1.svg" alt="" title="1" />
             </div>
                                     <h3>
-              The end-user defines the data collection mission through our order management interface.            </h3>
+                                      The user needing satellite imagery defines the imagery request parameters in a simple and intuitive user interface or in machine to machine interactions through a GraphQL API.
+                                    </h3>
                       </div>
         </div>
       </div>
@@ -224,7 +241,8 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
                   <img decoding="async" src="/wp-content/uploads/2023/09/2-2.png" alt="" title="2 (2)" />
                 </div>
                                                 <h3>
-                  CNTIENT-Optimize considers, on a per-spacecraft and entire fleet basis, all system resources, data collection requirements, and delivery needs.                </h3>
+                                                  CNTIENT-Orchestrate selects data providers capable of fulfilling the imagery request and our proprietary AI cognition engine provides an unbiased, intelligent estimate of the collection feasibility and estimated price based on existing contracts or list pricing.
+                                                </h3>
                             </div>
           </div>
           <div class="col-md-6">
@@ -267,7 +285,8 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
               <img decoding="async" src="/wp-content/uploads/2023/09/3.svg" alt="" title="3" />
             </div>
                                     <h3>
-              Our proprietary AI cognition engine then analyzes all possible activity plans to find the optimal solution.            </h3>
+                                      With the feasibility and pricing information the user can select one or more data providers to submit orders directly to data providers’ APIs.
+                                    </h3>
                       </div>
         </div>
       </div>
@@ -278,7 +297,8 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
                   <img decoding="async" src="/wp-content/uploads/2023/09/4.png" alt="" title="4" />
                 </div>
                                                 <h3>
-                  The optimized activity plan is then sent to your Telemetry, Tracking and Command (TT&#038;C) system for translation into spacecraft commands and uplink to the spacecraft.                </h3>
+                                                  Ongoing feasibility updates are provided by the AI cognition engine for all open and active orders to provide the user with continuous updates on their collection feasibility.
+                                                </h3>
                             </div>
           </div>
           <div class="col-md-6">
