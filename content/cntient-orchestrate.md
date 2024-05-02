@@ -4,6 +4,8 @@ date: 2024-05-02T00:00:00-06:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-226
 Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly complex & dynamic satellite imagery tasking from one or multiple data providers.
+aliases:
+- /product/
 ---
 
 <article id="post-226" class="post-226 page type-page status-publish hentry">
@@ -219,7 +221,7 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
               title="optimizebg"
             />
                                     <div class="position-relative">
-              <img decoding="async" class="img-fluid" src="/wp-content/uploads/2023/09/optimize1-3.png" alt="" title="optimize1 (3)" />
+              <img decoding="async" class="img-fluid" src="/corch/automate.png" alt="" title="automate" />
             </div>
                       </div>
         </div>
@@ -257,7 +259,7 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
                 title="optimizebg"
               />
                                           <div class="position-relative">
-                <img decoding="async" class="img-fluid" src="/wp-content/uploads/2023/10/optimize-2.png" alt="" title="optimize-2" />
+                <img decoding="async" class="img-fluid" src="/corch/select.png" alt="" title="selection" />
               </div>
                           </div>
           </div>
@@ -275,7 +277,7 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
               title="optimizebg"
             />
                                     <div class="position-relative">
-              <img decoding="async" class="img-fluid" src="/wp-content/uploads/2023/09/step_3_AI_optimization-1.gif" alt="" title="step_3_AI_optimization (1)" />
+              <img decoding="async" class="img-fluid" src="/corch/feasibility.png" alt="" title="feasibility" />
             </div>
                       </div>
         </div>
@@ -313,7 +315,7 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
                 title="optimizebg"
               />
                                           <div class="position-relative">
-                <img decoding="async" class="img-fluid" src="/wp-content/uploads/2023/09/optimize4.png" alt="" title="optimize4" />
+                <img decoding="async" class="img-fluid" src="/corch/fupdates.png" alt="" title="feasibility updates" />
               </div>
                           </div>
           </div>
@@ -357,7 +359,7 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
                   ENHANCE YOUR NEW SATELLITE TASKING OPTIONS
                 </h2>
                         <img
-          src="/wp-content/uploads/2023/09/Segment-stack.png"
+          src="/corch/stack.png"
           class="mt-4 wow w-100"
           alt=""
           title="Segment-stack"
