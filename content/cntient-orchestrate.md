@@ -186,7 +186,7 @@ aliases:
                   Deliver your mission with confidence
                 </h3>
                 <p>
-                  Balance operational needs, budgets and success at the speed of relevance.
+                  Balance operational needs, budgets and mission success at the speed of relevance.
                 </p>
               </div>
             </div>
