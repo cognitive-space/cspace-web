@@ -320,35 +320,42 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
         </div>
                   </div>
 </section>
-<!-- CNTIENT-Optimize section end  -->
+<!-- CNTIENT section end  -->
 
 <!-- new frontier section start -->
 <section id="iframe_block_368562933f9d6d9cc3f2f5292e12d638" class=" s-automation new-frontier satellite"  >
   <div class="container">
     <div class="row">
       <div class="col-md-10 offset-md-1 col-sm-12">
-                <h2 class="title wow">
-          SATELLITE AUTOMATION DOESN’T HAVE TO BE HARD        </h2>
-                        <p class="paragraph text-center mb_48 wow">
-          Integrating software can be cumbersome and complex, but it doesn’t have to be. At Cognitive Space, we innovate mission operations software and the onboarding process to address the ever-changing needs of commercial and government entities.        </p>
+              <h2 class="title wow">
+                ORDERING NEW TASKING OF SATELLITE IMAGERY DOESN’T HAVE TO BE HARD
+              </h2>
+              <p class="paragraph text-center mb_48 wow">
+                The process of tasking commercial remote sensing satellites in today’s diverse market of providers is is a complex problem. Complexity exists in multiple steps of the process including; matching requirements to available sensor capabilities, understanding feasibility of collection in the required timeline, understanding impacts of weather and other collection planning variables, and coordinating multiple commercial providers with different methods of communication. Cognitive Space’s enterprise SaaS solution, CNTIENT-Orchestrate, was specifically developed to address the complexity and uncertainty of ordering new remote sensing tasking across multiple commercial satellite data providers. CNTIENT-Orchestrate enables new image tasking requests to be quickly, effectively and intelligently considered for fulfillment across all available commercial satellites - to reduce friction and achieve mission success quickly and confidently.
+              </p>
               </div>
                 <div class="col-md-12 col-sm-12">
             <div class="align-center">
               <ul class="listing wow mb-5 pb-5">
-                                                <li>
-                  Smooth onboarding, with step-by-step “shadow operations” to build trust in the system                </li>
-                                                                <li>
-                  Mature DevOps process with reliable multi-staged deployment and continuous testing                </li>
-                                                                <li>
-                  NIST 800-171 Cyber-secure containerized single tenant cloud deployment to protect your data                </li>
-                                                                <li>
-                  Software-as-a-Service &#8211; no need to install servers, no maintenance costs, and predictable operational budgets                </li>
-                                              </ul>
+                <li>
+                  Intelligently evaluating, managing, and ordering commercial collection requests on a global scale.
+                </li>
+                <li>
+                  AI/ML core capability reduces uncertainty and improves tasking selection across multiple potential satellite data providers.
+                </li>
+                <li>
+                  Can integrate with any 3rd party API, mapping, monitoring or analytics systems through flexible GraphQL interface.
+                </li>
+                <li>
+                  Software-as-a-Service - no need to install servers, no maintenance costs
+                </li>
+              </ul>
             </div>
           </div>
       <div class="col-md-12">
                 <h2 class="title wow">
-          ENHANCE YOUR GROUND SEGMENT STACK        </h2>
+                  ENHANCE YOUR NEW SATELLITE TASKING OPTIONS
+                </h2>
                         <img
           src="/wp-content/uploads/2023/09/Segment-stack.png"
           class="mt-4 wow w-100"
@@ -367,8 +374,9 @@ Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly c
     <div class="row justify-content-center">
       <div class="col-lg-8 col-md-12 text-center">
                 <h2 class="title wow">
-          INTELLIGENT SPACE AUTOMATION WITH AI-BASED MISSION PLANNING        </h2>
-                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
+                  INTELLIGENT NEW SATELLITE DATA TASKING WITH AI-BASED FEASIBILITY AND AUTOMATED ORDERING
+                </h2>
+                  <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request a demo</a>
               </div>
     </div>
   </div>
