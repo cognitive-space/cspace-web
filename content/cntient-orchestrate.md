@@ -221,7 +221,7 @@ aliases:
               title="optimizebg"
             />
                                     <div class="position-relative">
-              <img decoding="async" class="img-fluid" src="/corch/automate.png" alt="" title="automate" />
+              <img decoding="async" class="img-fluid" src="/corch/llm.png" alt="" title="automate" />
             </div>
                       </div>
         </div>
@@ -231,7 +231,7 @@ aliases:
               <img decoding="async" src="/wp-content/uploads/2023/09/1.svg" alt="" title="1" />
             </div>
                                     <h3>
-                                      The user needing satellite imagery defines the imagery request parameters in a simple and intuitive user interface or in machine to machine interactions through a GraphQL API.
+                                      The AI Assistant uses LLM to enable unstructured natural language requests from users to be intelligently evaluated for satellite imagery collection.
                                     </h3>
                       </div>
         </div>
@@ -243,7 +243,7 @@ aliases:
                   <img decoding="async" src="/wp-content/uploads/2023/09/2-2.png" alt="" title="2 (2)" />
                 </div>
                                                 <h3>
-                                                  CNTIENT-Orchestrate selects data providers capable of fulfilling the imagery request and our proprietary AI cognition engine provides an unbiased, intelligent estimate of the collection feasibility and estimated price based on existing contracts or list pricing.
+                                                  The user can also define the imagery request parameters in a simple and intuitive user interface or in machine to machine interactions through a GraphQL API.
                                                 </h3>
                             </div>
           </div>
@@ -259,7 +259,7 @@ aliases:
                 title="optimizebg"
               />
                                           <div class="position-relative">
-                <img decoding="async" class="img-fluid" src="/corch/select.png" alt="" title="selection" />
+                <img decoding="async" class="img-fluid" src="/corch/automate.png" alt="" title="selection" />
               </div>
                           </div>
           </div>
@@ -277,7 +277,7 @@ aliases:
               title="optimizebg"
             />
                                     <div class="position-relative">
-              <img decoding="async" class="img-fluid" src="/corch/feasibility.png" alt="" title="feasibility" />
+              <img decoding="async" class="img-fluid" src="/corch/select.png" alt="" title="feasibility" />
             </div>
                       </div>
         </div>
@@ -287,12 +287,12 @@ aliases:
               <img decoding="async" src="/wp-content/uploads/2023/09/3.svg" alt="" title="3" />
             </div>
                                     <h3>
-                                      With the feasibility and pricing information the user can select one or more data providers to submit orders directly to data providers’ APIs.
+                                      CNTIENT-Orchestrate selects data providers capable of fulfilling the imagery request and our proprietary AI cognition engine provides an unbiased, intelligent estimate of the collection feasibility and estimated price based on existing contracts or list pricing. The user can select one or more data providers to submit orders directly to data providers’ APIs.
                                     </h3>
                       </div>
         </div>
       </div>
-                                  <div class="row right">
+      <div class="row right">
           <div class="col-md-6">
             <div class="data wow">
                                 <div class="number">
@@ -320,7 +320,7 @@ aliases:
                           </div>
           </div>
         </div>
-                  </div>
+      </div>
 </section>
 <!-- CNTIENT section end  -->
 
