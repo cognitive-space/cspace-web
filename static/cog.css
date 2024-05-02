@@ -1,0 +1,107 @@
+img.wp-smiley, img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 0.07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+.search-form ul {
+  list-style: none;
+}
+
+.search-results ul#results {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 920px;
+}
+
+.search-results ul#results li {
+  display: block;
+}
+
+.search-results ul#results li:after {
+  content: '';
+  display: block;
+  width: 70%;
+  padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.5);
+}
+
+.blog-list .search {
+  margin-bottom: 0 !important;
+}
+
+.tc {
+  text-align: center;
+}
+
+.resumator-job-title {
+  font-size: 200% !important;
+}
+
+.resumator-job-info-details, .resumator-job-info {
+  font-size: 1.3rem !important;
+}
+
+a.resumator-job-link {
+  font-size: 1.1rem !important;
+  color: #d61f26 !important;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: transparent;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  white-space: nowrap;
+}
+
+.dropdown-content a:visited {
+  color: white;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #333;
+  color: white;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #333;}
