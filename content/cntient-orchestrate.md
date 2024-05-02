@@ -359,7 +359,7 @@ aliases:
                   ENHANCE YOUR NEW SATELLITE TASKING OPTIONS
                 </h2>
                         <img
-          src="/corch/stack.png"
+          src="/corch/stack-orch.png"
           class="mt-4 wow w-100"
           alt=""
           title="Segment-stack"
