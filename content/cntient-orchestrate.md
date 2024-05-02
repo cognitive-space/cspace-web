@@ -231,7 +231,7 @@ aliases:
               <img decoding="async" src="/wp-content/uploads/2023/09/1.svg" alt="" title="1" />
             </div>
                                     <h3>
-                                      The AI Assistant uses LLM to enable unstructured natural language requests from users to be intelligently evaluated for satellite imagery collection.
+                                      The AI Assistant uses an LLM (Large Language Model) to enable unstructured natural language requests from users to be intelligently evaluated for satellite imagery collection.
                                     </h3>
                       </div>
         </div>
