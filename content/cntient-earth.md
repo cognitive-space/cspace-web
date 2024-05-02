@@ -1,9 +1,9 @@
 ---
-title: CNTIENT-Orchestrate for AI-Powered Satellite Data Tasking
+title: CNTIENT-Earth for AI-Powered Satellite Data Tasking
 date: 2024-05-02T00:00:00-06:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-226
-Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly complex & dynamic satellite imagery tasking from one or multiple data providers.
+Description: CNTIENT-Earth unlocks AI-powered decision-making for highly complex & dynamic satellite imagery tasking from one or multiple data providers.
 aliases:
 - /product/
 ---
@@ -24,7 +24,7 @@ aliases:
       class="row h-100 align-items-center text-center justify-content-center"
     >
       <div class="col-lg-10 col-md-12 col-sm-12">
-                  <h3 class="wow">MEET CNTIENT-ORCHESTRATE™</h3>
+                  <h3 class="wow">MEET CNTIENT-EARTH™</h3>
                         <h2 class="wow">Intelligent satellite imaging feasibilities, tasking, and order management</h2>
                         <p class="wow mb-3">
                           Intelligently plan and order new remote sensing tasking across multiple commercial satellite data providers to confidently meet mission objectives.
@@ -47,7 +47,7 @@ aliases:
             <div class="col-md-7">
                 <h3 class="wow">AI-Powered Satellite Tasking Planning</h3>
                 <p class="wow">
-                  With CNTIENT-Orchestrate, unlock AI-powered intelligence to understand the capabilities of satellite data providers and place orders to maximize your chance of successful data acquisition. Remove the cognitive burden of requesting and evaluating the complex and diverse interactions with data providers for feasibility assessment and order responsiveness.
+                  With CNTIENT-Earth, unlock AI-powered intelligence to understand the capabilities of satellite data providers and place orders to maximize your chance of successful data acquisition. Remove the cognitive burden of requesting and evaluating the complex and diverse interactions with data providers for feasibility assessment and order responsiveness.
                   <br><br>
                   Scales to manage highly complex and dynamic order scenarios with demanding mission requirements like ongoing site monitoring and tip & cue. Analytics ready to support feature extraction, object detection, and chain of custody systems.
                 </p>
@@ -91,7 +91,7 @@ aliases:
           <div>
                         <h3 class="small-title wow">A MODERN SOLUTION FOR MODERN NEEDS</h3>
                         <p class="paragraph mb_38 wow">
-                          Current processes for planning and ordering new satellite data tasking are outdated and not viable for the future: they are too slow, unreliable, manual, and do not scale to meet the needs of both the data users and the satellite data providers. CNTIENT-Orchestrate is an intelligent, automated order feasibility and order management tool that automates the interface between data users and satellite data providers - with benefits to both in terms of confidence, reliability and predictability of order fulfillment.
+                          Current processes for planning and ordering new satellite data tasking are outdated and not viable for the future: they are too slow, unreliable, manual, and do not scale to meet the needs of both the data users and the satellite data providers. CNTIENT-Earth is an intelligent, automated order feasibility and order management tool that automates the interface between data users and satellite data providers - with benefits to both in terms of confidence, reliability and predictability of order fulfillment.
                         </p>
                         <ul class="listing wow">
                           <li><span>
@@ -126,7 +126,7 @@ aliases:
 <!-- new frontier section start -->
 <section id="iframe_block_5771a6589d03c1d3e2c966e42863d8c9" class=" new-frontier Difference" >
   <div class="container">
-          <h2 class="title">THE CNTIENT-ORCHESTRATE DIFFERENCE</h2>
+          <h2 class="title">THE CNTIENT-EARTH DIFFERENCE</h2>
     <div class="row justify-content-center num-counter">
         <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
@@ -205,7 +205,7 @@ aliases:
     <img decoding="async" src="/wp-content/uploads/2023/09/vector2-1.svg" class="vector1" alt="" title="vector2 (1)" />
     <div class="container">
         <h2 class="title wow">
-          HOW DOES CNTIENT-ORCHESTRATE AUTOMATE OPERATIONS?
+          HOW DOES CNTIENT-EARTH AUTOMATE OPERATIONS?
         </h2>
             <img decoding="async" src="/wp-content/uploads/2023/09/vector1.svg" class="vector2" alt="" title="vector1" />
                       <div class="row left">
@@ -243,7 +243,7 @@ aliases:
                   <img decoding="async" src="/wp-content/uploads/2023/09/2-2.png" alt="" title="2 (2)" />
                 </div>
                                                 <h3>
-                                                  CNTIENT-Orchestrate selects data providers capable of fulfilling the imagery request and our proprietary AI cognition engine provides an unbiased, intelligent estimate of the collection feasibility and estimated price based on existing contracts or list pricing.
+                                                  CNTIENT-Earth selects data providers capable of fulfilling the imagery request and our proprietary AI cognition engine provides an unbiased, intelligent estimate of the collection feasibility and estimated price based on existing contracts or list pricing.
                                                 </h3>
                             </div>
           </div>
@@ -333,7 +333,7 @@ aliases:
                 ORDERING NEW TASKING OF SATELLITE IMAGERY DOESN’T HAVE TO BE HARD
               </h2>
               <p class="paragraph text-center mb_48 wow">
-                The process of tasking commercial remote sensing satellites in today’s diverse market of providers is is a complex problem. Complexity exists in multiple steps of the process including; matching requirements to available sensor capabilities, understanding feasibility of collection in the required timeline, understanding impacts of weather and other collection planning variables, and coordinating multiple commercial providers with different methods of communication. Cognitive Space’s enterprise SaaS solution, CNTIENT-Orchestrate, was specifically developed to address the complexity and uncertainty of ordering new remote sensing tasking across multiple commercial satellite data providers. CNTIENT-Orchestrate enables new image tasking requests to be quickly, effectively and intelligently considered for fulfillment across all available commercial satellites - to reduce friction and achieve mission success quickly and confidently.
+                The process of tasking commercial remote sensing satellites in today’s diverse market of providers is is a complex problem. Complexity exists in multiple steps of the process including; matching requirements to available sensor capabilities, understanding feasibility of collection in the required timeline, understanding impacts of weather and other collection planning variables, and coordinating multiple commercial providers with different methods of communication. Cognitive Space’s enterprise SaaS solution, CNTIENT-Earth, was specifically developed to address the complexity and uncertainty of ordering new remote sensing tasking across multiple commercial satellite data providers. CNTIENT-Earth enables new image tasking requests to be quickly, effectively and intelligently considered for fulfillment across all available commercial satellites - to reduce friction and achieve mission success quickly and confidently.
               </p>
               </div>
                 <div class="col-md-12 col-sm-12">
