@@ -131,7 +131,7 @@ aliases:
         <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                <img decoding="async" src="/wp-content/uploads/2023/09/difference1.svg" alt="" title="difference1" />
+                <img decoding="async" src="/corch/sats.png" alt="" title="constellation" />
                 <h3>
                   Access a Constellation of Constellations
                 </h3>
@@ -144,7 +144,7 @@ aliases:
         <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                <img decoding="async" src="/wp-content/uploads/2023/09/difference2.svg" alt="" title="difference2" />
+                <img decoding="async" src="/corch/ai.svg" alt="" title="Machine Intelligence" />
                 <h3>
                   Experience Real-Time Machine Intelligence
                 </h3>
@@ -157,7 +157,7 @@ aliases:
           <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                <img decoding="async" src="/wp-content/uploads/2023/09/difference3.svg" alt="" title="difference3" />
+                <img decoding="async" src="/corch/head.svg" alt="" title="plan" />
                 <h3>
                   Plan with Confidence and Responsiveness
                 </h3>
@@ -170,7 +170,7 @@ aliases:
           <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                <img decoding="async" src="/wp-content/uploads/2023/09/difference4.svg" alt="" title="difference4" />
+                <img decoding="async" src="/corch/cloudsync.svg" alt="" title="API" />
                 <h3>Embrace Seamless Integration</h3>
                 <p>
                   Integrate with existing systems and infrastructure via modern and secure API design.
@@ -181,7 +181,7 @@ aliases:
           <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
               <div>
-                <img decoding="async" src="/wp-content/uploads/2023/09/difference5.svg" alt="" title="difference5" />
+                <img decoding="async" src="/corch/mission.svg" alt="" title="mission" />
                 <h3>
                   Deliver your mission with confidence
                 </h3>
