@@ -96,7 +96,10 @@ a.resumator-job-link {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #333;}
+.dropdown-content a:hover {
+  background-color: #333;
+  color: white;
+}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
