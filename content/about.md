@@ -283,7 +283,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <!-- <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/img/georgek.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -294,8 +294,8 @@ Description: Cognitive Space provides automated satellite operations that enable
                 </p>
               </div>
             </div>
-          </div>
-                              <div class="col-lg-4 col-md-6">
+          </div> -->
+          <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Jeff-Edwards.jpg" class="w-100" alt="" />
               <div class="member-detail">
