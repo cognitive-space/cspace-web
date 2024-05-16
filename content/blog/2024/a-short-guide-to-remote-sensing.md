@@ -21,7 +21,7 @@ The raw data collected through remote sensing contains a wealth of information. 
 
 The two main types of remote sensing are active and passive remote sensing. The process of active remote sensing is conducted via its own light or energy emission source. Passive remote sensing is conducted with reflected light or emissions.
 
-<img src="https://lh7-us.googleusercontent.com/nLE9Er-ydGlIa5huUHNM1eZpurOsoonDm943wE78Pp8QBilAgEBapqCTVMC8yojmoodl5GPpCaYBVAknWpNgeMfetVj2SPihWh7VT_mzHsGZpurRV8ewDrniEkRjJXuAgKK_BgY4nywgo0dzQJ9BEI0" height="296" width="444" />
+![](/uploads/image-1.png)
 
 Active sensors act as both a sender and a receiver, emitting pulses to determine the distance to the target and gather information about its properties. Active remote sensors have very few research condition restrictions. For example: Active remote sensing systems can function at any time of day since they don’t rely on sunlight for signal strength. One instance of active remote sensing in action is the [Light Detection and Ranging (Lidar)](https://oceanservice.noaa.gov/facts/lidar.html#:~:text=Lidar%2C%20which%20stands%20for%20Light,variable%20distances&#41;%20to%20the%20Earth.) remote sensing method used by the National Oceanic and Atmospheric Administration (NOAA) to create shoreline maps, support emergency response operations, and more.
 
@@ -31,48 +31,13 @@ Unlike active remote sensors, passive remote sensors don’t provide energy of t
 
 Various technologies empower scientists, researchers, and decision-makers to explore the intricacies of our planet. These tools function as essential sensors, capturing the complex dynamics of the Earth. There are many types of devices and instruments used for remote sensing, but some of the most commonly known are:
 
-<table>
-            <tbody>
-              <tr>
-                <td>
-                  <p><strong>RADAR Sensing:</strong> Radar is an active remote sensing method that emits energy flow to reach a subject. Based on the energy’s travel time to and from the sensor (radar), the sensor can measure the subject’s distance. Synthetic Aperture Radar (SAR) on satellites enables all-weather imaging, ideal for applications like terrain mapping, disaster monitoring, and detecting subtle surface deformations.</p>
-                </td>
-                <td>
-                  <p><strong>LIDAR: </strong>Lidar, an acronym of "light detection and ranging" is an active remote sensing method that uses light impulses to identify a subject’s location and distance. It operates by emitting laser pulses toward the Earth's surface and measuring the time it takes for the light to return after hitting an object. By collecting these return signals, Lidar constructs highly accurate and detailed elevation models, capturing the vertical dimension of the terrain.</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p><strong>Sounder</strong>: Sounder remote sensing utilizes sensors that detect and measure specific wavelengths of radiation emitted by the Earth's atmosphere. By studying the absorption and emission of these wavelengths, Sounders can profile various atmospheric parameters, including temperature, humidity, and trace gas concentrations, across different altitudes.</p>
-                </td>
-                <td>
-                  <p><strong>Spectrometer</strong>: Spectrometer active remote sensing identifies and studies spectral bands, breaking down incoming light into individual component or spectral bands. These bands represent specific wavelengths, allowing scientists to analyze the unique signatures of materials and phenomena across the electromagnetic spectrum.</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p><strong>Radiometer</strong>: Radiometers quantify the intensity of electromagnetic radiation emitted by the Earth's surface. Unlike active remote sensing technologies, Radiometers passively observe the natural emission of radiation, measuring the radiance in specific spectral bands to extract information about the target.</p>
-                </td>
-                <td>
-                  <p><strong>Imaging Radiometer</strong>: An Imaging Radiometer is designed to capture radiometric data across specific spectral bands and translate this information into visual images. Unlike traditional radiometers, which measure the radiance without visualizing it, Imaging Radiometers provide a detailed and visual perspective of the subject.</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p><strong>Accelerometer</strong>: An Accelerometer is designed to measure the acceleration of the platform or object on which it is mounted. In the context of remote sensing, this technology detects changes in speed per unit of time, providing valuable insights into the dynamic behavior of the observed subject.</p>
-                </td>
-                <td>
-                  <p><strong>Scatterometer</strong>: A Scatterometer operates by emitting microwave signals toward the Earth's surface and measuring the backscattered radiation. By analyzing the patterns and strength of these scattered signals, Scatterometers provide insights into surface properties such as roughness, wind speed, and soil moisture.</p>
-                </td>
-              </tr>
-            </tbody>
-          </table>
+<table><tbody><tr><td><p><strong>RADAR Sensing:</strong> Radar is an active remote sensing method that emits energy flow to reach a subject. Based on the energy’s travel time to and from the sensor (radar), the sensor can measure the subject’s distance. Synthetic Aperture Radar (SAR) on satellites enables all-weather imaging, ideal for applications like terrain mapping, disaster monitoring, and detecting subtle surface deformations.</p></td><td><p><strong>LIDAR: </strong>Lidar, an acronym of "light detection and ranging" is an active remote sensing method that uses light impulses to identify a subject’s location and distance. It operates by emitting laser pulses toward the Earth's surface and measuring the time it takes for the light to return after hitting an object. By collecting these return signals, Lidar constructs highly accurate and detailed elevation models, capturing the vertical dimension of the terrain.</p></td></tr><tr><td><p><strong>Sounder</strong>: Sounder remote sensing utilizes sensors that detect and measure specific wavelengths of radiation emitted by the Earth's atmosphere. By studying the absorption and emission of these wavelengths, Sounders can profile various atmospheric parameters, including temperature, humidity, and trace gas concentrations, across different altitudes.</p></td><td><p><strong>Spectrometer</strong>: Spectrometer active remote sensing identifies and studies spectral bands, breaking down incoming light into individual component or spectral bands. These bands represent specific wavelengths, allowing scientists to analyze the unique signatures of materials and phenomena across the electromagnetic spectrum.</p></td></tr><tr><td><p><strong>Radiometer</strong>: Radiometers quantify the intensity of electromagnetic radiation emitted by the Earth's surface. Unlike active remote sensing technologies, Radiometers passively observe the natural emission of radiation, measuring the radiance in specific spectral bands to extract information about the target.</p></td><td><p><strong>Imaging Radiometer</strong>: An Imaging Radiometer is designed to capture radiometric data across specific spectral bands and translate this information into visual images. Unlike traditional radiometers, which measure the radiance without visualizing it, Imaging Radiometers provide a detailed and visual perspective of the subject.</p></td></tr><tr><td><p><strong>Accelerometer</strong>: An Accelerometer is designed to measure the acceleration of the platform or object on which it is mounted. In the context of remote sensing, this technology detects changes in speed per unit of time, providing valuable insights into the dynamic behavior of the observed subject.</p></td><td><p><strong>Scatterometer</strong>: A Scatterometer operates by emitting microwave signals toward the Earth's surface and measuring the backscattered radiation. By analyzing the patterns and strength of these scattered signals, Scatterometers provide insights into surface properties such as roughness, wind speed, and soil moisture.</p></td></tr></tbody></table>
 
 ## The Process of Remote Sensing
 
 The process of remote sensing consists of seven stages: energy source, radiation and atmosphere, interaction with subject, recording of energy, transmission, reception, and processing, interpretation and analysis, and application.
 
-<img src="https://lh7-us.googleusercontent.com/AvcPs8DASFCyT3CcjnLE8POn9LZkpYV5OHhFlXArNNzKvoKpGKii1STEWuCO1A1ccD7hjNtPHkljPj8nJsIiERx0ntvmzkZm_Z-lErDm2KVfcO9H9GcFJ0GsaSwfvwdfE3fLZdU_Ovn6CRGp1GBX1TM" height="349" width="524" />
+![](/uploads/image2.png)
 
 1. **Energy source**
 
