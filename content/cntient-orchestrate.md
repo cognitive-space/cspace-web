@@ -1,6 +1,6 @@
 ---
 title: CNTIENT-Orchestrate for AI-Powered Satellite Data Tasking
-date: 2024-05-02T00:00:00-06:00
+date: 2024-06-11T00:00:00-06:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-226
 Description: CNTIENT-Orchestrate unlocks AI-powered decision-making for highly complex & dynamic satellite imagery tasking from one or multiple data providers.
@@ -25,7 +25,7 @@ aliases:
     >
       <div class="col-lg-10 col-md-12 col-sm-12">
                   <h3 class="wow">MEET CNTIENT-ORCHESTRATE™</h3>
-                        <h2 class="wow">Intelligent satellite imaging feasibilities, tasking, and order management</h2>
+                        <h2 class="wow">Satellite Tasking, Simplified</h2>
                         <p class="wow mb-3">
                           Intelligently plan and order new remote sensing tasking across multiple commercial satellite data providers to confidently meet mission objectives.
                         </p>
