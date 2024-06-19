@@ -23,7 +23,7 @@ bodyclass: home page-template page-template-layout page-template-layout-php page
                 Empowering the Use of Space™              </h1>
                                     <p data-cursor="-opaque" class="wow">
                 Cognitive Space is bringing the next frontier of intelligent automation to satellite constellation operations, to empower the use of space for security, sustainability, and economic prosperity.             </p>
-                                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request A Demo </a>
+                                        <a href="https://www.cognitivespace.com/contact/" class="primary_btn wow">Request Access/Demo </a>
                       </div>
         </div>
       </div>
