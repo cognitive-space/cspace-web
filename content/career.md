@@ -27,6 +27,7 @@ Description: Discover exciting career opportunities at Cognitive Space, where yo
                           <h1 class="wow">JOIN THE COGNITIVE SPACE TEAM</h1>
                         <p data-cursor="-opaque" class="wow">
               Want to start the next phase in your career by joining a market-shaping company? Join a passionate team of engineers, developers, data scientists, and market movers in orchestrating the evolution of space.            </p>
+              <p style="font-size: 1em;">(For employee verifications, please <a style="color: #fff;" href="mailto:hr@cognitivespace.com">contact our HR Department</a>)</p>
                       </div>
         </div>
       </div>
