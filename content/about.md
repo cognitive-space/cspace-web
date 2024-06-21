@@ -8,12 +8,7 @@ Description: Cognitive Space provides automated satellite operations that enable
 
 <article id="post-356" class="post-356 page type-page status-publish hentry">
 
-
   <div class="entry-content">
-
-
-
-
 
 <!-- banner start  -->
 <section id="iframe_block_58c678630ead1c2a0442068dc850c738" class="york-hero-banner product-banner blog-banner"  style="background-image: url('/wp-content/uploads/2023/09/about-bg-1.png')" >
@@ -28,7 +23,6 @@ Description: Cognitive Space provides automated satellite operations that enable
   </div>
 </section>
 <!-- banner end  -->
-
 
 <!-- vision mission section start-->
 <section class="vision-mission">
@@ -54,7 +48,6 @@ Description: Cognitive Space provides automated satellite operations that enable
   </div>
   </section>
 
-
 <section class="vision-mission">
       <img decoding="async" src="/wp-content/uploads/2023/09/left-top.svg" class="left-top" alt="https://cognitivespace.com/wp-content/uploads/2023/09/left-top.svg" title="https://cognitivespace.com/wp-content/uploads/2023/09/left-top.svg" />
       <div class="container">
@@ -78,7 +71,6 @@ Description: Cognitive Space provides automated satellite operations that enable
   </div>
   </section>
 <!-- vision mission section end-->
-
 
 <!-- Our Early Believers start -->
 <section id="iframe_block_b5afc5dc556f5cac8e6c99a8b6aa911c" class=" early-belivers">
@@ -171,8 +163,6 @@ Description: Cognitive Space provides automated satellite operations that enable
 </section>
 <!-- Our Early Believers end -->
 
-
-
 <!-- new frontier section start -->
 <section id="iframe_block_9b95a8a2fb2cd944f61bc33eefb14095" class=" new-frontier Difference" >
   <div class="container">
@@ -233,17 +223,16 @@ Description: Cognitive Space provides automated satellite operations that enable
 </section>
 <!-- new frontier section end -->
 
-
 <!-- team section start -->
 <section id="iframe_block_d0bbefcd775660e7466d1149fbb02d94" class=" team">
   <div class="container">
     <div class="row">
-            <div class="col-md-12">
+      <div class="col-md-12">
         <h2 class="title">MEET THE COGNITIVE SPACE LEADERSHIP TEAM</h2>
       </div>
-                  <div class="col-xl-10 offset-xl-1">
+      <div class="col-xl-10 offset-xl-1">
         <div class="row justify-content-center">
-                              <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Guy-de-Carufel.jpeg" class="w-100" alt="" />
               <div class="member-detail">
@@ -253,7 +242,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-                              <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Hanna-Steplewska.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -263,7 +252,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-                              <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Dax_4954-scaled-1.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -273,7 +262,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-                              <div class="col-lg-4 col-md-6">
+          <!-- <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Paul-Bailey.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -282,7 +271,7 @@ Description: Cognitive Space provides automated satellite operations that enable
                 <p>Paul is an award-winning and passionate web developer who is building and leading the next generation of cutting-edge web technologies.</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/img/georgek.jpg" class="w-100" alt="" />
@@ -305,7 +294,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-                              <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Deke-Young.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -315,9 +304,9 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-                  </div>
+        </div>
       </div>
-          </div>
+    </div>
   </div>
 </section>
 <!-- team section end -->
