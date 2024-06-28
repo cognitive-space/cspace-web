@@ -1,6 +1,6 @@
 ---
 title: 'GEOINT 2024 Recap:   Everything You Might Have Missed '
-date: 2024-06-28T10:00:00-05:00
+date: 2024-06-27T10:00:00-05:00
 draft: false
 description: >-
   The GEOINT 2024 Symposium brought together top geospatial intelligence minds,
