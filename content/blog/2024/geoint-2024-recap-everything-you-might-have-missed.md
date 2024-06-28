@@ -1,13 +1,13 @@
 ---
 title: 'GEOINT 2024 Recap:   Everything You Might Have Missed '
 date: 2024-06-28T10:00:00-05:00
-draft: true
+draft: false
 description: >-
   The GEOINT 2024 Symposium brought together top geospatial intelligence minds,
   sparking innovative discussions on satellite imaging, AI integration,
   cybersecurity, and the increasing role of commercial solutions in defense and
   intelligence.
-image:
+image: /uploads/10.png
 type: blog
 layout: single
 author: Hanna Steplewska, COO and President
