@@ -1,5 +1,5 @@
 ---
-title: 'GEOINT 2024 Recap:   Everything You Might Have Missed '
+title: "GEOINT 2024 Recap:   Everything You Might Have Missed "
 date: 2024-06-27T10:00:00-05:00
 draft: false
 description: >-
@@ -13,6 +13,7 @@ layout: single
 author: Hanna Steplewska, COO and President
 url: /blog/geoint-2024
 ---
+
 What happens when you bring some of the world's greatest geospatial intelligence minds together for a four-day event?
 
 You're bound to get plenty of innovative discussions, meaningful connections, and spirited debates --- and that's exactly what we saw at the [GEOINT 2024 Symposium](https://usgif.org/geoint-symposium/) this May.
@@ -62,7 +63,7 @@ With a wealth of capacity and innovation moving at speed and scale in the commer
 
 The Cognitive Space team is not alone in noticing the shift in the satellite imagery market from supply of data to supply of answers to analysts' Key Intelligence Questions (KIQs). That shift was crystallized in our discussions at GEOINT.
 
-Government providers are seeking more than the usual deliveries of imagery and [remote sensing](https://www.cognitivespace.com/blog/short-guide-to-remote-sensing/) data; they want *insights* from that imagery and data. A host of analytics services firms are now able to extract insights that are more actionable and helpful for e operations across all domains - sea, ground, air and space.
+Government providers are seeking more than the usual deliveries of imagery and [remote sensing](https://www.cognitivespace.com/blog/short-guide-to-remote-sensing/) data; they want _insights_ from that imagery and data. A host of analytics services firms are now able to extract insights that are more actionable and helpful for e operations across all domains - sea, ground, air and space.
 
 As national security use of space data expands across all domains and become more nuanced and daedal, government entities must seek out [multi-INT and multi-company](https://www.cognitivespace.com/blog/challenges-of-tasking/) analytics to answer more complex questions. Many of these analytics firms offer specialties in different verticals --- maritime vessel tracking and identification, built environment change detection, asset custody and tracking, waterway management, highly specialized object detection, moving target indication and more --- all of which inform an intelligence strategy.
 
@@ -75,4 +76,4 @@ landscape.
 
 ## Orchestrate your satellite operations with Cognitive Space
 
-GEOINT 2024 underscored the need for operators to leverage AI, cloud computing, and deep operations expertise to automate their satellite data tasking decision making. . Cognitive Space is here to help! CNTIENT-Orchestrate™ is a robust, AI-powered software service that enables real-world, multi-provider data collection orchestration at scale. [Book a demo](https://www.cognitivespace.com/contact/) to see how you can intelligently plan and order new remote sensing tasking across multiple commercial satellite data providers to confidently meet mission objectives.
+GEOINT 2024 underscored the need for operators to leverage AI, cloud computing, and deep operations expertise to automate their satellite data tasking decision making. . Cognitive Space is here to help! CNTIENT.Orchestrate™ is a robust, AI-powered software service that enables real-world, multi-provider data collection orchestration at scale. [Book a demo](https://www.cognitivespace.com/contact/) to see how you can intelligently plan and order new remote sensing tasking across multiple commercial satellite data providers to confidently meet mission objectives.

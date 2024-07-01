@@ -11,8 +11,9 @@ layout: single
 author: Dax Garner, CTO
 url: /blog/role-ai-ml-satellite-constellations
 aliases:
-- /blog/2023/role-of-ai-and-ml-in-satellite-constellation-management/
+  - /blog/2023/role-of-ai-and-ml-in-satellite-constellation-management/
 ---
+
 ## Breaking Down the Status Quo of Constellation Management
 
 As the number of satellite constellations in space continues to grow, we can anticipate an even greater number of launches in the years to come. Satellite constellations are a crucial part of our modern world, serving diverse functions ranging from global communication networks to Earth observation and navigation systems. However, as these constellations continue to multiply and expand, their management has grown in complexity and scale, demanding a solution.
@@ -61,19 +62,19 @@ AI and ML can [automate complex decision-making processes](https://cognitivespac
 
 The bottom line? **Automation makes your satellite constellation management more efficient than ever.**
 
-## The Future of Constellation Management: CNTIENT-Optimize
+## The Future of Constellation Management: CNTIENT.Optimize
 
-[CNTIENT-Optimize](https://www.cognitivespace.com/product/) provides a flexible and automated solution for satellite management, capable of handling large constellations, rapid satellite onboarding, and optimizing complex prioritizations.
+[CNTIENT.Optimize](https://www.cognitivespace.com/product/) provides a flexible and automated solution for satellite management, capable of handling large constellations, rapid satellite onboarding, and optimizing complex prioritizations.
 
-With dynamic satellite operations, time is of the essence. CNTIENT-Optimize is designed to slash latency in decision-making processes and tasking, ensuring that critical actions are executed swiftly. This means quicker response times to changing conditions and priorities. Downtime is the enemy of efficiency. CNTIENT-Optimize minimizes downtime, ensuring that your spacecraft and system remains operational. This directly translates into increased productivity and resource utilization.
+With dynamic satellite operations, time is of the essence. CNTIENT.Optimize is designed to slash latency in decision-making processes and tasking, ensuring that critical actions are executed swiftly. This means quicker response times to changing conditions and priorities. Downtime is the enemy of efficiency. CNTIENT.Optimize minimizes downtime, ensuring that your spacecraft and system remains operational. This directly translates into increased productivity and resource utilization.
 
 ## <!-- notionvc: b1caf63c-b6f3-40a4-a646-0f6a0e82799d -->
 
-![](/uploads/untitled-1.png)*CNTIENT-Optimize AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations*<!-- notionvc: 233e804a-90c2-4522-9192-1637c719157f -->
+![](/uploads/untitled-1.png)_CNTIENT.Optimize AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations_<!-- notionvc: 233e804a-90c2-4522-9192-1637c719157f -->
 
-With CNTIENT-Optimize, you can maximize the yield of your spacecraft and system, aligning them more effectively with your business objectives to get the most out of your satellite assets and optimize their performance to meet your operational goals.
+With CNTIENT.Optimize, you can maximize the yield of your spacecraft and system, aligning them more effectively with your business objectives to get the most out of your satellite assets and optimize their performance to meet your operational goals.
 
-In an industry where profitability often hinges on the amount of data collected, Optimize gives a competitive edge. Smaller satellite constellations often find themselves in a race to achieve profitability. [CNTIENT-Optimize](https://www.cognitivespace.com/product/) equips them with the tools needed to optimize operations, making it possible to compete effectively in the market.
+In an industry where profitability often hinges on the amount of data collected, Optimize gives a competitive edge. Smaller satellite constellations often find themselves in a race to achieve profitability. [CNTIENT.Optimize](https://www.cognitivespace.com/product/) equips them with the tools needed to optimize operations, making it possible to compete effectively in the market.
 
 **Contact us to automate your satellite operations.**
 

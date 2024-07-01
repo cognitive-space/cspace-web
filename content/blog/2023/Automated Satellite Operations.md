@@ -42,7 +42,7 @@ In an era where real-time data holds utmost significance, conventional satellite
 
 ## Automation Unlocks New Possibilities In Space
 
-At its core, automation serves as a conduit for simplifying mundane tasks, liberating operators to focus on critical decision-making processes — such as those requiring nuanced, incident-specific judgment  — without getting bogged down by the execution of routine operational tasks.
+At its core, automation serves as a conduit for simplifying mundane tasks, liberating operators to focus on critical decision-making processes — such as those requiring nuanced, incident-specific judgment — without getting bogged down by the execution of routine operational tasks.
 
 **Operators can harness automation to handle various factors during mission planning and scheduling to better meet business and system KPIs.** An automated solution optimally manages fleet performance by factoring in variables like satellite payload capabilities, spacecraft health and status including available memory and power, ground station and/or optical cross-link availability, orbit maneuver requirements, spacecraft maintenance blackout windows, and weather conditions. Operators may assign priorities to specific customer orders, however, automated systems give precedence to optimal overall data collection activity while taking into account all of the variables, including the most crucial data collection opportunities. Consequently, remote sensing constellation operators can more effectively achieve their output and revenue objectives.
 
@@ -78,11 +78,11 @@ Human judgment is crucial for dealing with exceptions and understanding the impa
 
 Satellite companies invest significant amounts in advanced remote sensing technologies, but they struggle to fully satisfy customers and therefore leave opportunities unexploited. **It's time for a new approach.**
 
-CNTIENT-Optimize is the next-generation solution for responsive satellite constellation operations. With CNTIENT-Optimize, companies realize their vision, whether that's government mission support, commercial data collection, monitoring, or other services. CNTIENT-Optimize accelerates data delivery, allowing constellation operators to fulfill more orders, help more customers succeed, and generate sustainable revenue. Users transcend the limitations of manual management.
+CNTIENT.Optimize is the next-generation solution for responsive satellite constellation operations. With CNTIENT.Optimize, companies realize their vision, whether that's government mission support, commercial data collection, monitoring, or other services. CNTIENT.Optimize accelerates data delivery, allowing constellation operators to fulfill more orders, help more customers succeed, and generate sustainable revenue. Users transcend the limitations of manual management.
 
-CNTIENT-Optimize empowers companies in the space sector to grow, helping them become long-term operators and data providers on a global scale. As they generate sustainable revenue, they can let go of reliance on government funding sources. The space industry then becomes more independent and resilient.
+CNTIENT.Optimize empowers companies in the space sector to grow, helping them become long-term operators and data providers on a global scale. As they generate sustainable revenue, they can let go of reliance on government funding sources. The space industry then becomes more independent and resilient.
 
-**CNTIENT-Optimize serves as an engine driving companies to thrive and strengthen the space economy.**
+**CNTIENT.Optimize serves as an engine driving companies to thrive and strengthen the space economy.**
 
 Reach your constellation's full potential with Optimize:
 

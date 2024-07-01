@@ -9,6 +9,7 @@ layout: single
 author: Deke Young, VP of Product Management
 url: /blog/short-guide-to-remote-sensing
 ---
+
 ## What is Remote Sensing?
 
 Remote sensing is the method of measuring an area’s radiation by identifying and monitoring its physical characteristics. It enables us to observe and gather information about the Earth's surface without direct physical contact.
@@ -23,7 +24,7 @@ The two main types of remote sensing are active and passive remote sensing. The 
 
 ![](/uploads/image-1.png)
 
-Active sensors act as both a sender and a receiver, emitting pulses to determine the distance to the target and gather information about its properties. Active remote sensors have very few research condition restrictions. For example: Active remote sensing systems can function at any time of day since they don’t rely on sunlight for signal strength. One instance of active remote sensing in action is the [Light Detection and Ranging (Lidar)](https://oceanservice.noaa.gov/facts/lidar.html#:~:text=Lidar%2C%20which%20stands%20for%20Light,variable%20distances&#41;%20to%20the%20Earth.) remote sensing method used by the National Oceanic and Atmospheric Administration (NOAA) to create shoreline maps, support emergency response operations, and more.
+Active sensors act as both a sender and a receiver, emitting pulses to determine the distance to the target and gather information about its properties. Active remote sensors have very few research condition restrictions. For example: Active remote sensing systems can function at any time of day since they don’t rely on sunlight for signal strength. One instance of active remote sensing in action is the [Light Detection and Ranging (Lidar)](<https://oceanservice.noaa.gov/facts/lidar.html#:~:text=Lidar%2C%20which%20stands%20for%20Light,variable%20distances)%20to%20the%20Earth.>) remote sensing method used by the National Oceanic and Atmospheric Administration (NOAA) to create shoreline maps, support emergency response operations, and more.
 
 Unlike active remote sensors, passive remote sensors don’t provide energy of their own for research subjects. Passive remote sensors rely on naturally occurring electromagnetic radiation — like sunlight. One example of passive remote sensing is the Landsat mission. Running for over 40 years, the [Landsat mission](https://landsat.gsfc.nasa.gov/) is the longest-running Earth observation mission — leveraging passive remote sensing via satellites to monitor and collect data on Earth’s changing climate, land use, and environments.
 
@@ -83,9 +84,9 @@ The process of remote sensing consists of seven stages: energy source, radiation
 
 Remote sensing missions demand precision, adaptability, and scalability. However, conventional approaches often struggle to cope with the evolving demands of satellite operators. Cognitive Space’s CNTIENT platform is the next-generation solution for responsive optimization and adaptive mission planning of multi-spacecraft satellite constellations. CNTIENT enables satellite operators to tailor remote sensing mission planning, scale without disruption, and automate payload scheduling, link management, and prioritized tasking.
 
-[CNTIENT-Optimize](https://www.cognitivespace.com/product/) is a robust, AI-powered satellite fleet management software service for real-world data collection. Satellite operators can optimize remote sensing mission operation according to sensor and payload characteristics, and build plans specifically tailored to their company’s unique business model and key operational requirements.
+[CNTIENT.Optimize](https://www.cognitivespace.com/product/) is a robust, AI-powered satellite fleet management software service for real-world data collection. Satellite operators can optimize remote sensing mission operation according to sensor and payload characteristics, and build plans specifically tailored to their company’s unique business model and key operational requirements.
 
-With CNTIENT-Optimize, space sector businesses are empowered to grow to become long-term viable operators and data providers for their customer base, whether government or commercial, on a global scale. Such independence from constant reliance on government funding will enable the space sector to become self-sustainable.
+With CNTIENT.Optimize, space sector businesses are empowered to grow to become long-term viable operators and data providers for their customer base, whether government or commercial, on a global scale. Such independence from constant reliance on government funding will enable the space sector to become self-sustainable.
 
 [Contact us](https://www.cognitivespace.com/contact/) **to automate your satellite operations.**
 

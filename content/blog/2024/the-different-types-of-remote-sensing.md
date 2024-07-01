@@ -1,5 +1,5 @@
 ---
-title: 'The Different Types of Remote Sensing '
+title: "The Different Types of Remote Sensing "
 date: 2024-05-21T10:00:00-05:00
 draft: true
 description: |
@@ -10,6 +10,7 @@ layout: single
 author: Deke Young, VP of Product Management
 url: /blog/types-of-remote-sensing
 ---
+
 Remote Sensing can be defined as the measurement of an object’s characteristics by detecting and monitoring its physical characteristics without making direct physical contact with the object itself.
 
 Remote sensing is how we can detect and monitor changes in weather, sea surface temperature, and volcano lava flows while minimizing risk to human beings and equipment.
@@ -64,7 +65,7 @@ GEO satellites orbit the Earth approximately 22,236 miles above the equator. As 
 
 Advancements in technology, computing power, and artificial intelligence (AI) have led to a rapid increase in satellite launches. With the continuous evolution of the space industry, satellite operators have more responsibilities than ever.
 
-Whether your constellation flies in LEO, MEO, or GEO, leveraging[automation](https://www.cognitivespace.com/blog/2023/automated-satellite-operations/) to free your operators from tedious, time-consuming, but still necessary tasks allows them to focus on more complex and nuanced tasks that only a human can complete. Using AI, [CNTIENT-Optimize](https://www.cognitivespace.com/product/) considers variables such as spacecraft health and status, orbit maneuver requirements, weather conditions, and more to find the most optimal solutions for your remote sensing mission planning, while tailoring missions to your unique business needs.
+Whether your constellation flies in LEO, MEO, or GEO, leveraging[automation](https://www.cognitivespace.com/blog/2023/automated-satellite-operations/) to free your operators from tedious, time-consuming, but still necessary tasks allows them to focus on more complex and nuanced tasks that only a human can complete. Using AI, [CNTIENT.Optimize](https://www.cognitivespace.com/product/) considers variables such as spacecraft health and status, orbit maneuver requirements, weather conditions, and more to find the most optimal solutions for your remote sensing mission planning, while tailoring missions to your unique business needs.
 
 [Contact us](https://www.cognitivespace.com/contact/) to automate your satellite operations.
 

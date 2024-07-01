@@ -6,16 +6,13 @@ bodyclass: page-template page-template-layout page-template-layout-php page page
 Description: CNTIENT.Earth unlocks AI-powered decision-making for highly complex & dynamic satellite imagery tasking from one or multiple data providers.
 slug: cntient-earth
 aliases:
-- /cntient-orchestrate/
-- /product/
+  - /cntient-orchestrate/
+  - /product/
 ---
 
 <article id="post-226" class="post-226 page type-page status-publish hentry">
 
-
   <div class="entry-content">
-
-
 
 <!-- banner start  -->
 <section id="iframe_block_7f916b32f8f994e51a1e166c0550bda0" class="york-hero-banner product-only product-banner" >
@@ -38,10 +35,6 @@ aliases:
 </section>
 <!-- banner end  -->
 
-
-
-
-
 <!-- AI Mission start  -->
 <section id="iframe_block_b7057e6b8f89cf08cac61c29e3c80f5c" class=" ai-mission"  >
   <div class="container">
@@ -61,8 +54,6 @@ aliases:
   </div>
 </section>
 <!-- AI Mission end  -->
-
-
 
 <!-- A Modern Solution section start -->
 <section id="iframe_block_d294a55ef6b6adab9476489f066db079" class=" modern-solution new-frontier modern-solution"  >
@@ -121,9 +112,6 @@ aliases:
         <img decoding="async" src="/wp-content/uploads/2023/09/polygen-2.svg" class="polygen-2" alt="https://cognitivespace.com/wp-content/uploads/2023/09/polygen-2.svg" title="polygen-2" />
   </section>
     <!-- A Modern Solution section end -->
-
-
-
 
 <!-- new frontier section start -->
 <section id="iframe_block_5771a6589d03c1d3e2c966e42863d8c9" class=" new-frontier Difference" >
@@ -201,8 +189,7 @@ aliases:
 </section>
 <!-- new frontier section end -->
 
-
-<!-- CNTIENT-Optimize section start  -->
+<!-- CNTIENT.Optimize section start  -->
 <section id="iframe_block_e5bac200ce9b3c726e4a86f1f51884cf" class=" optimize"  >
     <img decoding="async" src="/wp-content/uploads/2023/09/vector2-1.svg" class="vector1" alt="" title="vector2 (1)" />
     <div class="container">
@@ -387,11 +374,7 @@ aliases:
 </section>
 <!-- cta section end -->
 
-
-
-
 <p></p>
   </div><!-- .entry-content -->
 
   </article><!-- #post-226 -->
-
