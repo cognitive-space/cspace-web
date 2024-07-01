@@ -1,5 +1,5 @@
 ---
-title: 'Satellite Constellation Management: Challenges and Solutions'
+title: "Satellite Constellation Management: Challenges and Solutions"
 date: 2024-03-20T10:30:00-05:00
 draft: false
 description: >-
@@ -13,6 +13,7 @@ layout: single
 author: Hanna Steplewska, COO and President
 url: /blog/satellite-constellation-management
 ---
+
 # Satellite Constellation Management: Challenges and Solutions
 
 ## The Complex Balancing Act of Modern Constellation Management
@@ -65,17 +66,17 @@ Some parts of the world pose significant challenges in terms of data collection 
 
 With an increasing number of satellites in orbit, concerns related to orbital congestion and interference have risen. When communication breaks down, and coordination with other constellations fails, the ability of satellite constellations to effectively monitor, control, and supply operators with data also breaks down. Across industries, this spells bad news.
 
-While the challenges of satellite constellation management today are varied, nuanced, and complex, there ***is*** a better, more effective route to take towards [dealing with these obstacles](https://www.cognitivespace.com/blog/2023/role-of-ai-and-ml-in-satellite-constellation-management/).
+While the challenges of satellite constellation management today are varied, nuanced, and complex, there **_is_** a better, more effective route to take towards [dealing with these obstacles](https://www.cognitivespace.com/blog/2023/role-of-ai-and-ml-in-satellite-constellation-management/).
 
-## Introducing CNTIENT-Optimize
+## Introducing CNTIENT.Optimize
 
 Conventional constellation management operations are no longer viable: legacy management systems are too slow, too operator-focused, and are unable to scale with the needs of modern satellite constellations.
 
-[CNTIENT-Optimize](https://www.cognitivespace.com/products) is a single scalable system that optimizes and orchestrates satellite constellation operations, by allowing satellite operators to tailor remote sensing mission planning, scale without disruption, and automate payload scheduling, link management, business management, and prioritized tasking.
+[CNTIENT.Optimize](https://www.cognitivespace.com/products) is a single scalable system that optimizes and orchestrates satellite constellation operations, by allowing satellite operators to tailor remote sensing mission planning, scale without disruption, and automate payload scheduling, link management, business management, and prioritized tasking.
 
-With CNTIENT-Optimize, downtime for satellite constellations is significantly reduced , increasing the yield from both spacecraft and overall system performance.
+With CNTIENT.Optimize, downtime for satellite constellations is significantly reduced , increasing the yield from both spacecraft and overall system performance.
 
-Operations become meticulously aligned with overarching business objectives. [CNTIENT-Optimize](https://www.cognitivespace.com/products) allows for the most effective, streamlined satellite constellation management through maximized capacity, de-risking of technical challenges, acceleration of schedules, and improved asset integration, all enabling small constellations to gain a competitive advantage.
+Operations become meticulously aligned with overarching business objectives. [CNTIENT.Optimize](https://www.cognitivespace.com/products) allows for the most effective, streamlined satellite constellation management through maximized capacity, de-risking of technical challenges, acceleration of schedules, and improved asset integration, all enabling small constellations to gain a competitive advantage.
 
 **Contact us to automate your satellite operations.**
 

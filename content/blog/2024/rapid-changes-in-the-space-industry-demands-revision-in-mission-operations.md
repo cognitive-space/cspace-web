@@ -10,6 +10,7 @@ layout: single
 author: Guy de Carufel, CEO & Founder
 url: /blog/rapid-changes-in-space-industry
 ---
+
 # Rapid Changes in the Space Industry Demands Revision in Mission Operations
 
 Why the "Mission Control Center" Concept is Deprecated
@@ -42,9 +43,9 @@ Expanding constellations means more decisions to make — compounded with more v
 
 Imagine you're responsible for managing a satellite, and today you have just one pass. This pass could involve various tasks, from data collection to communication services. But there's a catch — you have 30 customer orders waiting in the queue, each with its own set of specifications and priorities.
 
-* Some of these orders require urgent completion by tomorrow.
-* Others have more flexible timelines, extending into next week or beyond.
-* The orders also vary in terms of their monetary value – from a mere hundred dollars to substantial contracts worth millions.
+- Some of these orders require urgent completion by tomorrow.
+- Others have more flexible timelines, extending into next week or beyond.
+- The orders also vary in terms of their monetary value – from a mere hundred dollars to substantial contracts worth millions.
 
 Now, the real challenge arises: **With all of these variables, how can you make a quick decision today that not only maximizes your return on investment but also sets you up for success tomorrow?**
 
@@ -52,21 +53,21 @@ Well, the decision you make today represents not just an action but also carries
 
 With modern multi-spacecraft constellations, the number of those decisions made - and not made - grows exponentially; operators must execute and update multiple pass plans every single day.
 
-## Redefining Mission Operations with CNTIENT-Optimize
+## Redefining Mission Operations with CNTIENT.Optimize
 
 Over the past few years, we’ve seen a lot of progress in mission operations, with more advanced satellite communication technologies providing higher throughputs and lower latency.
 
 Additionally, mission control centers have been able to automate more tasks in-house by adopting AI tools. **Internal automation is great for a few satellites, but there’s much more opportunity out there.** While the space industry recognizes that automation is not only valuable but necessary to scale — every successful constellation has invested heavily in automating their operations (such as [Planet](https://www.planet.com/), [Spire](https://spire.com/) and [BlackSky](https://www.blacksky.com/)).
 
-The traditional mission control center is gradually deprecating across the industry in favor of managing satellites from any remote workstation. [CNTIENT-Optimize](https://www.cognitivespace.com/products) offers dynamic, automated satellite management​ to help operators handle large constellations, onboard new satellites quickly and optimize complex prioritizations. With CNTIENT-Optimize, the operations team can unlock AI-powered decision-making to handle highly complex and dynamic order stacks, evolving satellite fleets and demanding mission requirements.
+The traditional mission control center is gradually deprecating across the industry in favor of managing satellites from any remote workstation. [CNTIENT.Optimize](https://www.cognitivespace.com/products) offers dynamic, automated satellite management​ to help operators handle large constellations, onboard new satellites quickly and optimize complex prioritizations. With CNTIENT.Optimize, the operations team can unlock AI-powered decision-making to handle highly complex and dynamic order stacks, evolving satellite fleets and demanding mission requirements.
 
 ### Lower OpEx
 
-CNTIENT-Optimize empowers satellite operators and government agencies to unlock the true revenue and operational potential of their satellite constellations through the power of automation. With more automation, operators are freed up to focus on more innovative tasks while decreasing overall operational costs.
+CNTIENT.Optimize empowers satellite operators and government agencies to unlock the true revenue and operational potential of their satellite constellations through the power of automation. With more automation, operators are freed up to focus on more innovative tasks while decreasing overall operational costs.
 
 ### Accelerate Response Time
 
-Optimize moves human operators into supervisory roles – significantly lowering cognitive burden and drastically improving response time and system yield. The real-time machine intelligence powered by CNTIENT-Optimize automatically adapts to dynamically changing priorities for unmatched responsiveness.
+Optimize moves human operators into supervisory roles – significantly lowering cognitive burden and drastically improving response time and system yield. The real-time machine intelligence powered by CNTIENT.Optimize automatically adapts to dynamically changing priorities for unmatched responsiveness.
 
 ### New Paradigm
 

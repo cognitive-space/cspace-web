@@ -1,17 +1,14 @@
 ---
-title: CNTIENT-Optmize for AI-Powered Mission Planning
+title: CNTIENT.Optmize for AI-Powered Mission Planning
 date: 2020-07-06T00:00:00+08:00
 draft: false
 bodyclass: page-template page-template-layout page-template-layout-php page page-id-226
-Description: CNTIENT-Optimize unlocks AI-powered decision-making for highly complex & dynamic order stacks, evolving satellite fleets, & demanding mission requirements.
+Description: CNTIENT.Optimize unlocks AI-powered decision-making for highly complex & dynamic order stacks, evolving satellite fleets, & demanding mission requirements.
 ---
 
 <article id="post-226" class="post-226 page type-page status-publish hentry">
 
-
   <div class="entry-content">
-
-
 
 <!-- banner start  -->
 <section id="iframe_block_7f916b32f8f994e51a1e166c0550bda0" class="york-hero-banner product-only product-banner" >
@@ -22,7 +19,7 @@ Description: CNTIENT-Optimize unlocks AI-powered decision-making for highly comp
       class="row h-100 align-items-center text-center justify-content-center"
     >
       <div class="col-lg-10 col-md-12 col-sm-12">
-                  <h3 class="wow">MEET CNTIENT-OPTIMIZE™</h3>
+                  <h3 class="wow">MEET CNTIENT.OPTIMIZE™</h3>
                         <h2 class="wow">
           Automate Decision Making at Scale to Meet Mission Objectives        </h2>
                         <p class="wow mb-3">
@@ -35,10 +32,6 @@ planning, mission operations, and ground pass optimization at scale.        </p>
 </section>
 <!-- banner end  -->
 
-
-
-
-
 <!-- AI Mission start  -->
 <section id="iframe_block_b7057e6b8f89cf08cac61c29e3c80f5c" class=" ai-mission"  >
   <div class="container">
@@ -47,7 +40,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                 <h3 class="wow">
           AI-Powered Mission Planning        </h3>
                         <p class="wow">
-          With CNTIENT-Optimize, unlock AI-powered decision making to handle highly complex and dynamic order stacks, evolving satellite fleets, and demanding mission requirements. We move human operators into supervisory roles – significantly lowering cognitive burden and drastically improving response time and system yield.        </p>
+          With CNTIENT.Optimize, unlock AI-powered decision making to handle highly complex and dynamic order stacks, evolving satellite fleets, and demanding mission requirements. We move human operators into supervisory roles – significantly lowering cognitive burden and drastically improving response time and system yield.        </p>
               </div>
                   <div class="col-md-4">
         <img decoding="async" src="/wp-content/uploads/2023/09/AI-mission.svg" class="wow w-100" alt="" title="AI-mission" />
@@ -56,8 +49,6 @@ planning, mission operations, and ground pass optimization at scale.        </p>
   </div>
 </section>
 <!-- AI Mission end  -->
-
-
 
 <!-- A Modern Solution section start -->
 <section id="iframe_block_d294a55ef6b6adab9476489f066db079" class=" modern-solution new-frontier modern-solution"  >
@@ -98,7 +89,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                         <h3 class="small-title wow">
               A MODERN SOLUTION FOR MODERN NEEDS            </h3>
                                     <p class="paragraph mb_38 wow">
-              Traditional satellite management operations are no longer viable: they are too slow, too operator-focused, and can’t scale with your constellation. CNTIENT-Optimize offers dynamic, automated satellite management​ to handle large constellations, onboard new satellites quickly, and optimize complex prioritizations.            </p>
+              Traditional satellite management operations are no longer viable: they are too slow, too operator-focused, and can’t scale with your constellation. CNTIENT.Optimize offers dynamic, automated satellite management​ to handle large constellations, onboard new satellites quickly, and optimize complex prioritizations.            </p>
                         <ul class="listing wow">
                             <li><span>AI-based automated and scalable task scheduler against dynamic priorities and constraints, from single satellites to mega constellations</span></li>
                             <li><span>Rich and intuitive web user interface for order management and automated scheduler</span></li>
@@ -116,13 +107,10 @@ planning, mission operations, and ground pass optimization at scale.        </p>
   </section>
     <!-- A Modern Solution section end -->
 
-
-
-
 <!-- new frontier section start -->
 <section id="iframe_block_5771a6589d03c1d3e2c966e42863d8c9" class=" new-frontier Difference" >
   <div class="container">
-          <h2 class="title">THE CNTIENT-OPTIMIZE DIFFERENCE</h2>
+          <h2 class="title">THE CNTIENT.OPTIMIZE DIFFERENCE</h2>
     <div class="row justify-content-center num-counter">
                         <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="single-counter wow">
@@ -181,13 +169,12 @@ planning, mission operations, and ground pass optimization at scale.        </p>
 </section>
 <!-- new frontier section end -->
 
-
-<!-- CNTIENT-Optimize section start  -->
+<!-- CNTIENT.Optimize section start  -->
 <section id="iframe_block_e5bac200ce9b3c726e4a86f1f51884cf" class=" optimize"  >
     <img decoding="async" src="/wp-content/uploads/2023/09/vector2-1.svg" class="vector1" alt="" title="vector2 (1)" />
     <div class="container">
         <h2 class="title wow">
-      HOW DOES CNTIENT-OPTIMIZE AUTOMATE OPERATIONS?    </h2>
+      HOW DOES CNTIENT.OPTIMIZE AUTOMATE OPERATIONS?    </h2>
             <img decoding="async" src="/wp-content/uploads/2023/09/vector1.svg" class="vector2" alt="" title="vector1" />
                       <div class="row left">
         <div class="col-md-6">
@@ -223,7 +210,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
                   <img decoding="async" src="/wp-content/uploads/2023/09/2-2.png" alt="" title="2 (2)" />
                 </div>
                                                 <h3>
-                  CNTIENT-Optimize considers, on a per-spacecraft and entire fleet basis, all system resources, data collection requirements, and delivery needs.                </h3>
+                  CNTIENT.Optimize considers, on a per-spacecraft and entire fleet basis, all system resources, data collection requirements, and delivery needs.                </h3>
                             </div>
           </div>
           <div class="col-md-6">
@@ -299,7 +286,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
         </div>
                   </div>
 </section>
-<!-- CNTIENT-Optimize section end  -->
+<!-- CNTIENT.Optimize section end  -->
 
 <!-- new frontier section start -->
 <section id="iframe_block_368562933f9d6d9cc3f2f5292e12d638" class=" s-automation new-frontier satellite"  >
@@ -354,11 +341,7 @@ planning, mission operations, and ground pass optimization at scale.        </p>
 </section>
 <!-- cta section end -->
 
-
-
-
 <p></p>
   </div><!-- .entry-content -->
 
   </article><!-- #post-226 -->
-

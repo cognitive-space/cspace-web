@@ -7,7 +7,6 @@ bodyclass: home page-template page-template-layout page-template-layout-php page
 
 <article id="post-13" class="post-13 page type-page status-publish hentry">
 
-
   <div class="entry-content">
 
 <!-- hero section start -->
@@ -32,11 +31,6 @@ bodyclass: home page-template page-template-layout page-template-layout-php page
         <img decoding="async" src="wp-content/uploads/2023/10/Spacecraft.png" class="heroSide-img" alt="" />
   </section>
 <!-- hero section end -->
-
-
-
-
-
 
 <!-- partners section start-->
 <section class="partners">
@@ -144,8 +138,6 @@ operational objectives and environmental conditions.            </p>
 </section>
 <!-- Status section end-->
 
-
-
 <!-- new approach section start -->
 <section id="iframe_block_adb6ca1dea110796c3137f312139cf09" class=" approach"  >
   <div class="container">
@@ -163,8 +155,6 @@ operational objectives and environmental conditions.            </p>
   </div>
 </section>
 <!-- new approach section End -->
-
-
 
 <!-- new frontier section start -->
 <section id="iframe_block_7e42afe65867b5529fd646285ff0a86d" class=" new-frontier" >
@@ -192,11 +182,11 @@ meeting the ever-growing and stringent market needs.        </p>
             <div class="align-center">
               <div class="frontier-content">
                                 <h3 class="small-title wow">
-                  Meet Mission Objectives with CNTIENT-Optimize™                </h3>
+                  Meet Mission Objectives with CNTIENT.Optimize™                </h3>
                                                 <p class="paragraph mb_38 wow">
-                  CNTIENT-Optimize is a robust, AI-powered satellite fleet management software service for real-world data collection. Fully integrated and scalable to your goals, Optimize offers a path forward to achieving your mission.</p>
+                  CNTIENT.Optimize is a robust, AI-powered satellite fleet management software service for real-world data collection. Fully integrated and scalable to your goals, Optimize offers a path forward to achieving your mission.</p>
                                 <ul class="listing wow">
-                                    <li><span>In real-world operations, CNTIENT-Optimize has shown <b>time savings of 87% per operator per week.</b></span></li>
+                                    <li><span>In real-world operations, CNTIENT.Optimize has shown <b>time savings of 87% per operator per week.</b></span></li>
                                     <li><span>In a collection scenario with a high-density target region, AI-driven collection plans <b>outperformed a traditional heuristics greedy algorithm by 4x.</b></span></li>
                                   </ul>
                                                 <a href="https://www.cognitivespace.com/product/" class="primary_btn wow">Learn More about CNTIENT®</a>
@@ -237,9 +227,6 @@ meeting the ever-growing and stringent market needs.        </p>
         <img decoding="async" src="/wp-content/uploads/2023/09/polygen-2.svg" class="polygen-2" alt="/wp-content/uploads/2023/09/polygen-2.svg" title="polygen-2" />
   </section>
 <!-- new frontier section end -->
-
-
-
 
 <!-- why cognitive sectoin start -->
 <section id="iframe_block_8e1bc7416a5f14d8dff5fc2224eb178f" class=" why-cognitive" >
@@ -314,8 +301,6 @@ meeting the ever-growing and stringent market needs.        </p>
 </section>
 <!-- why cognitive sectoin end -->
 
-
-
 <!-- who we work start -->
 <section class="who-we-work">
   <div class="container">
@@ -369,7 +354,7 @@ of satellite constellations throughout their operational lifetimes.          </p
                 <img decoding="async" src="wp-content/uploads/2023/09/121101-F-JZ008-240.jpeg" alt="" />
               </div>
               <div class="content-box">
-                <p><span style="font-weight: 400;">&#8220;As we continue to launch more and more satellites into space there is a need to develop alternative space to ground links to help offload the overly subscribed AF Satellite Control Network. Tools like CNTIENT-Optimize are looking to make this possible by interfacing with a number commercial ground networks giving the end user a selection of space to ground links to utilize.&#8221;</span></p>
+                <p><span style="font-weight: 400;">&#8220;As we continue to launch more and more satellites into space there is a need to develop alternative space to ground links to help offload the overly subscribed AF Satellite Control Network. Tools like CNTIENT.Optimize are looking to make this possible by interfacing with a number commercial ground networks giving the end user a selection of space to ground links to utilize.&#8221;</span></p>
                 <h6>Michael Lopez</h6>
                 <span class="position">Technical Program Manager at Air Force Research Lab</span>
               </div>
