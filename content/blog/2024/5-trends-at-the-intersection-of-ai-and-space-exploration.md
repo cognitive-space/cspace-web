@@ -1,7 +1,7 @@
 ---
 title: 5 Trends at the Intersection of AI and Space Exploration
 date: 2024-07-10T10:00:00-05:00
-draft: true
+draft: false
 description: >-
   Key trends in AI and space exploration, highlighting explainability, AI as a
   co-pilot, data availability,  ongoing innovations, and Cognitive Space's
