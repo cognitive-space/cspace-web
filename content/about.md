@@ -230,9 +230,9 @@ Description: Cognitive Space provides automated satellite operations that enable
       <div class="col-md-12">
         <h2 class="title">MEET THE COGNITIVE SPACE LEADERSHIP TEAM</h2>
       </div>
-      <div class="col-xl-10 offset-xl-1">
+      <div class="col-xl-8 offset-xl-2">
         <div class="row justify-content-center">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-5 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Guy-de-Carufel.jpeg" class="w-100" alt="" />
               <div class="member-detail">
@@ -242,7 +242,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <!-- <div class="col-lg-4 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Hanna-Steplewska.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -251,8 +251,8 @@ Description: Cognitive Space provides automated satellite operations that enable
                 <p>Hanna, an Earth observation scientist, fuses her 25+ years of international aerospace business experience with neuroscience-based team coaching to unlock new opportunities in the space economy.</p>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
+          </div> -->
+          <div class="col-lg-5 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Dax_4954-scaled-1.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -284,7 +284,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div> -->
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-5 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Jeff-Edwards.jpg" class="w-100" alt="" />
               <div class="member-detail">
@@ -294,7 +294,7 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-5 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Deke-Young.jpg" class="w-100" alt="" />
               <div class="member-detail">
