@@ -141,7 +141,7 @@ throughout their operational lifetimes.          </p>
                     <img decoding="async" src="/wp-content/uploads/2023/09/logo-9-1-1.png" alt="" class="" />
                   </div>
                                   <div class="owl-item">
-                    <img decoding="async" src="/wp-content/uploads/2023/09/logo-7.png" alt="" class="" />
+                    <img decoding="async" src="/wp-content/uploads/2023/09/L3Harris_logo_reg_rgb.png" alt="" class="" />
                   </div>
                                   <div class="owl-item">
                     <img decoding="async" src="/wp-content/uploads/2023/09/logo-5.png" alt="" class="high-brightness" />
