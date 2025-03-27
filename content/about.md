@@ -7,7 +7,6 @@ Description: Cognitive Space provides automated satellite operations that enable
 ---
 
 <article id="post-356" class="post-356 page type-page status-publish hentry">
-
   <div class="entry-content">
 
 <!-- banner start  -->
@@ -141,6 +140,13 @@ Description: Cognitive Space provides automated satellite operations that enable
                   </div>
                                   </div>
               </div>
+                                                  <div class="item">
+                <div class="logo-box">
+                                    <div class="single-logo">
+                    <img decoding="async" src="/wp-content/uploads/2023/09/BELIEVERS-15.png" alt="" title="BELIEVERS-15" />
+                  </div>
+                                  </div>
+              </div>
                                   </div>
                   </div>
       </div>
@@ -242,16 +248,6 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-          <!-- <div class="col-lg-4 col-md-6">
-            <div class="single-member">
-              <img decoding="async" src="/wp-content/uploads/2023/09/Hanna-Steplewska.jpg" class="w-100" alt="" />
-              <div class="member-detail">
-                <h3>HANNA STEPLEWSKA</h3>
-                <span class="position"> COO &#038; President </span>
-                <p>Hanna, an Earth observation scientist, fuses her 25+ years of international aerospace business experience with neuroscience-based team coaching to unlock new opportunities in the space economy.</p>
-              </div>
-            </div>
-          </div> -->
           <div class="col-lg-5 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Dax_4954-scaled-1.jpg" class="w-100" alt="" />
@@ -262,28 +258,6 @@ Description: Cognitive Space provides automated satellite operations that enable
               </div>
             </div>
           </div>
-          <!-- <div class="col-lg-4 col-md-6">
-            <div class="single-member">
-              <img decoding="async" src="/wp-content/uploads/2023/09/Paul-Bailey.jpg" class="w-100" alt="" />
-              <div class="member-detail">
-                <h3>PAUL BAILEY</h3>
-                <span class="position"> Chief Architect </span>
-                <p>Paul is an award-winning and passionate web developer who is building and leading the next generation of cutting-edge web technologies.</p>
-              </div>
-            </div>
-          </div> -->
-          <!-- <div class="col-lg-4 col-md-6">
-            <div class="single-member">
-              <img decoding="async" src="/img/georgek.jpg" class="w-100" alt="" />
-              <div class="member-detail">
-                <h3>GEORGE KIRBY</h3>
-                <span class="position">VP of Business Development</span>
-                <p>
-                  Whether its renovating a historical home or building a sales pipeline with new digital products, George is an expert at his craft. With former service in the Marines, George also brings a passion and drive to push the Cognitive Space business to the next level.
-                </p>
-              </div>
-            </div>
-          </div> -->
           <div class="col-lg-5 col-md-6">
             <div class="single-member">
               <img decoding="async" src="/wp-content/uploads/2023/09/Jeff-Edwards.jpg" class="w-100" alt="" />
@@ -291,16 +265,6 @@ Description: Cognitive Space provides automated satellite operations that enable
                 <h3>JEFF EDWARDS</h3>
                 <span class="position"> VP of Engineering </span>
                 <p>Jeff, a proven senior leader in enterprise SaaS software, has a passion for building engineering organizations and culture to promote innovation and empowerment while delivering a great customer experience.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-5 col-md-6">
-            <div class="single-member">
-              <img decoding="async" src="/wp-content/uploads/2023/09/Deke-Young.jpg" class="w-100" alt="" />
-              <div class="member-detail">
-                <h3>DEKE YOUNG</h3>
-                <span class="position"> VP of Product Management </span>
-                <p>Deke, with 20+ years in satellite &#038; aerial Product Management, excels at solving customer &#038; market problems that create value for people, processes and technology across commercial and government use cases.</p>
               </div>
             </div>
           </div>
