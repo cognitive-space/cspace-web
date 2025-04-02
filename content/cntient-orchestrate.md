@@ -343,17 +343,6 @@ aliases:
               </ul>
             </div>
           </div>
-      <div class="col-md-12">
-                <h2 class="title wow">
-                  ENHANCE YOUR NEW SATELLITE TASKING OPTIONS
-                </h2>
-                        <img
-          src="/corch/stack-orch.png"
-          class="mt-4 wow w-100"
-          alt=""
-          title="Segment-stack"
-        />
-              </div>
     </div>
   </div>
 </section>
