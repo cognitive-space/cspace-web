@@ -143,7 +143,7 @@ Description: Cognitive Space provides automated satellite operations that enable
                                                   <div class="item">
                 <div class="logo-box">
                                     <div class="single-logo">
-                    <img decoding="async" src="/wp-content/uploads/2023/09/BELIEVERS-11.png" alt="" title="BELIEVERS-15" />
+                    <img decoding="async" src="/wp-content/uploads/2023/09/BELIEVERS-15.png" alt="" title="BELIEVERS-15" />
                   </div>
                                   </div>
               </div>
