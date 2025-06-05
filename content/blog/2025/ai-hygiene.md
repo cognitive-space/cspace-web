@@ -132,7 +132,7 @@ There is clear, present danger involved in using these tools uncritically. This 
 
 Sources:
 
-- Sponheim, Caleb (2024) — Sycophancy in Generative-AI Chatbots  https://www.nngroup.com/articles/sycophancy-generative-ai-chatbots/
+- **Sponheim, Caleb (2024)** — Sycophancy in Generative-AI Chatbots  https://www.nngroup.com/articles/sycophancy-generative-ai-chatbots/
 - **Sparrow, Liu, Wegner (2011)** – _Google Effects on Memory_. DOI: [10.1126/science.1207745](https://doi.org/10.1126/science.1207745)
 - **Perez et al. (2022)** – _Discovering Language Model Behaviors with Model-Written Evaluations_. [arXiv:2212.09251](https://arxiv.org/abs/2212.09251)
 - **Dahmani & Bohbot (2020)** – _NeuroImage study on GPS use and hippocampal volume_
