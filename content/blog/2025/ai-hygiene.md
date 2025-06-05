@@ -4,7 +4,7 @@ date: 2025-06-05T10:00:00-05:00
 draft: false
 description: |
     How To Disrupt Parasocial Relationships and Cognitive Bias with LLMs
-image: /uploads/image-2.png
+image: /uploads/lyssa.png
 type: blog
 layout: single
 author: Josh Fink, Devops and Backend Engineer
