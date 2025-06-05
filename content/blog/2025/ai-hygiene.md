@@ -119,6 +119,6 @@ Sources:
 - **Dahmani & Bohbot (2020)** – *NeuroImage study on GPS use and hippocampal volume*
 - **Reeves & Nass (1996)** – *The Media Equation*
 - **Lim (2025)** – *DeBiasMe: Metacognitive AIED Interventions*. [arXiv:2504.16770](https://arxiv.org/abs/2504.16770)
-- **Gerlich (2025)** – AI Tools In Society. [MDPI Behavioral Sciences](https://www.mdpi.com/2075-4698/15/1/6?utm_source=chatgpt.com)
+- **Gerlich (2025)** – AI Tools In Society. [MDPI Behavioral Sciences](https://www.mdpi.com/2075-4698/15/1/6)
 
 *Disclaimer: The content of this article reflects my original arguments and authorship. ChatGPT-4o was used as an editorial tool to review structure, refine phrasing, and assist in identifying relevant literature. Human reviewers also provided valuable feedback and editorial support.*
