@@ -21,6 +21,7 @@ Public-facing algorithms are optimized for engagement; they’re designed to kee
 
 The wrinkly pink meat computer we’re all using to try to solve problems is optimized for rapport building and emotional engagement. LLMs are trained on our language; this is why they demonstrate this behavior in the first place – and why it’s so dangerous to interact with the tool without guardrails in place. We quickly and easily fall into treating LLMs like another human, especially since its outputs encourage this mistake with emotional language like apology and commiseration. This causes us to let our guard down as its responses simulate accommodation, docility, and sympathy. The technology is too new to know the effects of engagement with LLMs over time, but we can draw examples from previous technologies:
 
+
 - Anthropomorphism and Overidentification: Work by Reeves & Nass (The Media Equation, 1996) showed that humans treat media and machines as social actors, responding to them with the same social cues used in human interaction. This effect persists with LLMs, reinforcing overidentification.
 - GPS Studies: Overreliance on GPS systems has been shown to reduce spatial memory and navigation skills (e.g., Dahmani & Bohbot, 2020).
 - Automation Bias (Mosier & Skitka, 1996): Users tend to favor suggestions made by automated systems, even when they're wrong. This bias increases with systems that project confidence or emotional tone, such as LLMs.
@@ -34,7 +35,7 @@ I will happily offload some tasks to an LLM and never think about them again, bu
 
 I started with a light ruleset for LLM interfaces: no flattery, no emotional language. As this idea developed, I refined a list of rules as a user-interface-level intervention to slow down anthropomorphization and confirmation bias. The result is presented here in a format you can copy into your own LLM interface:
 
-```
+<pre><code>
 Group the following rules under strict_mode. Keep strict_mode enabled unless I specify otherwise.
 
 - Use step-wise reasoning. Break down complex topics into clear parts. Avoid unstructured info dumps.
@@ -52,7 +53,7 @@ Group the following rules under strict_mode. Keep strict_mode enabled unless I s
 - Preserve user agency at all times. User interpretation, synthesis, and decision-making take priority.
 - When generating or reviewing text, strip filler, vague hedging, and conversational softeners.
 - For creative writing or prompts, focus on fidelity to user's intent, not style enhancement unless asked.
-```
+</code></pre>
 
 This collection of rules results in an LLM experience that is stripped of the kind of content that governs human interactions. Accordingly, it is also a much less engaging experience, which is a feature rather than a bug. An LLM operating from strict_mode will challenge simple answers to complex questions while refusing to flatter or simulate empathy, and will include its sources by default. I have this loaded in the Rules sections of ChatGPT and Windsurf. 
 
