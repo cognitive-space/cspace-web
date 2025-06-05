@@ -2,7 +2,8 @@
 title: AI Hygiene - How To Disrupt Parasocial Relationships and Cognitive Bias with LLMs
 date: 2025-06-05T10:00:00-05:00
 draft: false
-description: 
+description: |
+    How To Disrupt Parasocial Relationships and Cognitive Bias with LLMs
 image: /uploads/image-2.png
 type: blog
 layout: single
@@ -57,25 +58,46 @@ This collection of rules results in an LLM experience that is stripped of the ki
 
 The following are examples of outputs from ChatGPT 4o without strict_mode, contrasted with strict_mode responses from the same model:
 
-| Without Strict Mode | With Strict Mode |
-|---------------------|------------------|
-| ![default](/uploads/helpful_default.png)           | ![strict](/uploads/helpful_strict.png)          |
+<table>
+<tr>
+<td>
+![default](/uploads/helpful_default.png)
+</td>
+<td>
+![strict_mode](/uploads/helpful_strict.png)
+</td>
+</tr>
+</table>
 
 Default GPT4o (I logged out and used the free version) comes across as eager to please and excited. By contrast, a GPT4o operating from strict_mode presents itself honestly; it can’t like anything. 
 
 For this next response, I simply prompted “I wrote this” and pasted in the content of this paper:
 
-| Without Strict Mode | With Strict Mode |
-|---------------------|------------------|
-| ![default](/uploads/review_default.png)           | ![strict](/uploads/review_strict.png)          |
+<table>
+<tr>
+<td>
+![default](/uploads/review_default.png)
+</td>
+<td>
+![strict_mode](/uploads/review_strict.png)
+</td>
+</tr>
+</table>
 
 The strict_mode response targets the article itself and breaks it down into sections like “Thesis and Framing”, “Use of Sources”, etc. Its review is focused on the writing, it is  less concerned with pleasing me, and provides ideas for refinement inline with positive critique. Default GPT4o uses emotional language to flatter me. It will tell me how articulate and salient my points are, which *of course feels good*. Its suggestions for changes come at the end, and are even then hedged with positivity. The strict_mode response is unequivocally more useful, it just comes at the cost of ego validation.
 
 Technical responses tend to have higher signal density, but still include emotional language that encourages anthropomorphic tendencies, resulting in over-trust of the machine.
 
-| Without Strict Mode | Without Strict Mode |
-|---------------------|------------------|
-| ![default](/uploads/technical_1.png)           | ![strict](/uploads/technical_2.png)          |
+<table>
+<tr>
+<td>
+![default](/uploads/technical_1.png)
+</td>
+<td>
+![default](/uploads/technical_2.png)
+</td>
+</tr>
+</table>
 
 Now that we have guardrails in place on the model itself, we’ve mitigated some of the risk of anthropomorphism as it becomes easier to stay aware that we’re speaking to a machine. We’re still not safe though; we need to adopt intentional habits in our workflow to help prevent over-reliance and manage cognitive offloading.
 
