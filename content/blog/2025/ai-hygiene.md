@@ -61,10 +61,16 @@ The following are examples of outputs from ChatGPT 4o without strict_mode, contr
 <table>
 <tr>
 <td>
+<figure>
 <img src="/uploads/helpful_default.png" alt="default">
+<figcaption>Default GPT4o</figcaption>
+</figure>
 </td>
 <td>
+<figure>
 <img src="/uploads/helpful_strict.png" alt="strict_mode">
+<figcaption>Strict Mode GPT4o</figcaption>
+</figure>
 </td>
 </tr>
 </table>
@@ -76,10 +82,16 @@ For this next response, I simply prompted “I wrote this” and pasted in the c
 <table>
 <tr>
 <td>
+<figure>
 <img src="/uploads/review_default.png" alt="default">
+<figcaption>Default GPT4o</figcaption>
+</figure>
 </td>
 <td>
+<figure>
 <img src="/uploads/review_strict.png" alt="strict_mode">
+<figcaption>Strict Mode GPT4o</figcaption>
+</figure>
 </td>
 </tr>
 </table>
@@ -91,10 +103,16 @@ Technical responses tend to have higher signal density, but still include emotio
 <table>
 <tr>
 <td>
+<figure>
 <img src="/uploads/technical_1.png" alt="default">
+<figcaption>Default GPT4o</figcaption>
+</figure>
 </td>
 <td>
+<figure>
 <img src="/uploads/technical_2.png" alt="default">
+<figcaption>Default GPT4o</figcaption>
+</figure>
 </td>
 </tr>
 </table>
