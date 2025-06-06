@@ -99,7 +99,7 @@ For this next response, I simply prompted “I wrote this” and pasted in the c
 
 The strict_mode response targets the article itself and breaks it down into sections like “Thesis and Framing”, “Use of Sources”, etc. Its review is focused on the writing, it is  less concerned with pleasing me, and provides ideas for refinement inline with positive critique. Default GPT4o uses emotional language to flatter me. It will tell me how articulate and salient my points are, which _of course feels good_. Its suggestions for changes come at the end, and are even then hedged with positivity. The strict_mode response is unequivocally more useful, it just comes at the cost of ego validation.
 
-These final two examples are not a comparison. Both responses are from default GPT4o, included to illustrate that while technical responses tend to have higher signal density, they still include emotional language that encourages anthropomorphic tendencies, resulting in over-trust of the machine.
+These final two examples are not a comparison, both responses are from default GPT4o. They are included to illustrate that while technical responses tend to have higher signal density, they still include emotional language that encourages anthropomorphic tendencies, resulting in over-trust of the machine.
 
 <table>
 <tr>
