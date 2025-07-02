@@ -12,7 +12,7 @@ url: /blog/ai-hygiene
 ---
 # AI Hygiene - How To Disrupt Parasocial Relationships and Cognitive Bias with LLMs
 
-### I want to keep my brain
+### I don't want to keep my brain
 There really isn’t a choice: either integrate your workflow with AI or get outpaced quickly by people who do. Engineers and other professionals are identifying which tasks can and should be safely offloaded to LLMs, which should be retained by humans, and how to best architect our individual workflows to strike this balance. This is a common topic of discussion at Cognitive Space as we compare and test different AI tools and workflows, and consider the impact it has on our cognitive experiences.
 
 As I read examples of AI interactions both within Cognitive Space and other internet locations, a trend sticks out: we’re routinely treating AI as a thinking, feeling being with whom it’s possible to have an emotional relationship. This has a material effect. We consume unnecessary resources with pleasantries, as Sam Altman [has discussed openly](https://nypost.com/2025/04/21/business/saying-please-and-thank-you-to-chatgpt-costs-tens-of-millions-of-dollars-openai/). The real danger though, I believe, is the psychological and cognitive cost of a parasocial relationship with AI tools (another Altman [topic](https://www.businessinsider.com/sam-altman-openai-senate-ai-children-chatbot-safety-friend-2025-5)).
