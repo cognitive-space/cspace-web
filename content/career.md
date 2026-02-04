@@ -24,38 +24,25 @@ Description: Discover exciting career opportunities at Cognitive Space, where yo
       <div class="col-lg-12">
         <div class="align-center">
           <div class="hero-content">
-                          <h1 class="wow">JOIN THE COGNITIVE SPACE TEAM</h1>
-                        <p data-cursor="-opaque" class="wow">
-              Want to start the next phase in your career by joining a market-shaping company? Join a passionate team of engineers, developers, data scientists, and market movers in orchestrating the evolution of space.            </p>
+              <h1 class="wow">JOIN THE COGNITIVE SPACE TEAM</h1>
+              <p data-cursor="-opaque" class="wow">
+              Want to start the next phase in your career by joining a market-shaping company? Join a passionate team of engineers, developers, data scientists, and market movers in orchestrating the evolution of space.</p>
+                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">DEVSECOPS ENGINEER - CLEARANCE</h1>
+                <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC</p>
+                <p style="font-size: 18px; font-weight: 600; margin-bottom: 60px; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/115822-devsecops-engineer-clearance">SEE MORE</a></p>
+                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">AI ENGINEER AGENTIC WORKFLOWS - CLEARANCE</h1>
+                <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC; Houston, TX - hybrid</p>
+                <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/116638-ai-engineer-agentic-workflows">SEE MORE</a></p>
+                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">TECHNICAL PROGRAM MANAGER - CLEARANCE</h1>
+                <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC; Huntsville, AL; Colorado Springs, CO</p>
+                <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/116639-technical-program-manager">SEE MORE</a></p>
               <p style="font-size: 1em;">(For employee verifications, please <a style="color: #fff;" href="mailto:hr@cognitivespace.com">click here to contact our HR Department</a>)</p>
-                      </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </section>
 <!-- hero section end -->
-
-
-
-
-<!-- carrer list start -->
-<section id="iframe_block_4c05452ac7675d7d18e9835dda897226" class="york-hero-banner carrer-list" >
-    <div class="parent-box">
-        <div class="row">
-            <div class="list-parent col-lg-8 col-md-8 wow">
-                <div class="list-inner">
-                    <div class="wrapRight">
-                      <!-- <strong>
-                        There are currently no open positions. Please check back often for updates and to view all open positions.
-                      </strong> -->
-                      <script type="text/javascript" src="https://app.jazz.co/widgets/basic/create/cognitivespace" charset="utf-8"></script>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- carrer list end -->  </div><!-- .entry-content -->
 
   </article><!-- #post-333 -->
