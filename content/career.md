@@ -33,9 +33,6 @@ Description: Discover exciting career opportunities at Cognitive Space, where yo
                 <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">AI ENGINEER AGENTIC WORKFLOWS - CLEARANCE</h1>
                 <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC; Houston, TX - hybrid</p>
                 <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/116638-ai-engineer-agentic-workflows">SEE MORE</a></p>
-                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">TECHNICAL PROGRAM MANAGER - CLEARANCE</h1>
-                <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC; Huntsville, AL; Colorado Springs, CO</p>
-                <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/116639-technical-program-manager">SEE MORE</a></p>
               <p style="font-size: 1em;">(For employee verifications, please <a style="color: #fff;" href="mailto:hr@cognitivespace.com">click here to contact our HR Department</a>)</p>
           </div>
         </div>
