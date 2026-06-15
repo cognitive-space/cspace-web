@@ -27,15 +27,12 @@ Description: Discover exciting career opportunities at Cognitive Space, where yo
               <h1 class="wow">JOIN THE COGNITIVE SPACE TEAM</h1>
               <p data-cursor="-opaque" class="wow">
               Want to start the next phase in your career by joining a market-shaping company? Join a passionate team of engineers, developers, data scientists, and market movers in orchestrating the evolution of space.</p>
-                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">DEVSECOPS ENGINEER - CLEARANCE</h1>
-                <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC</p>
-                <p style="font-size: 18px; font-weight: 600; margin-bottom: 60px; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/115822-devsecops-engineer-clearance">SEE MORE</a></p>
                 <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">AI ENGINEER AGENTIC WORKFLOWS - CLEARANCE</h1>
                 <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC; Houston, TX - hybrid</p>
                 <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/116638-ai-engineer-agentic-workflows">SEE MORE</a></p>
-                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">AI/ML ENGINEER MODEL DEVELOPMENT - CLEARANCE</h1>
+                <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">FULL STACK ENGINEER</h1>
                 <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Houston, TX - hybrid</p>
-                <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/119284-ai-ml-engineer-model-development-secret-clearance">SEE MORE</a></p>
+                <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/121599-full-stack-engineer">SEE MORE</a></p>
               <p style="font-size: 1em;">(For employee verifications, please <a style="color: #fff;" href="mailto:hr@cognitivespace.com">click here to contact our HR Department</a>)</p>
           </div>
         </div>
