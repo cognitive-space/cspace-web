@@ -22,20 +22,44 @@ Description: Connect with us at Cognitive Space. Let’s start a conversation to
                         <p class="paragraph wow">
           Your curiosity fuels our passion, and we’re committed to fostering a dialogue that drives progress and propels us toward the next era of satellite constellation operations. Let’s start a conversation today.        </p>
               </div>
-            <div class="col-md-12">
-        <div class="contact-form-box" style="padding: 0;">
-          <div class="row">
-
-<div class="wpcf7 no-js" id="wpcf7-f469-p470-o1" style="min-height: 790px;">
-  <script type="text/javascript" src="https://form.jotform.com/jsform/232975829232061"></script>
-</div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </section>
 <!-- banner end  -->
+
+<!-- contact us section start -->
+<section class="cta newsletter" style="background: #000;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-12 text-center">
+        <h2 class="title">CONTACT US</h2>
+        <form id="contact-form" action="https://formspree.io/f/mbdvabwd" method="POST">
+          <div class="newsletter-box">
+            <p><span class="wpcf7-form-control-wrap" data-name="name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Name *" value="" type="text" name="name" required /></span>
+            </p>
+          </div>
+          <div class="newsletter-box">
+            <p><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email Address *" value="" type="email" name="email" required /></span>
+            </p>
+          </div>
+          <div class="newsletter-box">
+            <p><span class="wpcf7-form-control-wrap" data-name="company"><input size="40" class="wpcf7-form-control wpcf7-text form-control" aria-invalid="false" placeholder="Company" value="" type="text" name="company" /></span>
+            </p>
+          </div>
+          <div class="newsletter-box">
+            <p><span class="wpcf7-form-control-wrap" data-name="inquiry"><textarea class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Inquiry *" name="inquiry" rows="5" style="resize: vertical; min-height: 120px;" required></textarea></span>
+            </p>
+          </div>
+          <div class="submit-btn-wrapper" style="margin-top: 20px;">
+            <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit" style="position: relative; display: inline-block; padding: 13px 40px;" />
+          </div>
+          <p id="form-status" style="margin-top: 24px; color: #ffffff;"></p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- contact us section end -->
 
 <!-- who we work start -->
 <section class="who-we-work">
