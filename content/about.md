@@ -240,11 +240,12 @@ Description: Cognitive Space provides automated satellite operations that enable
         <div class="row justify-content-center">
           <div class="col-lg-5 col-md-6">
             <div class="single-member">
-              <img decoding="async" src="/wp-content/uploads/2023/09/Guy-de-Carufel.jpeg" class="w-100" alt="" />
+              <img decoding="async" src="/wp-content/uploads/2026/craig-gavin.jpg" class="w-100" alt="" />
               <div class="member-detail">
-                <h3>GUY DE CARUFEL</h3>
-                <span class="position"> CEO &#038; Founder </span>
-                <p>Guy, mission driven leader and award winning NASA engineer who worked on human rated spacecraft software, rocket guidance and nanosatellites. Glider pilot and top 100 astronaut candidate.</p>
+                <h3>CRAIG GAVIN</h3>
+                <span class="position"> CEO </span>
+                <!-- <p>View Craig's LinkedIn profile</p> -->
+                <p style="font-weight: 600; color: #fff"><a style="color: #fff;" href="https://www.linkedin.com/in/craig-gavin/" target="_blank" rel="noopener noreferrer">View Craig's LinkedIn profile</a></p>
               </div>
             </div>
           </div>
