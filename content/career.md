@@ -30,6 +30,9 @@ Description: Discover exciting career opportunities at Cognitive Space, where yo
               <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">FULL STACK ENGINEER</h1>
               <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Remote</p>
               <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/124621-full-stack-engineer">SEE MORE</a></p>
+              <h1 class="wow" style="font-size: 26px; margin-bottom: 0px">RF SIGINT TECHNICAL ANALYST - CLEARANCE</h1>
+              <p class="wow" style="opacity: 0.7; margin-bottom: 10px">Washington, DC area</p>
+              <p style="font-size: 18px; font-weight: 600; color: #fff"><a style="color: #fff;" href="https://app.trinethire.com/companies/238259-cognitive-space-inc/jobs/124719-rf-sigint-technical-analyst-clearance">SEE MORE</a></p>
               <p style="font-size: 1em;">(For employee verifications, please <a style="color: #fff;" href="mailto:hr@cognitivespace.com">click here to contact our HR Department</a>)</p>
           </div>
         </div>
