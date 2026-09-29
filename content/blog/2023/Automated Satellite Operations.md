@@ -8,6 +8,9 @@ type: blog
 layout: single
 author: Guy de Carufel, CEO & Founder
 url: /blog/automated-satellite-operations
+aliases:
+- /blog/2023/automated-satellite-operations/
+- /blog/2023/10-06-auto-satellite-operations/
 ---
 
 ## How Automation Is Changing The Way We Manage Satellites In Space
